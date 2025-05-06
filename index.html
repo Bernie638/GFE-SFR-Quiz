@@ -12,7 +12,7 @@
 <body class="bg-gray-100 p-6">
   <div id="root" class="max-w-4xl mx-auto bg-white shadow p-6 rounded"></div>
 
- <script type="text/babel" data-presets="es2015,react">
+ <script type="text/babel" data-presets="env,react">
     const { useState, useEffect } = React;
 
     function App() {
@@ -167,7 +167,7 @@
           <div className="mb-4 whitespace-pre-wrap indent-4">
             {q.stem}
           </div>
-          {q.images.map(src => (
+         {q.images.map(src => (
   <img
     key={src}
     src={`images/${src}`}
@@ -175,6 +175,7 @@
     className="mb-4 max-w-full"
   />
 ))}
+
 
           <div className="grid grid-cols-1 gap-2">
             {q.choices.map(c => (
