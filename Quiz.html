@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Custom NRC Quiz</title>
+  <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-6">
+  <div id="root" class="max-w-4xl mx-auto bg-white shadow p-6 rounded"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+
+    function App() {
+      const [indexData, setIndexData] = useState(null);
+      const [topics, setTopics] = useState([]);
+      const [selectedTopics, setSelectedTopics] = useState([]);
+      const [numQuestions, setNumQuestions] = useState(50);
+      const [allQuestions, setAllQuestions] = useState([]);
+      const [quiz, setQuiz] = useState(null);
+      const [currentIdx, setCurrentIdx] = useState(0);
+      const [answers, setAnswers] = useState({});
+
+      // Load index.json
+      useEffect(() => {
+        fetch('topics_json/index.json')
+          .then(r => r.json())
+          .then(data => {
+            setIndexData(data);
+            const keys = Object.keys(data);
+            setTopics(keys);
+            setSelectedTopics(keys);
+          });
+      }, []);
+
+      // Handler for topic checkboxes
+      function toggleTopic(t) {
+        setSelectedTopics(prev =>
+          prev.includes(t) ? prev.filter(x => x !== t) : [...prev, t]
+        );
+      }
+
+      function selectAll() { setSelectedTopics([...topics]); }
+      function deselectAll() { setSelectedTopics([]); }
+      function setFifty() { setNumQuestions(50); }
+      function setAll() {
+        const total = selectedTopics.reduce(
+          (sum, t) => sum + indexData[t].num_questions, 0
+        );
+        setNumQuestions(total);
+      }
+
+      // Generate quiz
+      async function generateQuiz() {
+        // load JSON for each topic
+        const dataArr = await Promise.all(
+          selectedTopics.map(t => fetch(`topics_json/${indexData[t].file}`).then(r=>r.json()))
+        );
+        // distribute
+        let remaining = numQuestions;
+        const buckets = {};
+        const perTopicBase = Math.floor(numQuestions / dataArr.length);
+        dataArr.forEach((td, i) => {
+          const avail = td.questions.length;
+          buckets[td.topic] = Math.min(avail, perTopicBase);
+          remaining -= buckets[td.topic];
+        });
+        // fill extras
+        let idx = 0;
+        while (remaining > 0) {
+          const td = dataArr[idx % dataArr.length];
+          if (buckets[td.topic] < td.questions.length) {
+            buckets[td.topic]++;
+            remaining--;
+          }
+          idx++;
+        }
+        // pick questions
+        let selected = [];
+        dataArr.forEach(td => {
+          const qs = [...td.questions];
+          // random shuffle of indices
+          for (let i = qs.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [qs[i], qs[j]] = [qs[j], qs[i]];
+          }
+          selected = selected.concat(qs.slice(0, buckets[td.topic]));
+        });
+        // final shuffle
+        for (let i = selected.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [selected[i], selected[j]] = [selected[j], selected[i]];
+        }
+        setAllQuestions(selected);
+        setQuiz(selected);
+        setCurrentIdx(0);
+        setAnswers({});
+      }
+
+      if (!indexData) return <div>Loading topics...</div>;
+      if (!quiz) {
+        // Config screen
+        return (
+          <div>
+            <h1 className="text-2xl mb-4 font-bold">Configure Quiz</h1>
+            <div className="mb-4">
+              <h2 className="font-semibold">Select Topics</h2>
+              <button onClick={selectAll} className="text-sm text-blue-600 mr-2">Select All</button>
+              <button onClick={deselectAll} className="text-sm text-blue-600">Deselect All</button>
+              <div className="grid grid-cols-3 gap-2 mt-2">
+                {topics.map(t => (
+                  <label key={t} className="flex items-center">
+                    <input
+                      type="checkbox"
+                      checked={selectedTopics.includes(t)}
+                      onChange={() => toggleTopic(t)}
+                      className="mr-2"
+                    />
+                    {t}
+                  </label>
+                ))}
+              </div>
+            </div>
+            <div className="mb-4">
+              <h2 className="font-semibold">Number of Questions</h2>
+              <button onClick={setFifty} className="text-sm text-blue-600 mr-2">50</button>
+              <button onClick={setAll} className="text-sm text-blue-600">All</button>
+              <div className="mt-2">
+                <input
+                  type="number"
+                  value={numQuestions}
+                  onChange={e => setNumQuestions(Number(e.target.value))}
+                  className="border p-1 w-20"
+                />
+              </div>
+            </div>
+            <button
+              onClick={generateQuiz}
+              className="bg-blue-600 text-white px-4 py-2 rounded"
+            >Start Quiz</button>
+          </div>
+        );
+      }
+
+      // Quiz Screen
+      const q = quiz[currentIdx];
+      const hasAnswered = answers[currentIdx] != null;
+      const isCorrect = hasAnswered && answers[currentIdx] === q.answer;
+
+      function handleAnswer(choice) {
+        if (hasAnswered) return;
+        setAnswers({ ...answers, [currentIdx]: choice });
+      }
+      function next() {
+        if (currentIdx < quiz.length - 1) setCurrentIdx(currentIdx + 1);
+        else alert(`Quiz complete! Score: ${
+          Object.values(answers).filter(c=>c===quiz[0].answer).length}\`);
+      }
+
+      return (
+        <div>
+          <h1 className="text-2xl mb-4 font-bold">Question {currentIdx+1} / {quiz.length}</h1>
+          <div className="mb-4 whitespace-pre-wrap indent-4">
+            {q.stem}
+          </div>
+          {q.images.map(src => (
+            <img key={src} src={`images/${src}`} alt="Figure" className="mb-4 max-w-full" />
+          ))}
+          <div className="grid grid-cols-1 gap-2">
+            {q.choices.map(c => (
+              <button
+                key={c}
+                onClick={() => handleAnswer(c.charAt(0))}
+                className={`p-2 border rounded text-left ${
+                  hasAnswered
+                    ? (c.charAt(0) === q.answer
+                        ? 'border-green-500'
+                        : (answers[currentIdx] === c.charAt(0)
+                           ? 'border-red-500'
+                           : 'opacity-50'))
+                    : 'border-gray-300 hover:bg-gray-100'
+                }`}
+              >{c}</button>
+            ))}
+          </div>
+          <div className="mt-4">
+            <button
+              onClick={next}
+              disabled={!hasAnswered}
+              className="bg-blue-600 text-white px-4 py-2 rounded disabled:opacity-50"
+            >{currentIdx < quiz.length - 1 ? 'Next' : 'Finish'}</button>
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.render(<App />, document.getElementById('root'));
+  </script>
+</body>
+</html>
