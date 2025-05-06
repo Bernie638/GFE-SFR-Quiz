@@ -168,8 +168,14 @@
             {q.stem}
           </div>
           {q.images.map(src => (
-            <img key={src} src={`images/${src}`} alt="Figure" className="mb-4 max-w-full" />
-          ))}
+  <img
+    key={src}
+    src={`images/${src}`}
+    alt="Figure"
+    className="mb-4 max-w-full"
+  />
+))}
+
           <div className="grid grid-cols-1 gap-2">
             {q.choices.map(c => (
               <button
