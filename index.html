@@ -6,15 +6,13 @@
   <title>Custom NRC Quiz</title>
   <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
-  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100 p-6">
   <div id="root" class="max-w-4xl mx-auto bg-white shadow p-6 rounded"></div>
 
- <script
-  type="text/babel"
-  data-presets="env,react"
+  <script type="text/babel">
     const { useState, useEffect } = React;
 
     function App() {
@@ -159,8 +157,7 @@
       }
       function next() {
         if (currentIdx < quiz.length - 1) setCurrentIdx(currentIdx + 1);
-        else alert(`Quiz complete! Score: ${
-          Object.values(answers).filter(c=>c===quiz[0].answer).length}\`);
+        else alert(`Quiz complete! Score: ${Object.values(answers).filter(c => c === quiz[0].answer).length}`);
       }
 
       return (
@@ -169,16 +166,9 @@
           <div className="mb-4 whitespace-pre-wrap indent-4">
             {q.stem}
           </div>
-         {q.images.map(src => (
-  <img
-    key={src}
-    src={`images/${src}`}
-    alt="Figure"
-    className="mb-4 max-w-full"
-  />
-))}
-
-
+          {q.images.map(src => (
+            <img key={src} src={`images/${src}`} alt="Figure" className="mb-4 max-w-full" />
+          ))}
           <div className="grid grid-cols-1 gap-2">
             {q.choices.map(c => (
               <button
