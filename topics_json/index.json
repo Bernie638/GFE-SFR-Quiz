@@ -1,0 +1,90 @@
+{
+  "Valves": {
+    "file": "Valves.json",
+    "num_questions": 102
+  },
+  "Sensors and Detectors": {
+    "file": "Sensors_and_Detectors.json",
+    "num_questions": 171
+  },
+  "Controllers and Positioners": {
+    "file": "Controllers_and_Positioners.json",
+    "num_questions": 113
+  },
+  "Pumps": {
+    "file": "Pumps.json",
+    "num_questions": 175
+  },
+  "Motors and Generators": {
+    "file": "Motors_and_Generators.json",
+    "num_questions": 106
+  },
+  "Heat Exchangers": {
+    "file": "Heat_Exchangers.json",
+    "num_questions": 61
+  },
+  "Demins and Ion Exchange": {
+    "file": "Demins_and_Ion_Exchange.json",
+    "num_questions": 37
+  },
+  "Bkrs, Rlys, and Disconnects": {
+    "file": "Bkrs__Rlys__and_Disconnects.json",
+    "num_questions": 120
+  },
+  "Neutrons": {
+    "file": "Neutrons.json",
+    "num_questions": 20
+  },
+  "Neutron Life Cycle": {
+    "file": "Neutron_Life_Cycle.json",
+    "num_questions": 32
+  },
+  "Reactor Kinetics and Neutron Sources": {
+    "file": "Reactor_Kinetics_and_Neutron_Sources.json",
+    "num_questions": 66
+  },
+  "Reactivity Coefficients": {
+    "file": "Reactivity_Coefficients.json",
+    "num_questions": 23
+  },
+  "Control Rods": {
+    "file": "Control_Rods.json",
+    "num_questions": 36
+  },
+  "Reactor Operational Physics": {
+    "file": "Reactor_Operational_Physics.json",
+    "num_questions": 97
+  },
+  "Thermodynamic Units and Properties": {
+    "file": "Thermodynamic_Units_and_Properties.json",
+    "num_questions": 24
+  },
+  "Basic Energy Concepts": {
+    "file": "Basic_Energy_Concepts.json",
+    "num_questions": 2
+  },
+  "Thermodynamic Processes": {
+    "file": "Thermodynamic_Processes.json",
+    "num_questions": 2
+  },
+  "Thermodynamic Cycles": {
+    "file": "Thermodynamic_Cycles.json",
+    "num_questions": 3
+  },
+  "Fluid Statics and Dynamics": {
+    "file": "Fluid_Statics_and_Dynamics.json",
+    "num_questions": 73
+  },
+  "Heat Transfer": {
+    "file": "Heat_Transfer.json",
+    "num_questions": 12
+  },
+  "Thermal Hydraulics": {
+    "file": "Thermal_Hydraulics.json",
+    "num_questions": 28
+  },
+  "Core Thermal Limits": {
+    "file": "Core_Thermal_Limits.json",
+    "num_questions": 19
+  }
+}
