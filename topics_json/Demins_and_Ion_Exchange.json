@@ -1,0 +1,486 @@
+{
+  "topic": "Demins and Ion Exchange",
+  "questions": [
+    {
+      "qid": 1728,
+      "page": 544,
+      "stem": "A demineralizer is being used in a water purification system. How will the accumulation of\nsuspended solids in the demineralizer affect the performance of the demineralizer?",
+      "choices": [
+        "A. The rate of resin depletion will increase.",
+        "B. The flow rate of water through the demineralizer will increase.",
+        "C. The differential pressure across the demineralizer will decrease.",
+        "D. The rate of unwanted ion removal from the system will decrease."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1729,
+      "page": 544,
+      "stem": "A sudden increase in the conductivity of water at the outlet of a demineralizer may result from...",
+      "choices": [
+        "A. increased demineralizer flow rate.",
+        "B. reduced demineralizer inlet temperature.",
+        "C. increased demineralizer effluent pressure.",
+        "D. reduced demineralizer inlet conductivity."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1730,
+      "page": 545,
+      "stem": "Which one of the following conditions can lead to channeling in an operating demineralizer?",
+      "choices": [
+        "A. Suspended solids forming a mat on the surface layer of the resin bed.",
+        "B. A sudden 10°F decrease in the temperature of the influent to the demineralizer.",
+        "C. Exhaustion of the resin bed due to high conductivity of the demineralizer influent.",
+        "D. Operation of the demineralizer with influent flow rate at 10 percent below design flow rate."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1731,
+      "page": 545,
+      "stem": "High differential pressure in a demineralizer could be caused by all of the following except...",
+      "choices": [
+        "A. crud buildup.",
+        "B. high flow rate.",
+        "C. resin exhaustion.",
+        "D. resin overheating."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1732,
+      "page": 546,
+      "stem": "Which one of the following is an indication of resin exhaustion in a demineralizer?",
+      "choices": [
+        "A. An increase in suspended solids in the effluent.",
+        "B. A decrease in the flow rate through the demineralizer.",
+        "C. An increase in the conductivity of the effluent.",
+        "D. An increase in the differential pressure across the demineralizer."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1733,
+      "page": 546,
+      "stem": "The decontamination factor for ionic impurities of a demineralizer can be expressed as...",
+      "choices": [
+        "A. Inlet Conductivity minus Outlet Conductivity.",
+        "B. Outlet Conductivity minus Inlet Conductivity.",
+        "C. Inlet Conductivity divided by Outlet Conductivity.",
+        "D. Outlet Conductivity divided by Inlet Conductivity."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1734,
+      "page": 547,
+      "stem": "The ion exchange efficiency of a condensate demineralizer is determined by performing a\ncalculation using the...",
+      "choices": [
+        "A. demineralizer inlet and outlet pH.",
+        "B. demineralizer inlet and outlet conductivity.",
+        "C. change in pH at the outlet of the demineralizer over a period of time.",
+        "D. change in conductivity at the outlet of the demineralizer over a period of time."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1735,
+      "page": 547,
+      "stem": "Which one of the following is an indication that a demineralizer resin has become exhausted?",
+      "choices": [
+        "A. Decreased demineralizer process water flow rate.",
+        "B. Decreased demineralizer influent conductivity.",
+        "C. Decreased demineralizer differential pressure.",
+        "D. Decreased demineralizer decontamination factor."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1736,
+      "page": 548,
+      "stem": "The ion exchange efficiency of a condensate demineralizer can be calculated using the values for\ndemineralizer inlet and outlet...",
+      "choices": [
+        "A. conductivity.",
+        "B. pH.",
+        "C. N-16 radioactivity.",
+        "D. pressure."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1737,
+      "page": 548,
+      "stem": "To determine the decontamination factor for ionic impurities of a demineralizer, the two parameters\nthat must be monitored are inlet and outlet...",
+      "choices": [
+        "A. pH.",
+        "B. conductivity.",
+        "C. suspended solids.",
+        "D. pressure."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1738,
+      "page": 549,
+      "stem": "What percentage of impurities is being removed from the water passing through an ion exchanger if\nthe ion exchanger has a decontamination factor of 25?",
+      "choices": [
+        "A. 99 percent",
+        "B. 96 percent",
+        "C. 88 percent",
+        "D. 75 percent"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1739,
+      "page": 549,
+      "stem": "What percentage of ionic impurities is being removed from the water passing through an ion\nexchanger if the ion exchanger has a decontamination factor of 50?",
+      "choices": [
+        "A. 98 percent",
+        "B. 96 percent",
+        "C. 75 percent",
+        "D. 50 percent"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1740,
+      "page": 550,
+      "stem": "The decontamination factor of a condensate demineralizer has just been determined to be 50, based\non conductivity measurements.\nIf condensate having a conductivity of 20 μmho/cm is flowing into this demineralizer, which one of\nthe following is the conductivity of the condensate at the outlet of the demineralizer?",
+      "choices": [
+        "A. 0.4 μmho/cm",
+        "B. 1.0 μmho/cm",
+        "C. 4.0 μmho/cm",
+        "D. 10.0 μmho/cm"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1741,
+      "page": 550,
+      "stem": "The decontamination factor of a condensate demineralizer has just been determined to be 10, based\non conductivity measurements.\nIf condensate having a conductivity of 20 μmho/cm is flowing into this demineralizer, which one of\nthe following is the conductivity of the condensate at the outlet of the demineralizer?",
+      "choices": [
+        "A. 0.5 μmho/cm",
+        "B. 2.0 μmho/cm",
+        "C. 5.0 μmho/cm",
+        "D. 10.0 μmho/cm"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1742,
+      "page": 551,
+      "stem": "The decontamination factor of a demineralizer has just been determined to be 5.0, based on\nconductivity measurements.\nIf fluid having a conductivity of 20 μmho/cm is flowing into this demineralizer, which one of the\nfollowing is the conductivity of the fluid at the outlet of the demineralizer?",
+      "choices": [
+        "A. 0.4 μmho/cm",
+        "B. 4.0 μmho/cm",
+        "C. 10.0 μmho/cm",
+        "D. 100.0 μmho/cm"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1743,
+      "page": 551,
+      "stem": "What percentage of ionic impurities is being removed from the water passing through an ion\nexchanger if the ion exchanger has a decontamination factor of 1.0?",
+      "choices": [
+        "A. 100 percent",
+        "B. 99 percent",
+        "C. 1 percent",
+        "D. 0 percent"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1744,
+      "page": 552,
+      "stem": "Two indications of channeling through an operating demineralizer are a __________-than-normal\ndemineralizer differential pressure and a __________-than-normal decontamination factor for ionic\nimpurities.",
+      "choices": [
+        "A. higher; lower",
+        "B. higher; higher",
+        "C. lower; lower",
+        "D. lower; higher"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1745,
+      "page": 552,
+      "stem": "Mixed-bed demineralizer 1A was removed from service after it became saturated with sodium (Na+)\nions while processing condensate with 10 times the normal sodium concentration. Alternate mixed-\nbed demineralizer 1B has restored the condensate sodium concentration to normal. Demineralizer\n1A has not been processed in any way since being removed from service.\nIf demineralizer 1A is returned to service to replace demineralizer 1B, the downstream condensate\nsystem sodium concentration will...",
+      "choices": [
+        "A. remain the same, because demineralizer 1A can no longer remove any anions from the",
+        "B. remain the same, because demineralizer 1A can no longer remove any cations from the",
+        "C. increase, only due to the water volume contained in demineralizer 1A mixing with the",
+        "D. increase, due to both the water volume contained in demineralizer 1A mixing with the"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1746,
+      "page": 553,
+      "stem": "If water containing negatively charged ionic impurities passes through a mixed-bed ion exchanger,\nthe negatively charged ionic impurities will be removed by the __________ exchange resin, with the\ncorresponding release of __________ ions into the water.",
+      "choices": [
+        "A. anion; negative",
+        "B. anion; positive",
+        "C. cation; negative",
+        "D. cation; positive"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1747,
+      "page": 553,
+      "stem": "How does demineralizer differential pressure indicate the condition of a demineralizer resin bed?",
+      "choices": [
+        "A. Low differential pressure indicates flow blockage in the demineralizer.",
+        "B. Low differential pressure indicates that the demineralizer resin bed is exhausted.",
+        "C. High differential pressure indicates flow blockage in the demineralizer.",
+        "D. High differential pressure indicates that the demineralizer resin bed is exhausted."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1748,
+      "page": 554,
+      "stem": "A lower-than-expected differential pressure across a mixed-bed demineralizer is an indication of...",
+      "choices": [
+        "A. depletion of the resin.",
+        "B. channeling through the resin bed.",
+        "C. improper resin regeneration.",
+        "D. a decrease in inlet conductivity."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1749,
+      "page": 554,
+      "stem": "As the operating time of a demineralizer resin bed increases, the differential pressure across the\nbed...",
+      "choices": [
+        "A. increases due to depletion of the resin ion exchange sites.",
+        "B. increases due to trapping of suspended solids.",
+        "C. decreases due to gradual resin breakdown.",
+        "D. decreases due to erosion of the resin ion exchange sites."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1750,
+      "page": 555,
+      "stem": "Which one of the following will cause a large pressure drop across a demineralizer that is in\noperation?",
+      "choices": [
+        "A. Channeling of flow through the demineralizer.",
+        "B. Decrease in flow rate through the demineralizer.",
+        "C. Accumulation of suspended solids filtered by the resin beads.",
+        "D. Improper demineralizer venting after resin fill."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1751,
+      "page": 555,
+      "stem": "An indication that a demineralizer resin bed is clogged is a...",
+      "choices": [
+        "A. large pressure drop across the bed.",
+        "B. high flow rate through the bed.",
+        "C. temperature rise in the effluent.",
+        "D. large conductivity increase across the bed."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1752,
+      "page": 556,
+      "stem": "A higher-than-expected differential pressure across an operating demineralizer can be caused by...",
+      "choices": [
+        "A. exhaustion of the cation exchange resin.",
+        "B. channeling through the resin bed.",
+        "C. insufficient resin backwash.",
+        "D. decreased demineralizer inlet conductivity."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1753,
+      "page": 557,
+      "stem": "A fluid demineralizer differential pressure (D/P) gauge indicates 6.0 psid at 50% flow rate. Which\none of the following combinations of flow rate and demineralizer D/P observed at various power\nlevels over the next few days indicates an increase in the accumulation of insoluble corrosion\nproducts in the demineralizer?\nFluid Demineralizer\nFlow Rate D/P (psid)",
+      "choices": [
+        "A. 100% 23.5",
+        "B. 75% 16.5",
+        "C. 60% 8.5",
+        "D. 25% 1.5"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1754,
+      "page": 557,
+      "stem": "A fresh demineralizer that continuously processes water with a high concentration of suspended\nsolids will first develop an increase in the...",
+      "choices": [
+        "A. conductivity at the demineralizer outlet.",
+        "B. decontamination factor of the demineralizer.",
+        "C. differential pressure across the demineralizer.",
+        "D. pH at the demineralizer outlet."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1755,
+      "page": 558,
+      "stem": "A fluid demineralizer differential pressure (D/P) gauge indicates 4.0 psid at 50% flow rate. Which\none of the following combinations of flow and demineralizer D/P observed at various power levels\nover the next few days indicates an increase in the accumulation of insoluble corrosion products in\nthe demineralizer?\nFluid Demineralizer\nFlow Rate D/P (psid)",
+      "choices": [
+        "A. 25% 0.9",
+        "B. 60% 6.3",
+        "C. 75% 8.7",
+        "D. 100% 15.6"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1756,
+      "page": 559,
+      "stem": "A fluid demineralizer differential pressure (D/P) gauge indicates 4.0 psid at 50% flow rate. Over\nthe next two days plant power changes have caused fluid flow rate to vary between 25% and 100%.\nWhich one of the following combinations of flow and demineralizer D/P, observed during the power\nchanges, indicates an increase in the accumulation of insoluble corrosion products in the\ndemineralizer?\nFluid Demineralizer\nFlow Rate D/P (psid)",
+      "choices": [
+        "A. 100% 15.0",
+        "B. 75% 9.0",
+        "C. 40% 3.0",
+        "D. 25% 1.0"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1757,
+      "page": 560,
+      "stem": "Which one of the following describes a possible cause and effect associated with a lower-than-\nnormal differential pressure across a demineralizer during otherwise normal system flow conditions?",
+      "choices": [
+        "A. The resin has developed low resistance flow paths, which can decrease the decontamination",
+        "B. The resin has developed low resistance flow paths, which can increase the decontamination",
+        "C. The resin has become compacted, which can reduce the flow rate through the demineralizer and",
+        "D. The resin has become compacted, which can reduce the flow rate through the demineralizer and"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1758,
+      "page": 560,
+      "stem": "Which one of the following, if processed through a demineralizer, will rapidly reduce the\neffectiveness of the demineralizer?",
+      "choices": [
+        "A. Oily water",
+        "B. Condensate",
+        "C. Makeup water",
+        "D. Radioactive water"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1759,
+      "page": 561,
+      "stem": "What is the reason for bypassing a demineralizer due to high temperature?",
+      "choices": [
+        "A. Resins expand and restrict flow through the demineralizer.",
+        "B. Resins decompose and restrict flow through the demineralizer.",
+        "C. Resins decompose and create preferential flowpaths through the demineralizer.",
+        "D. Resins decompose and release resin particles into the flow."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1760,
+      "page": 562,
+      "stem": "When a mixed-bed demineralizer resin is exhausted, the resin should be replaced or regenerated\nbecause...",
+      "choices": [
+        "A. ions previously removed by the resin will be released into solution.",
+        "B. the resin will fracture and particles may escape through the retention screens.",
+        "C. particles previously filtered out of solution will be released.",
+        "D. the resin will physically bond together, thereby causing flow blockage."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1761,
+      "page": 562,
+      "stem": "A demineralizer that has been exposed to excessively __________ should be bypassed because the\nresin beads may release previously removed ions.",
+      "choices": [
+        "A. high flow rate",
+        "B. low flow rate",
+        "C. high temperature",
+        "D. low temperature"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1762,
+      "page": 563,
+      "stem": "A result of proper demineralizer operation on water with ionic impurities is that the exiting water\nwill always have a...",
+      "choices": [
+        "A. higher pH.",
+        "B. lower pH.",
+        "C. higher conductivity.",
+        "D. lower conductivity."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1763,
+      "page": 563,
+      "stem": "Demineralizer 1A was removed from service after it became saturated with chloride ions while\nprocessing fluid with 10 times the normal chloride concentration. Replacement demineralizer 1B\nhas restored the chloride concentration to normal. Demineralizer 1A has not been processed in any\nway since being removed from service.\nIf demineralizer 1A is returned to service to replace demineralizer 1B, the downstream fluid system\nchloride concentration will...",
+      "choices": [
+        "A. remain the same, because demineralizer 1A resin has already been conditioned by previous",
+        "B. remain the same, because demineralizer 1A resin can no longer remove chloride ions from the",
+        "C. increase, only due to the volume of water contained in demineralizer 1A mixing with the",
+        "D. increase, due to both the volume of water contained in demineralizer 1A mixing with the"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1764,
+      "page": 564,
+      "stem": "A demineralizer should be removed from service if the demineralizer differential pressure is\n__________ than the established limit, or if the demineralizer decontamination factor is __________\nthan the established limit.",
+      "choices": [
+        "A. less; less",
+        "B. less; greater",
+        "C. greater; less",
+        "D. greater; greater"
+      ],
+      "answer": "C",
+      "images": []
+    }
+  ]
+}

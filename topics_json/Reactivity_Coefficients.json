@@ -1,0 +1,316 @@
+{
+  "topic": "Reactivity Coefficients",
+  "questions": [
+    {
+      "qid": 2003,
+      "page": 725,
+      "stem": "Which one of the following contains two isotopes that add significant negative reactivity when fuel\ntemperature increases near the end of a fuel cycle?",
+      "choices": [
+        "A. U-235 and Pu-239",
+        "B. U-235 and Pu-240",
+        "C. U-238 and Pu-239",
+        "D. U-238 and Pu-240"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2004,
+      "page": 725,
+      "stem": "Why does the fuel temperature coefficient becomes less negative at higher fuel temperatures?",
+      "choices": [
+        "A. As reactor power increases, the rate of increase in the fuel temperature diminishes.",
+        "B. Neutrons penetrate deeper into the fuel, resulting in an increase in the fast fission factor.",
+        "C. The amount of self-shielding increases, resulting in less neutron absorption by the inner fuel.",
+        "D. The amount of Doppler broadening per degree change in fuel temperature diminishes."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2005,
+      "page": 726,
+      "stem": "Which one of the following will cause the Doppler power coefficient to become more negative?",
+      "choices": [
+        "A. Increased clad creep",
+        "B. Increased pellet swell",
+        "C. Lower power level",
+        "D. Higher coolant poison concentration"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2006,
+      "page": 726,
+      "stem": "A reactor is operating continuously at steady-state 100 percent power. As core burnup increases,\nthe fuel temperature coefficient becomes __________ negative because the average fuel temperature\n__________.",
+      "choices": [
+        "A. more; decreases",
+        "B. more; increases",
+        "C. less; decreases",
+        "D. less; increases"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2007,
+      "page": 727,
+      "stem": "Which one of the following pairs of nuclides is responsible for most of the negative reactivity\nassociated with a fuel temperature increase near the end of a fuel cycle?",
+      "choices": [
+        "A. U-235 and Pu-239",
+        "B. U-235 and Pu-240",
+        "C. U-238 and Pu-239",
+        "D. U-238 and Pu-240"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2008,
+      "page": 727,
+      "stem": "Compared to operation at a low power level, the fuel temperature coefficient of reactivity at a high\npower level is __________ negative due to __________.",
+      "choices": [
+        "A. less; improved pellet-to-clad heat transfer",
+        "B. more; buildup of fission product poisons",
+        "C. less; higher fuel temperature",
+        "D. more; increased neutron flux"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2009,
+      "page": 728,
+      "stem": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 (see figure below).\nIf fuel temperature increases, the area under the curve will __________; and negative reactivity will\nbe added to the core because __________.",
+      "choices": [
+        "A. increase; neutrons of a wider range of energies will be absorbed by U-238",
+        "B. increase; more neutrons will be absorbed by U-238 at the resonance neutron energy",
+        "C. remain the same; neutrons of a wider range of energies will be absorbed by U-238",
+        "D. remain the same; more neutrons will be absorbed by U-238 at the resonance neutron energy"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p728_1.png"
+      ]
+    },
+    {
+      "qid": 2010,
+      "page": 729,
+      "stem": "Which one of the following describes how the magnitude of the fuel temperature coefficient of\nreactivity is affected as the core ages?",
+      "choices": [
+        "A. It remains essentially constant over core life.",
+        "B. It becomes more negative, due to the buildup of Pu-240.",
+        "C. It becomes less negative, due to the decrease in RCS boron concentration.",
+        "D. It becomes more negative initially due to buildup of fissions product poisons, then less negative"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2011,
+      "page": 729,
+      "stem": "In a comparison of the fuel temperature coefficient at the beginning and end of a fuel cycle, the fuel\ntemperature coefficient is more negative at the __________ of a fuel cycle because __________.\n(Assume the same initial fuel temperature throughout the fuel cycle.)",
+      "choices": [
+        "A. end; more Pu-240 is in the core",
+        "B. end; more fission product poisons are in the core",
+        "C. beginning; more U-238 is in the core",
+        "D. beginning; less fission product poisons are in the core"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2012,
+      "page": 730,
+      "stem": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a 6.7\nelectron volt (eV) resonance peak in U-238 for a reactor operating at 50 percent power (see figure\nbelow).\nIf fuel temperature decreases by 50°F, the area under the curve will __________; and positive\nreactivity will be added to the core because __________.",
+      "choices": [
+        "A. decrease; fewer neutrons will be absorbed by U-238 overall",
+        "B. decrease; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy",
+        "C. remain the same; fewer neutrons will be absorbed by U-238 overall",
+        "D. remain the same; fewer 6.7 eV neutrons will be absorbed by U-238 at the resonance energy"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p730_1.png"
+      ]
+    },
+    {
+      "qid": 2013,
+      "page": 731,
+      "stem": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 in a reactor operating at 80 percent power (see figure below).\nIf reactor power is increased to 100 percent, the height of the curve will __________; and the area\nunder the curve will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; remain the same",
+        "C. decrease; decrease",
+        "D. decrease; remain the same"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p731_1.png"
+      ]
+    },
+    {
+      "qid": 2014,
+      "page": 732,
+      "stem": "Refer to the drawing of a curve showing the neutron absorption characteristics of a typical U-238\nnucleus at a resonance neutron energy (see figure below). The associated reactor is currently\noperating at steady-state 80 percent power.\nDuring a subsequent reactor power decrease to 70 percent, the curve will become __________; and\nthe percentage of the core neutron population lost to resonance capture by U-238 will __________.",
+      "choices": [
+        "A. shorter and broader; increase",
+        "B. shorter and broader; decrease",
+        "C. taller and more narrow; increase",
+        "D. taller and more narrow; decrease"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p732_1.png"
+      ]
+    },
+    {
+      "qid": 2015,
+      "page": 733,
+      "stem": "Refer to the curve of microscopic cross section for absorption versus neutron energy for a resonance\npeak in U-238 in a reactor operating at 80 percent power (see figure below).\nIf reactor power is decreased to 60 percent, the height of the curve will __________; and the area\nunder the curve will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; remain the same",
+        "C. decrease; decrease",
+        "D. decrease; remain the same"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p733_1.png"
+      ]
+    },
+    {
+      "qid": 2016,
+      "page": 734,
+      "stem": "If the average temperature of a fuel pellet decreases by 50°F, the microscopic cross-section for\nabsorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross-\nsections for absorption of neutrons at energies that are slightly higher or lower than a U-238\nresonance energy will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; decrease",
+        "C. decrease; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2017,
+      "page": 734,
+      "stem": "If the average temperature of a fuel pellet increases by 50°F, the microscopic cross-section for\nabsorption of neutrons at a resonance energy of U-238 will __________; and the microscopic cross-\nsections for absorption of neutrons at energies that are slightly higher or lower than a U-238\nresonance energy will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; decrease",
+        "C. decrease; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2018,
+      "page": 735,
+      "stem": "Refer to the drawing of a curve showing the neutron absorption cross-section for U-238 at a\nresonance energy (see figure below). The reactor associated with the curve is operating at 80\npercent power.\nIf reactor power is increased to 90 percent over the next few hours, the curve will become ________;\nand the percentage of the core neutron population lost to resonance capture by U-238 will ________.",
+      "choices": [
+        "A. shorter and broader; increase",
+        "B. shorter and broader; decrease",
+        "C. taller and more narrow; increase",
+        "D. taller and more narrow; decrease"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p735_1.png"
+      ]
+    },
+    {
+      "qid": 2019,
+      "page": 736,
+      "stem": "A reactivity coefficient measures a/an __________ change in reactivity, while a reactivity defect\nmeasures a __________ change in reactivity.",
+      "choices": [
+        "A. integrated; total",
+        "B. integrated; differential",
+        "C. unit; total",
+        "D. unit; differential"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2020,
+      "page": 737,
+      "stem": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the greatest amount of positive reactivity addition?",
+      "choices": [
+        "A. 3 percent to 5 percent",
+        "B. 5 percent to 15 percent",
+        "C. 15 percent to 30 percent",
+        "D. 30 percent to 60 percent"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2021,
+      "page": 737,
+      "stem": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the smallest amount of positive reactivity addition?",
+      "choices": [
+        "A. 2 percent to 5 percent",
+        "B. 5 percent to 15 percent",
+        "C. 15 percent to 30 percent",
+        "D. 30 percent to 50 percent"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2022,
+      "page": 738,
+      "stem": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the greatest amount of positive reactivity addition?",
+      "choices": [
+        "A. 3 percent to 10 percent",
+        "B. 10 percent to 25 percent",
+        "C. 25 percent to 60 percent",
+        "D. 60 percent to 100 percent"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2023,
+      "page": 738,
+      "stem": "Ignoring the effects of changes in fission product poisons, which one of the following reactor power\nchanges requires the greatest amount of positive reactivity addition?",
+      "choices": [
+        "A. 3 percent to 10 percent",
+        "B. 10 percent to 25 percent",
+        "C. 25 percent to 65 percent",
+        "D. 65 percent to 100 percent"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2024,
+      "page": 739,
+      "stem": "Ignoring the effects of changes in fission product poisons, which one of the following power changes\nrequires the smallest amount of positive reactivity addition?",
+      "choices": [
+        "A. 3 percent to 10 percent",
+        "B. 10 percent to 15 percent",
+        "C. 15 percent to 30 percent",
+        "D. 30 percent to 40 percent"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2025,
+      "page": 739,
+      "stem": "A reactor is initially critical well below the point of adding heat (POAH) during a reactor startup.\nControl rods are withdrawn for 20 seconds to establish a 0.5 DPM startup rate.\nIn response to the control rod withdrawal, reactor power will initially increase, and then...",
+      "choices": [
+        "A. continue increasing until the control rods are reinserted.",
+        "B. stabilize at a value slightly below the POAH.",
+        "C. stabilize at the POAH.",
+        "D. stabilize at a value slightly above the POAH."
+      ],
+      "answer": "D",
+      "images": []
+    }
+  ]
+}

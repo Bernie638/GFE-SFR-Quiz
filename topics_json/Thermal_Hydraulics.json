@@ -1,0 +1,381 @@
+{
+  "topic": "Thermal Hydraulics",
+  "questions": [
+    {
+      "qid": 2275,
+      "page": 900,
+      "stem": "Subcooled water enters the bottom of an operating reactor core. As the water flows upward past the\nfuel assemblies, steam bubbles form on the surface of a few fuel rods and are swept away.\nIf the coolant at the surface of the affected fuel rods had remained subcooled, average fuel\ntemperature in the affected fuel rods would have been __________ because single-phase convection\nis a __________ efficient method of heat transfer than boiling.",
+      "choices": [
+        "A. higher; more",
+        "B. higher; less",
+        "C. lower; more",
+        "D. lower; less"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2276,
+      "page": 901,
+      "stem": "The heat transfer coefficient for the core will be directly increased if: (Assume bulk coolant\nsubcooling.)",
+      "choices": [
+        "A. the coolant temperature is decreased.",
+        "B. the coolant flow rate is decreased.",
+        "C. nucleate boiling occurs in the coolant.",
+        "D. the coolant flow is laminar instead of turbulent."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2277,
+      "page": 901,
+      "stem": "Increasing the coolant flow rate through a reactor core affects the heat transfer rate from the fuel,\nbecause a higher coolant flow rate results in a __________ laminar film thickness and a __________\ncoolant temperature adjacent to the fuel.",
+      "choices": [
+        "A. greater; higher",
+        "B. greater; lower",
+        "C. smaller; higher",
+        "D. smaller; lower"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2278,
+      "page": 902,
+      "stem": "Which one of the following will minimize core heat transfer?",
+      "choices": [
+        "A. Laminar flow with no nucleate boiling.",
+        "B. Turbulent flow with no nucleate boiling.",
+        "C. Laminar flow with nucleate boiling.",
+        "D. Turbulent flow with nucleate boiling."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2279,
+      "page": 903,
+      "stem": "Refer to the drawing of a fuel rod and adjacent coolant flow channel (see figure below).\nWith a nuclear power plant operating at steady-state 100 percent reactor power at the beginning of a\nfuel cycle, which one of the following has the greater temperature difference?",
+      "choices": [
+        "A. Fuel slug centerline-to-pellet surface",
+        "B. Fuel slug surface-to-cladding gap",
+        "C. Fuel cladding",
+        "D. Coolant laminar layer"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p903_1.png"
+      ]
+    },
+    {
+      "qid": 2280,
+      "page": 904,
+      "stem": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n• Pressure at P is 24 psig.\n1\n• Pressure at P is 16 psig.\n2\n• Pressure change due to change in velocity is 2 psig.\n• Pressure change due to change in elevation is 10 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.",
+      "choices": [
+        "A. 2 psig; left to right",
+        "B. 2 psig; right to left",
+        "C. 4 psig; left to right",
+        "D. 4 psig; right to left"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p904_1.png"
+      ]
+    },
+    {
+      "qid": 2281,
+      "page": 905,
+      "stem": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n• Pressure at P is 26 psig.\n1\n• Pressure at P is 34 psig.\n2\n• Pressure change due to change in velocity is 2 psig.\n• Pressure change due to change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.",
+      "choices": [
+        "A. 2 psig; left to right",
+        "B. 2 psig; right to left",
+        "C. 4 psig; left to right",
+        "D. 4 psig; right to left"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p905_1.png"
+      ]
+    },
+    {
+      "qid": 2282,
+      "page": 906,
+      "stem": "Refer to the drawing of a section of pipe that contains flowing subcooled water. (See figure below).\nGiven:\n• Pressure at P is 30 psig.\n1\n• Pressure at P is 32 psig.\n2\n• Pressure change due to change in velocity is 2 psig.\n• Pressure change due to change in elevation is 2 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.",
+      "choices": [
+        "A. 2 psig; left to right",
+        "B. 2 psig; right to left",
+        "C. 6 psig; left to right",
+        "D. 6 psig; right to left"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p906_1.png"
+      ]
+    },
+    {
+      "qid": 2283,
+      "page": 907,
+      "stem": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n• Pressure at P is 34 psig.\n1\n• Pressure at P is 20 psig.\n2\n• Pressure change due to change in velocity is 2 psig.\n• Pressure change due to change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.",
+      "choices": [
+        "A. 2 psig; left to right",
+        "B. 2 psig; right to left",
+        "C. 4 psig; left to right",
+        "D. 4 psig; right to left"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p907_1.png"
+      ]
+    },
+    {
+      "qid": 2284,
+      "page": 908,
+      "stem": "Refer to the drawing of a section of pipe that contains flowing subcooled water (see figure below).\nGiven:\n• The pressure at P is 20 psig.\n1\n• The pressure at P is 20 psig.\n2\n• The pressure change caused by the change in velocity is 2 psig.\n• The pressure change caused by the change in elevation is 8 psig.\nThe pressure decrease due to friction head loss between P and P is __________; and the direction\n1 2\nof flow is from __________.",
+      "choices": [
+        "A. 6 psig; left to right",
+        "B. 6 psig; right to left",
+        "C. 10 psig; left to right",
+        "D. 10 psig; right to left"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p908_1.png"
+      ]
+    },
+    {
+      "qid": 2285,
+      "page": 909,
+      "stem": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(ΔT) of 60°F and a reactor vessel mass flow rate of 1.4 x 108 lbm/hr. If core ΔT is 63.6°F, what is\ncore bypass mass flow rate? (Assume bypass flow ΔT equals 0°F.)",
+      "choices": [
+        "A. 7.92 x 106 lbm/hr",
+        "B. 8.40 x 106 lbm/hr",
+        "C. 1.26 x 108 lbm/hr",
+        "D. 1.32 x 108 lbm/hr"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2286,
+      "page": 909,
+      "stem": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(ΔT) of 60°F and a reactor vessel mass flow rate of 1.0 x 108 lbm/hr. If core ΔT is 63.6°F, what is\ncore bypass mass flow rate? (Assume bypass flow ΔT equals 0°F.)",
+      "choices": [
+        "A. 5.66 x 106 lbm/hr",
+        "B. 8.40 x 106 lbm/hr",
+        "C. 3.60 x 107 lbm/hr",
+        "D. 9.43 x 107 lbm/hr"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2287,
+      "page": 910,
+      "stem": "A reactor is producing 3,400 MW of thermal output with a reactor vessel differential temperature\n(ΔT) of 60°F and a reactor vessel mass flow rate of 1.1 x 108 lbm/hr. If core ΔT is 63.6°F, what is\ncore bypass mass flow rate? (Assume bypass flow ΔT equals 0°F.)",
+      "choices": [
+        "A. 5.66 x 106 lbm/hr",
+        "B. 6.23 x 106 lbm/hr",
+        "C. 5.66 x 107 lbm/hr",
+        "D. 6.23 x 107 lbm/hr"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2288,
+      "page": 910,
+      "stem": "Adequate core bypass flow is needed to...",
+      "choices": [
+        "A. cool the excore nuclear instrument detectors.",
+        "B. provide cooling to core structural components.",
+        "C. provide primary sodium pump minimum flow requirements.",
+        "D. prevent stratification of coolant below the cover gas."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2289,
+      "page": 911,
+      "stem": "Which one of the following describes a function of core bypass flow?",
+      "choices": [
+        "A. Provides a means of measuring core flow rate.",
+        "B. Provide primary sodium pump minimum flow requirements.",
+        "C. Prevents excessive reactor vessel wall differential temperature.",
+        "D. Provides cooling to various reactor vessel internal components."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2290,
+      "page": 911,
+      "stem": "Which one of the following is a function of core bypass flow?",
+      "choices": [
+        "A. Provides cooling to core structural components.",
+        "B. Provides even coolant flow distribution through the fuel.",
+        "C. Ensures natural circulation will be initiated when forced circulation is lost.",
+        "D. Ensures core exit thermocouple readings represent average fuel temperatures."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2291,
+      "page": 912,
+      "stem": "Which one of the following must exist for natural circulation flow to occur?",
+      "choices": [
+        "A. The heat source must be larger than the heat sink.",
+        "B. The heat source must be located higher than the heat sink.",
+        "C. The heat sink must be larger than the heat source.",
+        "D. The heat sink must be located higher than the heat source."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2292,
+      "page": 912,
+      "stem": "The driving head for natural circulation flow through the core is developed by differences in\n__________ between the heat sink and the heat source.",
+      "choices": [
+        "A. fluid density",
+        "B. fluid volume",
+        "C. pipe diameter",
+        "D. pipe length"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2293,
+      "page": 913,
+      "stem": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Stable natural circulation mass flow rate is 1,000 gpm.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, stable natural\ncirculation flow rate will be approximately...",
+      "choices": [
+        "A. 125 gpm.",
+        "B. 250 gpm.",
+        "C. 707 gpm.",
+        "D. 794 gpm."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2294,
+      "page": 913,
+      "stem": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (ΔT) has stabilized at 16°F.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, core ΔT will be\napproximately...",
+      "choices": [
+        "A. 2°F.",
+        "B. 4°F.",
+        "C. 8°F.",
+        "D. 10°F."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2295,
+      "page": 914,
+      "stem": "Sustained natural circulation requires that the heat sink is __________ in elevation than the heat\nsource and that there is a __________ difference between the heat sink and the heat source.",
+      "choices": [
+        "A. lower; pressure",
+        "B. lower; temperature",
+        "C. higher; pressure",
+        "D. higher; temperature"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2296,
+      "page": 914,
+      "stem": "Which one of the following conditions must occur to sustain natural convection in a fluid system?",
+      "choices": [
+        "A. Subcooling of the fluid.",
+        "B. A phase change in the fluid.",
+        "C. A density change in the fluid.",
+        "D. Radiative heat transfer to the fluid."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2297,
+      "page": 915,
+      "stem": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (ΔT) has stabilized at 16°F.\nWhen decay heat generation decreases to 0.333 percent of rated thermal power, core ΔT will be\napproximately...",
+      "choices": [
+        "A. 2°F.",
+        "B. 4°F.",
+        "C. 8°F.",
+        "D. 10°F."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2298,
+      "page": 915,
+      "stem": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Core differential temperature (ΔT) has stabilized at 13°F.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, core ΔT will be\napproximately...",
+      "choices": [
+        "A. 4°F.",
+        "B. 6°F.",
+        "C. 8°F.",
+        "D. 10°F."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2299,
+      "page": 916,
+      "stem": "A reactor is shut down with natural circulation core cooling. Decay heat generation is equivalent to\n1.0 percent of rated thermal power. Stable natural circulation flow rate is 800 gpm.\nWhen decay heat generation decreases to 0.5 percent of rated thermal power, stable natural\ncirculation flow rate will be approximately...",
+      "choices": [
+        "A. 400 gpm.",
+        "B. 565 gpm.",
+        "C. 635 gpm.",
+        "D. 696 gpm."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2300,
+      "page": 916,
+      "stem": "Sustained natural circulation requires that the heat source is __________ in elevation than the heat\nsink; and that there is a __________ difference between the heat source and the heat sink.",
+      "choices": [
+        "A. lower; phase",
+        "B. lower; temperature",
+        "C. higher; phase",
+        "D. higher; temperature"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2301,
+      "page": 917,
+      "stem": "A reactor had been operating at 100 percent power for 3 months when a loss of offsite power\noccurred, causing a reactor trip and a loss of forced reactor coolant flow. If forced reactor coolant\nflow is not restored, which one of the following describes the relationship between reactor coolant\nhot leg and cold leg temperatures one hour after the reactor trip?",
+      "choices": [
+        "A. Hot leg temperature will be greater than cold leg temperature because natural circulation cooling",
+        "B. Hot leg temperature will be less than cold leg temperature because natural circulation cooling",
+        "C. Hot leg temperature will be approximately the same as cold leg temperature because only the",
+        "D. Hot leg temperature will be approximately the same as cold leg temperature because the reactor"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2302,
+      "page": 917,
+      "stem": "Natural circulation flow can be enhanced by...",
+      "choices": [
+        "A. increasing the elevation of the heat source to equal that of the heat sink.",
+        "B. increasing the temperature difference between the heat source and the heat sink.",
+        "C. decreasing the temperature difference between the heat source and the heat sink.",
+        "D. decreasing the elevation difference between the heat source and the heat sink."
+      ],
+      "answer": "B",
+      "images": []
+    }
+  ]
+}

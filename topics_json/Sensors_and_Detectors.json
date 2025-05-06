@@ -1,0 +1,2333 @@
+{
+  "topic": "Sensors and Detectors",
+  "questions": [
+    {
+      "qid": 1102,
+      "page": 73,
+      "stem": "For water flowing through a venturi, there is a proportional relationship between flow rate and\ndifferential pressure. For steam flowing through a venturi, the relationship must be modified to\naccount for changes in __________ as the steam flows through the venturi.",
+      "choices": [
+        "A. velocity",
+        "B. enthalpy",
+        "C. internal energy",
+        "D. specific volume"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1103,
+      "page": 74,
+      "stem": "The most probable cause for fluctuating indication from a liquid flow rate differential pressure\ndetector is...",
+      "choices": [
+        "A. gas or steam being trapped in the liquid.",
+        "B. unequal temperature gradients in the liquid.",
+        "C. vortexing of the liquid passing through the flow device.",
+        "D. the valve on the high pressure sensing line being partially closed."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1104,
+      "page": 75,
+      "stem": "A properly calibrated differential pressure-type water flow detector is located several feet below a\nhorizontal pipe containing the detector's sensing element. The detector was removed for inspection\nand then reconnected to the sensing element with its low-pressure sensing line filled with air and its\nhigh-pressure sensing line filled with water.\nWhen the water system is operating, indicated flow rate will be...",
+      "choices": [
+        "A. zero.",
+        "B. equal to actual flow rate.",
+        "C. lower than actual flow rate.",
+        "D. higher than actual flow rate."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1105,
+      "page": 75,
+      "stem": "How will flow rate indication be affected if the equalizing valve for the associated differential\npressure detector is fully opened?",
+      "choices": [
+        "A. Increase temporarily, and then return to the initial value.",
+        "B. Decrease temporarily, and then return to the initial value.",
+        "C. Increase to the maximum value.",
+        "D. Decrease to the minimum value."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1106,
+      "page": 76,
+      "stem": "A differential pressure flow detector is connected to a calibrated orifice in a cooling water system.\nWhich one of the following will cause indicated volumetric flow rate to be lower than actual\nvolumetric flow rate?",
+      "choices": [
+        "A. System pressure decreases.",
+        "B. The orifice erodes over time.",
+        "C. Debris becomes lodged in the orifice.",
+        "D. A leak develops in the low pressure sensing line."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1107,
+      "page": 76,
+      "stem": "Flow rate is being measured using a differential pressure flow detector and a calibrated orifice. If\nactual flow rate remains constant, which one of the following will cause indicated flow rate to be\nhigher than actual flow rate?",
+      "choices": [
+        "A. The flow detector equalizing valve is inadvertently opened.",
+        "B. A leak develops in the high pressure sensing line.",
+        "C. Debris becomes lodged in the orifice.",
+        "D. The orifice erodes over time."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1108,
+      "page": 77,
+      "stem": "Refer to the drawing of a pipe elbow used for flow measurement in a cooling water system (see\nfigure below).\nA differential pressure (D/P) flow detector is connected to instrument lines A and B.\nIf instrument line A develops a leak, indicated flow rate will __________ due to a __________\nmeasured D/P.",
+      "choices": [
+        "A. increase; larger",
+        "B. increase; smaller",
+        "C. decrease; larger",
+        "D. decrease; smaller"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p77_1.png"
+      ]
+    },
+    {
+      "qid": 1109,
+      "page": 78,
+      "stem": "If the orifice in a differential pressure (D/P) flow sensor erodes such that the orifice opening\nbecomes larger, indicated flow rate will __________ due to a __________ D/P across the orifice.\n(Assume actual flow rate remains the same.)",
+      "choices": [
+        "A. increase; larger",
+        "B. increase; smaller",
+        "C. decrease; larger",
+        "D. decrease; smaller"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1110,
+      "page": 79,
+      "stem": "Refer to the drawing of a horizontal pipe elbow (top view) in an operating water system (see figure\nbelow).\nThree separate differential pressure flow detectors are connected to taps A, B, C, and D as follows:\nDetector Taps\nX A and D\nY B and D\nZ C and D\nAssuming zero head loss in this section of pipe, how will the detectors be affected if tap D ruptures?",
+      "choices": [
+        "A. All detectors will fail low.",
+        "B. All detectors will fail high.",
+        "C. Two detectors will fail low and one will fail high.",
+        "D. Two detectors will fail high and one will fail low."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p79_1.png"
+      ]
+    },
+    {
+      "qid": 1111,
+      "page": 80,
+      "stem": "An orifice is being used in an operating cooling water system to measure flow rate. Which one of\nthe following will cause the differential pressure sensed across the orifice to decrease?",
+      "choices": [
+        "A. System pressure decreases.",
+        "B. System flow rate decreases.",
+        "C. Debris becomes lodged in the orifice.",
+        "D. A leak develops in the low pressure sensing line."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1112,
+      "page": 81,
+      "stem": "Refer to the drawing of a horizontal pipe elbow (top view) in an operating water system (see figure\nbelow). Three separate bellows differential pressure flow detectors are connected to taps A, B, C,\nand D as follows:\nDetector Taps\nX A and D\nY B and D\nZ C and D\nAssume that water is incompressible and there is no head loss in this section of pipe. How will the\ndetectors be affected if system flow rate remains the same while system pressure increases from\n1000 psig to 1200 psig?",
+      "choices": [
+        "A. All detectors will indicate higher flow.",
+        "B. Only two detectors will indicate higher flow.",
+        "C. Only one detector will indicate higher flow.",
+        "D. Detector indication will not change."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p81_1.png"
+      ]
+    },
+    {
+      "qid": 1113,
+      "page": 82,
+      "stem": "Refer to the drawing of a pipe elbow (top view) in an operating water system (see figure below).\nAt which one of the following locations is the highest pressure sensed? (Assume a constant pipe\ndiameter and zero head loss in this section of pipe.)",
+      "choices": [
+        "A. Point A",
+        "B. Point B",
+        "C. Point C",
+        "D. Point D"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p82_1.png"
+      ]
+    },
+    {
+      "qid": 1114,
+      "page": 83,
+      "stem": "Refer to the drawing of a horizontal pipe elbow (top view) in an operating water system (see figure\nbelow).\nThree separate bellows-type differential pressure flow detectors are connected to taps A, B, C, and D\nas follows:\nDetector Taps\nX A and D\nY B and D\nZ C and D\nAssuming zero head loss in this section of pipe, how will the detectors be affected if tap B\nexperiences a significant leak? (Assume water system pressure does not change.)",
+      "choices": [
+        "A. All detectors will fail low.",
+        "B. All detectors will fail high.",
+        "C. Only one detector will fail, and it will fail low.",
+        "D. Only one detector will fail, and it will fail high."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p83_1.png"
+      ]
+    },
+    {
+      "qid": 1115,
+      "page": 84,
+      "stem": "Flow detectors (such as an orifice, flow nozzle, and venturi tube) measure flow rate using the\nprinciple that the flow rate of a liquid is...",
+      "choices": [
+        "A. directly proportional to the differential pressure (D/P) squared.",
+        "B. inversely proportional to the D/P squared.",
+        "C. directly proportional to the square root of the D/P.",
+        "D. inversely proportional to the square root of the D/P."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1116,
+      "page": 84,
+      "stem": "A cooling water system is operating at steady-state conditions indicating 900 gpm with 60 psid\nacross the flow transmitter venturi. If cooling water flow rate is increased to 1,800 gpm, differential\npressure across the flow transmitter venturi will be approximately...",
+      "choices": [
+        "A. 85 psid.",
+        "B. 120 psid.",
+        "C. 175 psid.",
+        "D. 240 psid."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1117,
+      "page": 85,
+      "stem": "The flow rate of water passing through a venturi can be determined by measuring the...",
+      "choices": [
+        "A. differential pressure of the water as it passes through the venturi.",
+        "B. change in the velocity of the water as it passes through the venturi.",
+        "C. linear displacement of a metering plug installed in the throat of the venturi.",
+        "D. rotation rate of a paddle wheel-type device installed in the throat of the venturi."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1118,
+      "page": 85,
+      "stem": "A cooling water system is operating at a steady-state flow rate of 700 gpm with 60 psid across the\nflow transmitter venturi. If cooling water flow rate is increased to 1,000 gpm, differential pressure\nacross the flow transmitter venturi will be...",
+      "choices": [
+        "A. 85.7 psid.",
+        "B. 122.4 psid.",
+        "C. 171.4 psid.",
+        "D. 244.8 psid."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1119,
+      "page": 86,
+      "stem": "Refer to the drawing of a venturi flow element (see figure below) with direction of water flow\nindicated by the arrow.\nWhere should the high pressure tap of a differential pressure flow detector be connected?",
+      "choices": [
+        "A. Point A",
+        "B. Point B",
+        "C. Point C",
+        "D. Point D"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p86_1.png"
+      ]
+    },
+    {
+      "qid": 1120,
+      "page": 87,
+      "stem": "Which one of the following flow measuring elements produces the largest unrecoverable head loss\nwhen used in an operating fluid system?",
+      "choices": [
+        "A. Venturi",
+        "B. Flow nozzle",
+        "C. Pipe elbow",
+        "D. Orifice"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1121,
+      "page": 88,
+      "stem": "Refer to the drawing of a venturi flow element in an operating cooling water system (see figure\nbelow).\nAt what point does the lowest pressure occur?",
+      "choices": [
+        "A. Point A",
+        "B. Point B",
+        "C. Point C",
+        "D. Point D"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p88_1.png"
+      ]
+    },
+    {
+      "qid": 1122,
+      "page": 89,
+      "stem": "Refer to the drawing of a venturi flow element in an operating cooling water system (see figure\nbelow).\nA differential pressure detector measuring flow rate through the venturi will produce the highest\nflow rate indication if its high-pressure tap is connected at point _____; and its low-pressure tap is\nconnected at point _____.",
+      "choices": [
+        "A. A; B",
+        "B. A; D",
+        "C. B; C",
+        "D. B; D"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p89_1.png"
+      ]
+    },
+    {
+      "qid": 1123,
+      "page": 90,
+      "stem": "A cooling water system is operating at a steady-state flow rate of 500 gpm with 60 psid across the\nassociated venturi flow element. If cooling water flow rate increases to 1,000 gpm, the differential\npressure sensed by the venturi flow element will be approximately...",
+      "choices": [
+        "A. 85 psid.",
+        "B. 120 psid.",
+        "C. 240 psid.",
+        "D. 480 psid."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1124,
+      "page": 91,
+      "stem": "Refer to the drawing of a convergent-divergent venturi (see figure below). Subcooled water is\nflowing through the venturi, and the pipe diameters at P1 and P2 are equal.\nCompared to the conditions at the inlet of the venturi (P1), the pressure at the outlet of the venturi\n(P2) is __________; and the water velocity at the outlet of the venturi is __________.",
+      "choices": [
+        "A. the same; the same",
+        "B. the same; slightly lower",
+        "C. slightly lower; the same",
+        "D. slightly lower; slightly lower"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p91_1.png"
+      ]
+    },
+    {
+      "qid": 1125,
+      "page": 92,
+      "stem": "Water is flowing through a venturi flow element. At the throat of the venturi, the __________\nwater pressure and the __________ water velocity occurs.",
+      "choices": [
+        "A. highest; highest",
+        "B. lowest; lowest",
+        "C. lowest; highest",
+        "D. highest; lowest"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1126,
+      "page": 92,
+      "stem": "Water is flowing through each of the following devices. Which one of the devices will produce an\noutlet pressure that is greater than the inlet pressure?",
+      "choices": [
+        "A. Convergent nozzle",
+        "B. Divergent nozzle",
+        "C. Orifice",
+        "D. Flow restrictor"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1127,
+      "page": 93,
+      "stem": "Refer to the drawing of a pipe elbow (top view) in an operating water system (see figure below).\nAt which one of the following pairs of connection points will the greatest differential pressure be\nsensed? (Assume a constant pipe diameter and zero head loss in this section of pipe.)",
+      "choices": [
+        "A. Points A and B",
+        "B. Points B and C",
+        "C. Points C and D",
+        "D. Points D and A"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p93_1.png"
+      ]
+    },
+    {
+      "qid": 1128,
+      "page": 94,
+      "stem": "A venturi is being used to measure the flow rate in a cooling water system. As the water flows from\nthe throat to the discharge of the venturi, water pressure will __________; and volumetric flow rate\nwill __________.",
+      "choices": [
+        "A. increase; remain the same",
+        "B. increase; increase",
+        "C. decrease; remain the same",
+        "D. decrease; decrease"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1129,
+      "page": 94,
+      "stem": "A cooling water system is operating at a steady-state flow rate of 700 gpm with 60 psid across the\nassociated venturi flow element. If cooling water flow rate increases to 900 gpm, the differential\npressure sensed by the venturi flow element will be approximately...",
+      "choices": [
+        "A. 68 psid.",
+        "B. 77 psid.",
+        "C. 99 psid.",
+        "D. 127 psid."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1130,
+      "page": 95,
+      "stem": "A differential pressure detector is being used with an orifice plate to measure water flow rate through\na pipe. When the flow detector was last calibrated, the following parameters were observed:\nUpstream Pressure = 125 psig\nDownstream Pressure = 116 psig\nActual Flow Rate = 100 gpm\nIndicated Flow Rate = 100 gpm\nSignificant erosion of the orifice has occurred since the calibration such that actual flow rate through\nthe orifice has increased to 120 gpm while the upstream and downstream pressures have changed to\n110 psig and 106 psig respectively.\nWhat is the approximate flow rate that is currently indicated?",
+      "choices": [
+        "A. 44 gpm",
+        "B. 67 gpm",
+        "C. 81 gpm",
+        "D. 120 gpm"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1131,
+      "page": 96,
+      "stem": "A cooling water system is operating at steady-state conditions at 900 gpm with 64 psid across the\nflow transmitter venturi. Cooling water flow rate changes such that venturi differential pressure\ndecreases to 36 psid.\nWhich one of the following is the new system flow rate?",
+      "choices": [
+        "A. 506 gpm",
+        "B. 576 gpm",
+        "C. 675 gpm",
+        "D. 745 gpm"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1132,
+      "page": 97,
+      "stem": "A differential pressure detector is being used with an orifice plate to measure water flow rate through\na pipe. When the flow detector was last calibrated, the following parameters were observed:\nUpstream Pressure = 135 psig\nDownstream Pressure = 120 psig\nActual Flow Rate = 100 gpm\nIndicated Flow Rate = 100 gpm\nSignificant erosion of the orifice hole has occurred since the last calibration, such that actual flow\nrate through the orifice has increased to 120 gpm while the upstream and downstream pressures have\nchanged to 124 psig and 109 psig respectively.\nWhat is the currently indicated flow rate?",
+      "choices": [
+        "A. 44 gpm",
+        "B. 67 gpm",
+        "C. 100 gpm",
+        "D. 120 gpm"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1133,
+      "page": 98,
+      "stem": "A cooling water system uses a horizontal venturi with a differential pressure flow detector to provide\nflow rate indication. Water enters and leaves the venturi at 70°F, 120 psig, and 20 ft/sec. Water\nvelocity at the throat of the venturi is 45 ft/sec. Assume water is incompressible and the venturi\nexperiences no unrecoverable head loss.\nWhat is the approximate pressure of the water at the throat of the venturi?",
+      "choices": [
+        "A. 109 psig",
+        "B. 98 psig",
+        "C. 86 psig",
+        "D. 71 psig"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1134,
+      "page": 98,
+      "stem": "A cooling water system is operating at steady-state conditions. A calibrated system flow meter\nindicates 600 gpm with 50 psid across the flow element.\nIf cooling water flow rate increases to 900 gpm, the differential pressure sensed by the flow element\nwill be approximately...",
+      "choices": [
+        "A. 63 psid.",
+        "B. 75 psid.",
+        "C. 97 psid.",
+        "D. 112 psid."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1135,
+      "page": 99,
+      "stem": "The following is the current calibration data for an orifice plate that is being used for water flow rate\nmeasurement:\nUpstream Pressure = 135 psig\nDownstream Pressure = 120 psig\nFlow Rate = 100 gpm\nDuring a surveillance, the following pressures are observed across the orifice plate:\nUpstream Pressure = 124 psig\nDownstream Pressure = 117 psig\nWhat is the approximate water flow rate through the orifice plate?",
+      "choices": [
+        "A. 47 gpm",
+        "B. 57 gpm",
+        "C. 68 gpm",
+        "D. 78 gpm"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1136,
+      "page": 100,
+      "stem": "Refer to the drawing of a differential pressure manometer (see figure below).\nThe manometer is filled with water and installed across an orifice in a ventilation duct to determine\nthe rate of air flow. The manometer is currently indicating a water level difference of 16 inches at\nan air flow rate of 300 ft3/min.\nWhich one of the following will be the approximate rate of air flow when the manometer indicates a\nwater level difference of 4 inches?",
+      "choices": [
+        "A. 75 ft3/min.",
+        "B. 125 ft3/min.",
+        "C. 150 ft3/min.",
+        "D. 175 ft3/min."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p100_1.png"
+      ]
+    },
+    {
+      "qid": 1137,
+      "page": 101,
+      "stem": "A differential pressure detector is being used with an orifice plate to measure water flow rate through\na pipe. When the flow instrument was last calibrated, the following parameters were observed:\nUpstream Pressure = 125 psig Actual Flow Rate = 100 gpm\nDownstream Pressure = 116 psig Indicated Flow Rate = 100 gpm\nSince the calibration, debris has collected in the orifice such that the actual flow rate through the\norifice has decreased to 80 gpm while the upstream and downstream pressures have changed to 135\npsig and 110 psig, respectively.\nWhat is the approximate flow rate that is currently indicated by the flow instrument?",
+      "choices": [
+        "A. 125 gpm",
+        "B. 133 gpm",
+        "C. 156 gpm",
+        "D. 167 gpm"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1138,
+      "page": 102,
+      "stem": "Refer to the drawing of a differential pressure manometer (see figure below).\nThe manometer is filled with water and installed across an orifice in a ventilation duct to determine\nthe rate of air flow. The manometer is currently indicating a water level difference of 8 inches at an\nair flow rate of 300 cubic feet per minute (ft3/min).\nWhich one of the following will be the approximate air flow rate when the manometer indicates a\nwater level difference of 4 inches?",
+      "choices": [
+        "A. 75 ft3/min",
+        "B. 150 ft3/min",
+        "C. 188 ft3/min",
+        "D. 212 ft3/min"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p102_1.png"
+      ]
+    },
+    {
+      "qid": 1139,
+      "page": 103,
+      "stem": "A cooling water system uses a horizontal venturi with a differential pressure flow detector to provide\nflow rate indication. Water enters and leaves the venturi at 70°F, 100 psig, and 24 ft/sec. Water\nvelocity at the throat of the venturi is 50 ft/sec. Assume water is incompressible and the venturi\nexperiences no unrecoverable head loss.\nWhat is the approximate pressure of the water at the throat of the venturi?",
+      "choices": [
+        "A. 98 psig",
+        "B. 94 psig",
+        "C. 87 psig",
+        "D. 74 psig"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1140,
+      "page": 104,
+      "stem": "Refer to the drawing of a frictionless venturi flow element (see figure below). Subcooled water is\nflowing through the venturi with the following initial conditions:\nFlow rate = 500 gpm\nTap A pressure = 40 psia\nTap B pressure = 36 psia\nFlow rate increases to 1,000 gpm, which results in a tap A pressure of 68 psia. What is the new\npressure at tap B?",
+      "choices": [
+        "A. 60 psia",
+        "B. 52 psia",
+        "C. 44 psia",
+        "D. 32 psia"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p104_1.png"
+      ]
+    },
+    {
+      "qid": 1141,
+      "page": 105,
+      "stem": "Refer to the drawing of a frictionless venturi flow element (see figure below). Subcooled water is\nflowing through the venturi with the following initial conditions:\nFlow rate = 500 gpm\nTap A pressure = 40 psia\nTap B pressure = 36 psia\nWhen flow rate is increased to 750 gpm, the pressure at tap A increases to 68 psia. What is the new\npressure at tap B?",
+      "choices": [
+        "A. 66 psia",
+        "B. 62 psia",
+        "C. 59 psia",
+        "D. 52 psia"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p105_1.png"
+      ]
+    },
+    {
+      "qid": 1142,
+      "page": 106,
+      "stem": "Refer to the drawing of a frictionless venturi flow element (see figure below). Subcooled water is\nflowing through the venturi with the following initial conditions:\nFlow rate = 500 gpm\nTap A pressure = 48 psia\nTap B pressure = 44 psia\nWhen flow rate is increased to 900 gpm, the pressure at tap A increases to 62 psia. What is the new\npressure at tap B?",
+      "choices": [
+        "A. 46 psia",
+        "B. 49 psia",
+        "C. 55 psia",
+        "D. 60 psia"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p106_1.png"
+      ]
+    },
+    {
+      "qid": 1143,
+      "page": 107,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detector (see\nfigure below).\nThe associated level instrument was calibrated with the water storage tank at 100°F. If mass in the\ntank remains constant and the water temperature increases to 120°F, the indicated level will...",
+      "choices": [
+        "A. remain the same although actual level increases.",
+        "B. increase but remain less than actual level.",
+        "C. decrease in direct proportion to the temperature rise.",
+        "D. increase in direct proportion to the temperature rise."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p107_1.png"
+      ]
+    },
+    {
+      "qid": 1144,
+      "page": 108,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure level detector that was\nrecently calibrated at a tank water temperature of 80°F (see figure below).\nIf the mass of the water in the tank remains the same while the tank water temperature is raised from\n80°F to 150°F, the indicated level will...",
+      "choices": [
+        "A. remain equal to actual level.",
+        "B. increase, due to the expansion of the water.",
+        "C. remain the same.",
+        "D. decrease, due to the expansion of the water."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p108_1.png"
+      ]
+    },
+    {
+      "qid": 1145,
+      "page": 109,
+      "stem": "Refer to the drawing of a water storage tank with two tank differential pressure (D/P) level indicators\n(see figure below).\nTwo D/P level indicators are installed on a large water storage tank. Indicator 1 was calibrated at\n100°F water temperature and indicator 2 was calibrated at 200°F water temperature.\nAssuming both indicators are on scale, which indicator will indicate the higher level?",
+      "choices": [
+        "A. Indicator 1 at all water temperatures",
+        "B. Indicator 2 at all water temperatures",
+        "C. Indicator 1 below 150°F, indicator 2 above 150°F",
+        "D. Indicator 2 below 150°F, indicator 1 above 150°F"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p109_1.png"
+      ]
+    },
+    {
+      "qid": 1146,
+      "page": 110,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nThe level detector is being used in a level control system that was calibrated to maintain tank level at\n80 percent when the tank water temperature was 100°F. If tank water temperature gradually\nincreases and stabilizes at 150°F, the level control system will cause actual tank level to...",
+      "choices": [
+        "A. remain stable at 80 percent.",
+        "B. increase and stabilize above 80 percent.",
+        "C. oscillate and then stabilize at 80 percent.",
+        "D. decrease and stabilize below 80 percent."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p110_1.png"
+      ]
+    },
+    {
+      "qid": 1147,
+      "page": 111,
+      "stem": "Refer to the drawing of a water storage tank with two tank differential pressure (D/P) level indicators\n(see figure below).\nTwo D/P level indicators are installed on a large water storage tank. Indicator 1 was calibrated at\n100°F water temperature and indicator 2 was calibrated at 200°F water temperature.\nAssuming both indicators are on scale, which indicator will indicate the lower level?",
+      "choices": [
+        "A. Indicator 1 at all water temperatures",
+        "B. Indicator 2 at all water temperatures",
+        "C. Indicator 1 below 150°F, indicator 2 above 150°F",
+        "D. Indicator 2 below 150°F, indicator 1 above 150°F"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p111_1.png",
+        "img_p111_2.png"
+      ]
+    },
+    {
+      "qid": 1148,
+      "page": 112,
+      "stem": "Refer to the drawing of a water storage tank with two differential pressure (D/P) level indicators (see\nfigure below).\nTwo D/P level indicators are installed on a large water storage tank. Indicator No. 1 was calibrated\nat 200°F water temperature and indicator No. 2 was calibrated at 100°F water temperature.\nAssuming both indicators are on scale, which indicator will indicate the lower level?",
+      "choices": [
+        "A. Indicator 1 at all water temperatures.",
+        "B. Indicator 2 at all water temperatures.",
+        "C. Indicator 1 below 150°F, indicator 2 above 150°F.",
+        "D. Indicator 2 below 150°F, indicator 1 above 150°F."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p112_1.png"
+      ]
+    },
+    {
+      "qid": 1149,
+      "page": 113,
+      "stem": "Refer to the drawing of a water storage tank with two differential pressure (D/P) level indicators (see\nfigure below).\nIndicator 1 was calibrated at 120°F and indicator 2 was calibrated at 180°F. If tank water\ntemperature is currently 150°F, then indicator...",
+      "choices": [
+        "A. 1 will read greater than indicator 2, and greater than actual level.",
+        "B. 1 will read greater than indicator 2, and less than actual level.",
+        "C. 2 will read greater than indicator 1, and greater than actual level.",
+        "D. 2 will read greater than indicator 1, and less than actual level."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p113_1.png"
+      ]
+    },
+    {
+      "qid": 1150,
+      "page": 114,
+      "stem": "Refer to the drawing of a water storage tank with two differential pressure (D/P) level indicators (see\nfigure below).\nIndicator 1 was calibrated at 180°F and indicator 2 was calibrated at 120°F. If tank water\ntemperature is 150°F, then indicator...",
+      "choices": [
+        "A. 1 will read greater than indicator 2, and greater than actual water level.",
+        "B. 1 will read greater than indicator 2, and less than actual water level.",
+        "C. 2 will read greater than indicator 1, and greater than actual water level.",
+        "D. 2 will read greater than indicator 1, and less than actual water level."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p114_1.png"
+      ]
+    },
+    {
+      "qid": 1151,
+      "page": 115,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nIf the differential pressure detector equalizing valve is opened, level indication will:",
+      "choices": [
+        "A. decrease and stabilize below actual level.",
+        "B. increase and stabilize above actual level.",
+        "C. oscillate above and below actual level.",
+        "D. remain constant at the current level."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p115_1.png"
+      ]
+    },
+    {
+      "qid": 1152,
+      "page": 116,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detector (see\nfigure below).\nThe level detector is being used in a level control system that is calibrated to maintain tank level at\n75 percent at the current water temperature of 90°F. If water temperature gradually increases and\nstabilizes at 120°F, the level control system will cause actual tank level to...",
+      "choices": [
+        "A. remain at 75 percent.",
+        "B. increase and stabilize above 75 percent.",
+        "C. oscillate around 75 percent.",
+        "D. decrease and stabilize below 75 percent."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p116_1.png"
+      ]
+    },
+    {
+      "qid": 1153,
+      "page": 117,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nThe D/P sensed by the detector varies in the __________ direction as the temperature of the water in\nthe tank if the __________ of the tank water is constant. (Assume reference leg and tank water\ntemperatures are initially the same.)",
+      "choices": [
+        "A. same; level",
+        "B. inverse; level",
+        "C. same; mass",
+        "D. inverse; mass"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p117_1.png"
+      ]
+    },
+    {
+      "qid": 1154,
+      "page": 118,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detector (see\nfigure below).\nThe level detector is being used in a level control system that is calibrated to maintain tank level at\n75 percent at the current water temperature of 120°F. If water temperature gradually decreases and\nstabilizes at 90°F, actual tank level will...",
+      "choices": [
+        "A. remain at 75 percent.",
+        "B. increase and stabilize above 75 percent.",
+        "C. oscillate around 75 percent.",
+        "D. decrease and stabilize below 75 percent."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p118_1.png"
+      ]
+    },
+    {
+      "qid": 1155,
+      "page": 119,
+      "stem": "A cooling water system is cooling a lube oil heat exchanger. Cooling water system surge tank level\nis being measured using a differential pressure level detector that has been calibrated at the current\nwater temperature in the tank. A leak in the heat exchanger results in lube oil collecting in the surge\ntank.\nAssuming that the temperature of the contents in the surge tank does not change, indicated tank level\nwill be __________ than actual tank level because lube oil is __________ than water.",
+      "choices": [
+        "A. higher; more dense",
+        "B. higher; less dense",
+        "C. lower; more dense",
+        "D. lower; less dense"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1156,
+      "page": 120,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nAssume the initial temperature of the reference leg and the water in the tank is 100°F, and that\nreference leg temperature does not change.\nIf the temperature of the water in the tank increases by 20°F, the D/P sensed by the detector will\n__________ as long as the water __________ is maintained constant.",
+      "choices": [
+        "A. increase; level",
+        "B. decrease; level",
+        "C. increase; mass",
+        "D. decrease; mass"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p120_1.png"
+      ]
+    },
+    {
+      "qid": 1157,
+      "page": 121,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below). Assume that the initial temperature of the reference leg and the water in the tank\nare the same, and that reference leg temperature and level do not change.\nThe level detector is being used in a level control system (not shown) that is calibrated to maintain\ntank level at 75 percent at the current tank water temperature (70°F) and pressure (5 psig).\nIf the tank water temperature remains constant, but the tank pressure is increased by 10 psig, the\nlevel control system will cause actual tank level to...",
+      "choices": [
+        "A. remain at 75 percent.",
+        "B. increase and stabilize above 75 percent.",
+        "C. oscillate around 75 percent.",
+        "D. decrease and stabilize below 75 percent."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p121_1.png"
+      ]
+    },
+    {
+      "qid": 1158,
+      "page": 122,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nThe D/P level detector was just calibrated and returned to operation with the following conditions:\n• The reference leg contains 20 feet of water at 70°F.\n• The tank contains 18 feet of water at 70°F.\n• Tank level indication is 18 feet.\nAssume the actual tank water level and the temperature of the water in the tank and reference leg do\nnot change. Which one of the following will be the new tank level indication if the reference leg\nwater level decreases to 18 feet?",
+      "choices": [
+        "A. 22 feet",
+        "B. 20 feet",
+        "C. 18 feet",
+        "D. 2 feet"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p122_1.png"
+      ]
+    },
+    {
+      "qid": 1159,
+      "page": 123,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nThe water storage tank is 40 feet tall. The level detection system is calibrated to provide a level\nindication of 30 feet when the tank and reference leg levels are equal.\nIf the tank is completely filled with water, the tank level will indicate...",
+      "choices": [
+        "A. less than 30 feet.",
+        "B. 30 feet.",
+        "C. greater than 30 feet, but less than 40 feet.",
+        "D. 40 feet."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p123_1.png"
+      ]
+    },
+    {
+      "qid": 1160,
+      "page": 124,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nAssume that the initial temperature of the reference leg and the water in the tank is 100°F, and that\nreference leg temperature does not change.\nIf the temperature of the water in the tank increases by 20°F, the D/P sensed by the detector will\n__________ if the __________ of the water in the tank is constant.",
+      "choices": [
+        "A. decrease; level",
+        "B. decrease; mass",
+        "C. remain the same; level",
+        "D. remain the same; mass"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p124_1.png"
+      ]
+    },
+    {
+      "qid": 1161,
+      "page": 125,
+      "stem": "Refer to the drawing of a vented water storage tank with a differential pressure (D/P) level detection\nsystem (see figure below). The water in the tank and reference leg is at the same temperature.\nThe tank level indicator was just calibrated to indicate 0 percent when the tank is empty and 100\npercent when the water level reaches the upper tap. The indicator’s display range is 0 percent to\n120 percent. The initial water level is as indicated in the figure.\nIf the tank water level slowly increases and stabilizes just below the top of the tank, the level\nindication will increase until…",
+      "choices": [
+        "A. the water level stabilizes, at which time the level indication will stabilize at 100 percent.",
+        "B. the water level stabilizes, at which time the level indication will stabilize at a value greater than",
+        "C. the water level reaches the upper tap, at which time the level indication will remain at 100",
+        "D. the water level reaches the upper tap, at which time the level indication will continue to increase"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p125_1.png"
+      ]
+    },
+    {
+      "qid": 1162,
+      "page": 126,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below). The level detector has just been calibrated.\nHow will the indicated level be affected if condensation partially fills the normally-dry reference\nleg?",
+      "choices": [
+        "A. Indicated level will not be affected.",
+        "B. Indicated level will be lower than actual level.",
+        "C. Indicated level will be higher than actual level.",
+        "D. Indicated level may be higher or lower than actual level depending on the pressure in the upper"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p126_1.png"
+      ]
+    },
+    {
+      "qid": 1163,
+      "page": 127,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detector (see\nfigure below).\nThe level instrument has just been calibrated to read actual tank water level. If the reference leg\nsubsequently experiences high ambient temperature, indicated level will...",
+      "choices": [
+        "A. equal the actual level.",
+        "B. read less than the actual level.",
+        "C. read greater than the actual level.",
+        "D. drift above and below the actual level."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p127_1.png"
+      ]
+    },
+    {
+      "qid": 1164,
+      "page": 128,
+      "stem": "Refer to the drawing of a water storage tank with two differential pressure (D/P) level indicators (see\nfigure below).\nIndicator 1 was calibrated at 200°F and indicator 2 was calibrated at 100°F. If tank water\ntemperature is 150°F, then...",
+      "choices": [
+        "A. indicator 1 will read greater than indicator 2.",
+        "B. indicator 2 will read greater than indicator 1.",
+        "C. indicators 1 and 2 will read the same.",
+        "D. both indicators will be inaccurate, but it is impossible to predict which indicator will read"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p128_1.png"
+      ]
+    },
+    {
+      "qid": 1165,
+      "page": 129,
+      "stem": "Refer to the drawing of two water storage tanks with four differential pressure (D/P) level detectors\n(see figure below).\nThe tanks are identical with equal water levels and both are pressurized to 20 psig. All detectors\nwere calibrated at the current water temperature and 70°F external (ambient) temperature.\nWhich detectors will provide the most accurate level indication following an increase in external\n(ambient) temperature from 70°F to 100°F? (Assume tank contents temperatures and external\npressure do not change.)",
+      "choices": [
+        "A. 1 and 3",
+        "B. 2 and 4",
+        "C. 1 and 4",
+        "D. 2 and 3"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p129_1.png"
+      ]
+    },
+    {
+      "qid": 1166,
+      "page": 130,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nA calibrated D/P level detector is being used to measure level in a vented tank inside the auxiliary\nbuilding. If building pressure increases with no change in temperature, the associated level\nindication will...",
+      "choices": [
+        "A. decrease, then increase and stabilize at the actual level.",
+        "B. decrease and stabilize below the actual level.",
+        "C. increase and stabilize above the actual level.",
+        "D. remain at the actual level."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p130_1.png"
+      ]
+    },
+    {
+      "qid": 1167,
+      "page": 131,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detector (see\nfigure below).\nThe associated level instrument was calibrated with the water storage tank at 120°F. If the mass in\nthe tank remains constant and the water temperature decreases to 100°F, the indicated level will...",
+      "choices": [
+        "A. remain the same although actual level decreases.",
+        "B. remain the same although actual level increases.",
+        "C. increase in direct proportion to the temperature decrease.",
+        "D. decrease in direct proportion to the temperature decrease."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p131_1.png"
+      ]
+    },
+    {
+      "qid": 1168,
+      "page": 132,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nThe level instrument has just been calibrated to indicate actual tank water level. Assume that tank\nwater temperature and level remain constant. If the reference leg temperature increases by 20°F,\nindicated tank water level will...",
+      "choices": [
+        "A. be unpredictable.",
+        "B. equal the actual level.",
+        "C. be less than the actual level.",
+        "D. be greater than the actual level."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p132_1.png"
+      ]
+    },
+    {
+      "qid": 1169,
+      "page": 133,
+      "stem": "The level indication for a wet reference leg differential pressure (D/P) level instrument will fail low\nas a result of...",
+      "choices": [
+        "A. a break on the reference leg.",
+        "B. a rupture of the diaphragm in the D/P cell.",
+        "C. the reference leg flashing to steam.",
+        "D. a break on the variable leg."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1170,
+      "page": 134,
+      "stem": "Refer to the drawing of a water storage tank with a differential pressure (D/P) level detection system\n(see figure below).\nTank water level indication will be lower than actual level when reference leg temperature is\n__________ than calibration conditions; or when there is a break in the __________ leg of the D/P\ndetector.",
+      "choices": [
+        "A. less; reference",
+        "B. less; variable",
+        "C. greater; reference",
+        "D. greater; variable"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p134_1.png"
+      ]
+    },
+    {
+      "qid": 1171,
+      "page": 135,
+      "stem": "Semiconductor strain gages are often used in transmitters for...",
+      "choices": [
+        "A. reactor coolant pressure instruments.",
+        "B. reactor coolant temperature instruments.",
+        "C. control rod position instruments.",
+        "D. steam generator level instruments."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1172,
+      "page": 135,
+      "stem": "If the pressure sensed by a bourdon tube increases, the curvature of the detector will __________\nbecause the greater force is being applied to the __________ curve of the detector.",
+      "choices": [
+        "A. increase; outer",
+        "B. increase; inner",
+        "C. decrease; outer",
+        "D. decrease; inner"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1173,
+      "page": 136,
+      "stem": "In a diaphragm type pressure detector, pressure is measured using the __________ of the diaphragm.",
+      "choices": [
+        "A. rotational movement",
+        "B. axial deflection",
+        "C. change in circumference",
+        "D. change in diameter"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1174,
+      "page": 136,
+      "stem": "A bourdon tube works on the principle that when the pressure inside the tube decreases, the tube\ntends to: (Assume detected pressure remains above atmospheric pressure.)",
+      "choices": [
+        "A. coil, due to an increased pressure-induced force on the outside of the tube.",
+        "B. straighten, due to an increased pressure-induced force on the outside of the tube.",
+        "C. coil, due to the spring action of the metal overcoming the pressure-induced force on the inside of",
+        "D. straighten, due to the spring action of the metal overcoming the pressure-induced force on the"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1175,
+      "page": 137,
+      "stem": "A centrifugal pump is taking suction from the bottom of a vented cylindrical storage tank that\ncontains 100,000 gallons of water at 60°F. A pressure gauge at the inlet to the pump indicates 40\npsig. Over the next several days, storage tank temperature increases to 90°F with no change in tank\nwater level and no change in head loss in the pump suction line.\nWhich one of the following is the current pressure at the inlet to the pump?",
+      "choices": [
+        "A. 31.2 psig",
+        "B. 34.6 psig",
+        "C. 37.4 psig",
+        "D. 39.8 psig"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1176,
+      "page": 137,
+      "stem": "A cooling water system bourdon tube pressure detector is located inside a sealed building and\nsystem pressure currently indicates 50 psig. A building ambient temperature increase of 20°F will\ncause a __________ change in indicated system pressure; a building pressure increase of 20 psig\nwill cause a __________ change in indicated system pressure.",
+      "choices": [
+        "A. significant; significant",
+        "B. negligible; significant",
+        "C. significant; negligible",
+        "D. negligible; negligible"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1177,
+      "page": 138,
+      "stem": "A cooling water system pressure detector uses a bourdon tube as the sensing element. Which one of\nthe following explains how the indicated system pressure will be affected if the temperature of the\nbourdon tube decreases by 30°F? (Assume the cooling water system pressure does not change.)",
+      "choices": [
+        "A. Indicated pressure will decrease because the bourdon tube will become less flexible.",
+        "B. Indicated pressure will increase because the bourdon tube will become less flexible.",
+        "C. Indicated pressure will decrease because the bourdon tube internal pressure will decrease.",
+        "D. Indicated pressure will increase because the bourdon tube internal pressure will decrease."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1178,
+      "page": 138,
+      "stem": "A bourdon-tube pressure detector was indicating 50 percent of scale when it was suddenly exposed\nto a high pressure transient that caused permanent strain to the bourdon tube. The detector\nremained intact and actual pressure was restored to its original value.\nDuring the pressure transient, the affected pressure indication initially went off scale high. After the\noriginal pressure was restored, the indication was...",
+      "choices": [
+        "A. unpredictable.",
+        "B. less than 50 percent of scale.",
+        "C. 50 percent of scale.",
+        "D. greater than 50 percent of scale."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1179,
+      "page": 139,
+      "stem": "Refer to the drawing of a bellows-type differential pressure (D/P) detector (see figure below).\nThe spring in this detector (shown in a compressed state) has weakened from long-term use. If the\nactual D/P is constant, how will indicated D/P respond as the spring weakens?",
+      "choices": [
+        "A. Increase, because the spring will expand more",
+        "B. Decrease, because the spring will expand more",
+        "C. Increase, because the spring will compress more",
+        "D. Decrease, because the spring will compress more"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p139_1.png"
+      ]
+    },
+    {
+      "qid": 1180,
+      "page": 140,
+      "stem": "If a bourdon tube pressure detector is over-ranged sufficiently to permanently distort the bourdon\ntube, subsequent pressure measurement will be inaccurate because the __________ of the detector\ntube will be inaccurate.",
+      "choices": [
+        "A. distance moved by the tip",
+        "B. change in the length",
+        "C. expansion of the cross-sectional area",
+        "D. change in the volume"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1181,
+      "page": 140,
+      "stem": "A properly calibrated 0 to 100 psia diaphragm pressure detector is connected to a pressurized\nsystem; the low pressure side of the detector is vented to the atmosphere. The detector is currently\nproducing a system pressure indication of 75 psia.\nIf the detector diaphragm ruptures, indicated pressure will be approximately...",
+      "choices": [
+        "A. 0 psia.",
+        "B. 15 psia.",
+        "C. 60 psia.",
+        "D. 90 psia."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1182,
+      "page": 141,
+      "stem": "A resistance temperature detector operates on the principle that the change in the electrical resistance\nof...",
+      "choices": [
+        "A. two dissimilar metals is directly proportional to the temperature change measured at their",
+        "B. two dissimilar metals is inversely proportional to the temperature change measured at their",
+        "C. a metal is directly proportional to its change in temperature.",
+        "D. a metal is inversely proportional to its change in temperature."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1183,
+      "page": 141,
+      "stem": "A resistance temperature detector operates on the principle that the change in the electrical resistance\nof a metal is __________ proportional to the change in __________.",
+      "choices": [
+        "A. inversely; metal temperature",
+        "B. inversely; metal temperature squared",
+        "C. directly; metal temperature",
+        "D. directly; metal temperature squared"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1184,
+      "page": 142,
+      "stem": "In a comparison between a thermocouple and a resistance temperature detector, the thermocouple\ngenerally...",
+      "choices": [
+        "A. measures temperature less accurately.",
+        "B. is less affected by ambient temperature changes.",
+        "C. has a lower usable temperature range.",
+        "D. responds more slowly to a temperature change."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1185,
+      "page": 142,
+      "stem": "If the reference junction temperature of a thermocouple remains constant, the output voltage of the\nthermocouple is __________ proportional to the __________.",
+      "choices": [
+        "A. directly; measuring junction temperature",
+        "B. directly; square root of the measuring junction temperature",
+        "C. inversely; measuring junction temperature",
+        "D. inversely; square root of the measuring junction temperature"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1186,
+      "page": 143,
+      "stem": "A thermocouple operates on the principle that a measurable voltage will be produced when two...",
+      "choices": [
+        "A. similar metals form two junctions at the same temperature.",
+        "B. similar metals form two junctions at different temperatures.",
+        "C. dissimilar metals form two junctions at the same temperature.",
+        "D. dissimilar metals form two junctions at different temperatures."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1187,
+      "page": 143,
+      "stem": "In contrast to a thermocouple, a resistance temperature detector...",
+      "choices": [
+        "A. is used in high temperature applications.",
+        "B. does not require an external power supply for temperature indication.",
+        "C. uses a single type of metal or alloy in the sensing element.",
+        "D. is commonly placed in direct contact with the monitored substance."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1188,
+      "page": 144,
+      "stem": "Refer to the drawing of a simple thermocouple circuit (see figure below).\nCircuit temperature indication is initially 350°F. The reference (cold) junction temperature\ndecreases by 10°F, while the measuring junction temperature remains constant. Without\ntemperature compensation for the reference junction, the new temperature indication will be...",
+      "choices": [
+        "A. 340°F.",
+        "B. 350°F.",
+        "C. 360°F.",
+        "D. 370°F."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p144_1.png"
+      ]
+    },
+    {
+      "qid": 1189,
+      "page": 145,
+      "stem": "What is the purpose of the reference junction panel that is provided with many thermocouple\ncircuits?",
+      "choices": [
+        "A. Ensures that thermocouple output is amplified sufficiently for use by temperature indication",
+        "B. Ensures that temperature changes away from the thermocouple measuring junction do not affect",
+        "C. Ensures that electrical noise in the thermocouple extension wires does not affect thermocouple",
+        "D. Ensures that different lengths of thermocouple extension wires do not affect thermocouple"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1190,
+      "page": 145,
+      "stem": "Unlike a resistance temperature detector, a typical thermocouple...",
+      "choices": [
+        "A. uses a single type of metal in the sensing element",
+        "B. requires a temperature-controlled reference junction.",
+        "C. can provide temperature input to a valve controller in a cooling water system.",
+        "D. requires an external power supply to provide indication of temperature."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1191,
+      "page": 146,
+      "stem": "Refer to the drawing of a simple thermocouple circuit (see figure below).\nA thermocouple temperature indication is initially 410°F with the reference (cold) junction at 125°F.\nAn ambient temperature decrease lowers the reference junction temperature to 110°F, while the\nmeasuring junction temperature remains constant. Without temperature compensation for the\nreference junction, the new thermocouple temperature indication will be...",
+      "choices": [
+        "A. 380°F.",
+        "B. 395°F.",
+        "C. 410°F.",
+        "D. 425°F."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p146_1.png"
+      ]
+    },
+    {
+      "qid": 1192,
+      "page": 147,
+      "stem": "Refer to the drawing of a simple thermocouple circuit (see figure below).\nGiven that the temperatures at the measuring and reference junctions remain constant, if a ventilation\nsystem malfunction causes the temperature of the temperature indication panel to increase by 10°F,\nindicated temperature will...",
+      "choices": [
+        "A. not be affected.",
+        "B. increase by 10°F.",
+        "C. decrease by 10°F.",
+        "D. change in an unpredictable manner."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p147_1.png"
+      ]
+    },
+    {
+      "qid": 1193,
+      "page": 148,
+      "stem": "Refer to the drawing of a simple chromel-alumel thermocouple circuit (see figure below).\nWhat is the effect on the thermocouple reference junctions if the chromel and alumel extension wires\nfrom the thermocouple connection head to the reference junction panel are replaced with copper\nwires?",
+      "choices": [
+        "A. There will no longer be any reference junctions.",
+        "B. The reference junctions will be located in the temperature instrument.",
+        "C. The reference junctions will still be located in the reference junction panel.",
+        "D. The reference junctions will be located in the thermocouple connection head."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p148_1.png"
+      ]
+    },
+    {
+      "qid": 1194,
+      "page": 149,
+      "stem": "Which one of the following is a characteristic of a resistance temperature detector but not a\nthermocouple?",
+      "choices": [
+        "A. Sensing element is made from a single metal or alloy.",
+        "B. Requires a reference junction for accurate temperature measurement.",
+        "C. Extension leads made from relatively expensive metals or alloys are required for accurate",
+        "D. Temperature measurement relies on a sensor material property that varies directly with the"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1195,
+      "page": 150,
+      "stem": "Refer to the drawing of a simple chromel-alumel thermocouple circuit (see figure below).\nWhat is the effect on the thermocouple reference junctions if the copper extension wires from the\nreference junction panel to the temperature instrument are replaced with alumel (top) and chromel\n(bottom) extension wires?",
+      "choices": [
+        "A. The reference junctions will be located in the thermocouple connection head.",
+        "B. The reference junctions will still be located in the reference junction panel.",
+        "C. The reference junctions will be located in the temperature instrument.",
+        "D. There will no longer be any reference junctions."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p150_1.png"
+      ]
+    },
+    {
+      "qid": 1196,
+      "page": 151,
+      "stem": "A simple two-wire resistance temperature detector (RTD) is being used to measure the temperature\nof a water system. Copper extension wires run from the RTD to a temperature instrument 40 feet\naway. If the temperature of the extension wires decreases, the electrical resistance of the extension\nwires will __________; and the temperature indication will __________ unless temperature\ncompensation is provided.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; decrease",
+        "C. decrease; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1197,
+      "page": 152,
+      "stem": "Refer to the drawing of a simple thermocouple circuit (see figure below).\nThe measuring junction temperature is currently 300°F while the reference junction temperature is\nbeing held constant at 120°F. The thermocouple circuit is capable of indicating 32°F to 600°F and\nhas just been calibrated at the current conditions.\nIf the measuring junction temperature decreases and stabilizes at 90°F, what temperature will be\nindicated?",
+      "choices": [
+        "A. 32°F",
+        "B. 60°F",
+        "C. 90°F",
+        "D. 120°F"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p152_1.png"
+      ]
+    },
+    {
+      "qid": 1198,
+      "page": 153,
+      "stem": "For proper operation of a thermocouple circuit, the reference junction temperature…",
+      "choices": [
+        "A. must be less than the measuring junction temperature.",
+        "B. must be greater than the measuring junction temperature.",
+        "C. may be less than, greater than, or equal to the measuring junction temperature.",
+        "D. may be less than or greater than, but not equal to, the measuring junction temperature."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1199,
+      "page": 153,
+      "stem": "A simple two-wire resistance temperature detector (RTD) is being used to measure the temperature\nin a water system. Copper extension wires run from the RTD to a temperature measuring\ninstrument 40 feet away. If the temperature of the extension wires increases, the electrical\nresistance of the extension wires will __________; and the temperature indication will __________\nunless temperature compensation is provided.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; decrease",
+        "C. decrease; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1200,
+      "page": 154,
+      "stem": "An open circuit in a thermocouple detector causes the affected temperature indication to fail...",
+      "choices": [
+        "A. high.",
+        "B. low.",
+        "C. to reference junction temperature.",
+        "D. as is."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1201,
+      "page": 154,
+      "stem": "If shorting occurs within a resistance temperature detector, the associated indication will fail...",
+      "choices": [
+        "A. low.",
+        "B. high.",
+        "C. as is.",
+        "D. to midscale."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1202,
+      "page": 155,
+      "stem": "A resistance temperature detector (RTD) is used in a balanced bridge circuit to indicate temperature.\nIf the RTD develops an open circuit (bridge circuit remains intact), temperature indication will fail...",
+      "choices": [
+        "A. high.",
+        "B. low.",
+        "C. as is.",
+        "D. to midscale."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1203,
+      "page": 156,
+      "stem": "Refer to the drawing of a simple thermocouple circuit (see figure below) that is calibrated for a\nreference junction temperature of 90°F.\nThermocouple temperature indication is currently 150°F. Indicator range is from 0°F to 2000°F.\nWhich one of the following temperature indications will result if one of the thermocouple extension\nwires becomes dislodged from its terminal in the reference junction panel?",
+      "choices": [
+        "A. 0°F",
+        "B. 60°F",
+        "C. 90°F",
+        "D. 2000°F"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p156_1.png"
+      ]
+    },
+    {
+      "qid": 1204,
+      "page": 157,
+      "stem": "Because of a thermocouple temperature display failure, the millivolt output of a thermocouple circuit\nis being converted to a temperature value using conversion tables. The tables are based on a\nthermocouple reference junction temperature of 32°F. The actual reference junction is located in a\npanel that is maintained at 120°F. Room temperature surrounding the panel is 80°F.\nWhat adjustment must be made to the temperature value taken from the conversion tables to\ncalculate the actual temperature at the measuring tip of the thermocouple?",
+      "choices": [
+        "A. Add 48°F.",
+        "B. Subtract 48°F.",
+        "C. Add 88°F.",
+        "D. Subtract 88°F."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1205,
+      "page": 157,
+      "stem": "A resistance temperature detector (RTD) and a thermocouple (TC) are commonly used sensors for\ntemperature measurement. If a temperature display fails, which of the sensors, if any, has a\nproperty that can be measured manually and converted to a temperature value with the aid of\nconversion tables.",
+      "choices": [
+        "A. TC only.",
+        "B. RTD only.",
+        "C. Both TC and RTD.",
+        "D. Neither TC nor RTD."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1206,
+      "page": 158,
+      "stem": "Because of a thermocouple temperature display failure, the millivolt output of a thermocouple circuit\nis being converted to a temperature value using conversion tables. The tables are based on a\nthermocouple reference junction temperature of 32°F. The actual reference junction is located in a\npanel that is currently at 80°F.\nThe temperature value taken from the conversion tables is 120°F.\nWhat adjustment must be made to the temperature value taken from the conversion tables to\ncalculate the actual temperature at the measuring tip of the thermocouple?",
+      "choices": [
+        "A. Add 48°F.",
+        "B. Subtract 48°F.",
+        "C. Add 88°F.",
+        "D. Subtract 88°F."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1207,
+      "page": 158,
+      "stem": "Because of a thermocouple temperature display failure, the millivolt output of a thermocouple circuit\nis being converted to a temperature value using conversion tables. The tables are based on a\nthermocouple reference junction temperature of 32°F. The actual reference junction is located in a\npanel that is maintained at 96°F. Room temperature surrounding the panel is 72°F.\nWhat adjustment must be made to the temperature value taken from the conversion tables to\ncalculate the actual temperature at the measuring tip of the thermocouple?",
+      "choices": [
+        "A. Add 64°F.",
+        "B. Subtract 64°F.",
+        "C. Add 40°F.",
+        "D. Subtract 40°F."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1208,
+      "page": 159,
+      "stem": "Refer to the drawing of a simple chromel-alumel thermocouple circuit (see figure below).\nGiven the following:\n• The temperature instrument currently indicates 370°F.\n• The reference junction temperature is constant at 120°F.\n• The temperature instrument is capable of indicating 32°F to 1,000°F and has just been\ncalibrated.\nWhich one of the following temperature indications will result if the chromel lead becomes\ndisconnected from its terminal in the thermocouple connection head?",
+      "choices": [
+        "A. 32°F",
+        "B. 120°F",
+        "C. 250°F",
+        "D. 1,000°F"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p159_1.png"
+      ]
+    },
+    {
+      "qid": 1209,
+      "page": 160,
+      "stem": "What type of sensor is most commonly used to provide remote position indication of a valve that is\nnormally either fully open or fully closed?",
+      "choices": [
+        "A. Limit switch",
+        "B. Reed switch",
+        "C. Servo transmitter",
+        "D. Linear variable differential transformer"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1210,
+      "page": 160,
+      "stem": "Which one of the following devices is commonly used to provide remote indication of valve position\non an analog meter in units of \"percent of full open\"?",
+      "choices": [
+        "A. Limit switch",
+        "B. Reed switch",
+        "C. Linear variable differential transformer",
+        "D. Resistance temperature detector"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1211,
+      "page": 161,
+      "stem": "Refer to the simplified drawing of a control rod position detector (see figure below).\nCoils of wire connected to an AC power supply are being used to monitor the position of a control\nrod in a reactor. The coils are mounted in a column outside the reactor vessel head such that the\nsteel control rod drive shaft passes upward through the coils as the control rod is withdrawn.\nCurrently, the top of a control rod drive shaft is located between coils A and B as shown. The\ncontrol rod is to be withdrawn until the top of the control rod drive shaft is located just below coil C.\nCompared to the initial coil output currents, after the control rod is withdrawn the output current of\ncoil A will be __________; and the output current of coil B will be __________.",
+      "choices": [
+        "A. higher; higher",
+        "B. higher; lower",
+        "C. the same; higher",
+        "D. the same; lower"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p161_1.png"
+      ]
+    },
+    {
+      "qid": 1212,
+      "page": 162,
+      "stem": "Refer to the simplified drawing of a control rod position detector circuit (see figure below).\nA magnet on the control rod extension (or drive) shaft sequentially closes individual reed switches\nmounted vertically adjacent to the control rod drive housing. A constant +5 DC volts is supplied to\nthe input of the resistor network at resistor R .\n1\nA control rod is initially fully inserted such that all reed switch contacts are open; then the rod is\nwithdrawn until reed switch contact S is closed. Compared to the initial circuit currents, the\n1\ncurrent through resistor R after the rod withdrawal will be __________; and the output current of\n5\nthe resistor network to the amplifier will be __________.",
+      "choices": [
+        "A. lower; higher",
+        "B. lower; lower",
+        "C. higher; higher",
+        "D. higher; lower"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p162_1.png"
+      ]
+    },
+    {
+      "qid": 1213,
+      "page": 163,
+      "stem": "Reed switches are being used in an electrical measuring circuit to monitor the position of a control\nrod in a reactor. The reed switches are mounted in a column above the reactor vessel such that the\ncontrol rod drive shaft passes by the reed switches as the control rod is withdrawn.\nWhich one of the following describes the action that causes the electrical output of the measuring\ncircuit to change as the control rod is withdrawn?",
+      "choices": [
+        "A. An AC coil on the control rod drive shaft induces a voltage into each reed switch as the drive",
+        "B. A metal tab on the control rod drive shaft mechanically closes each reed switch as the drive shaft",
+        "C. The primary and secondary coils of each reed switch attain maximum magnetic coupling as the",
+        "D. A permanent magnet on the control rod drive shaft attracts the movable contact arm of each reed"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1214,
+      "page": 164,
+      "stem": "A BF proportional counter is being used to measure neutron level during a reactor startup. Which\n3\none of the following describes the method used to ensure that neutron indication is not affected by\ngamma reactions in the detector?",
+      "choices": [
+        "A. Two counters are used: one sensitive to neutron and gamma and the other sensitive to gamma",
+        "B. The BF proportional counter measures neutron flux of such high intensity that the gamma signal",
+        "C. In a proportional counter, gamma-induced pulses are of insufficient duration to generate a",
+        "D. In a proportional counter, neutron-induced pulses are significantly larger than gamma pulses."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1215,
+      "page": 165,
+      "stem": "Most of the electrons collected in a fission chamber are released as a result of ionizations caused\ndirectly by...",
+      "choices": [
+        "A. fission fragments.",
+        "B. fission gammas.",
+        "C. fission betas.",
+        "D. fissionable materials."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1216,
+      "page": 165,
+      "stem": "A gas-filled radiation detector operating in the ion chamber region is exposed to a constant gamma\nradiation field. If the detector’s applied voltage is increased, but kept within the ion chamber\nregion, the detector’s output will…",
+      "choices": [
+        "A. increase, because the production rate of secondary ions will increase.",
+        "B. increase, because the recombination rate of primary ions will decrease.",
+        "C. remain the same, because the detector is already producing its maximum output.",
+        "D. remain the same, because the detector’s operation is unaffected by the change in applied voltage."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1217,
+      "page": 166,
+      "stem": "Which one of the following materials is typically installed inside an ion chamber detector that is\nused for reactor power indication?",
+      "choices": [
+        "A. Polyethylene",
+        "B. Boron-10",
+        "C. Uranium-238",
+        "D. Rhodium-103"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1218,
+      "page": 167,
+      "stem": "In a gas-filled radiation detector operating in the proportional region, essentially __________ of the\nions caused by incident radiation are collected; and the number of ions collected from secondary\nionizations is __________ the applied voltage.",
+      "choices": [
+        "A. all; independent of",
+        "B. none; related to",
+        "C. all; related to",
+        "D. none; independent of"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1219,
+      "page": 167,
+      "stem": "Which one of the following features is typically used to enhance thermal neutron detection in a gas-\nfilled detector?",
+      "choices": [
+        "A. Encapsulate the detector in polyethylene.",
+        "B. Encapsulate the detector in boron-10.",
+        "C. Line the inside of the detector with polyethylene.",
+        "D. Line the inside of the detector with boron-10."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1220,
+      "page": 168,
+      "stem": "Which one of the following describes why a BF proportional counter can be used in the source\n3\nrange to measure neutron radiation in a radiation field that also contains gamma radiation?",
+      "choices": [
+        "A. Neutrons directly ionize the BF gas, producing larger pulses than gammas.",
+        "B. Neutrons interacting with the BF gas result in the release of alpha particles, which produce",
+        "C. Neutrons are captured by boron-10 and produce additional neutrons that completely ionize the",
+        "D. The gamma radiation field is insignificant when compared to the neutron field."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1221,
+      "page": 169,
+      "stem": "Which one of the following types of radiation will produce the greatest number of ions while passing\nthrough one centimeter of air? (Assume the same initial kinetic energy for each type of radiation.)",
+      "choices": [
+        "A. Alpha",
+        "B. Beta",
+        "C. Gamma",
+        "D. Neutron"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1222,
+      "page": 169,
+      "stem": "Which one of the following lists the two types of gas-filled radiation detectors whose outputs will be\nleast affected by a small variation (±10 volts) in the voltage applied to the detectors? (Assume the\napplied voltage remains within normal range.)",
+      "choices": [
+        "A. Limited proportional and Geiger-Mueller",
+        "B. Ion chamber and proportional",
+        "C. Proportional and limited proportional",
+        "D. Geiger-Mueller and ion chamber"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1223,
+      "page": 170,
+      "stem": "Which one of the following describes a characteristic of a Geiger-Mueller radiation detector?",
+      "choices": [
+        "A. Radiation types can be identified by pulse height and duration.",
+        "B. Specific radionuclides can be identified with the use of gamma spectrometry.",
+        "C. Small variations in applied voltage will result in large changes in detector output.",
+        "D. Any type of radiation that ionizes the detector gas will produce the same magnitude detector"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1224,
+      "page": 170,
+      "stem": "A Geiger-Mueller radiation detector is located in a radiation field consisting of beta, gamma, and\nfast neutron radiation. Assuming each type of radiation enters the detector gas chamber and ionizes\nthe detector gas, which one of the following describes the resulting detector pulse sizes?",
+      "choices": [
+        "A. Beta radiation will produce a larger pulse size than either gamma or fast neutron radiation.",
+        "B. Gamma radiation will produce a larger pulse size than either beta or fast neutron radiation.",
+        "C. Fast neutron radiation will produce a larger pulse size than either beta or gamma radiation.",
+        "D. Beta, gamma, and fast neutron radiation will produce pulse sizes that are equal in magnitude."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1225,
+      "page": 171,
+      "stem": "A gas-filled radiation detector operating in the proportional region is exposed to a constant gamma\nradiation field. If the detector’s applied voltage is increased but maintained within the proportional\nregion, the rate of ion collection will...",
+      "choices": [
+        "A. increase, because more secondary ionizations are occurring in the detector.",
+        "B. increase, because fewer primary ions are recombining with electrons prior to reaching the",
+        "C. stay approximately the same, because the ion chamber is operating at saturated conditions.",
+        "D. stay approximately the same, because all of the primary ions were already being collected at the"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1226,
+      "page": 171,
+      "stem": "What is the function of the positive electrode in an ion chamber?",
+      "choices": [
+        "A. Produce ions when exposed to a radiation field.",
+        "B. Release electrons to combine with positive ions.",
+        "C. Perform gas quenching to maximize detector sensitivity.",
+        "D. Collect the electrons released during gas ionization."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1227,
+      "page": 172,
+      "stem": "Just prior to a plant outage, the power range nuclear instruments (using excore detectors) were\ncalibrated at 50 percent reactor power. During the outage, 25 percent of the fuel assemblies were\nshuffled to reduce the power being produced at the center of the core. No fuel assemblies were\nreplaced.\nImmediately after the outage, when the reactor is stabilized at 50 percent, indicated reactor power\nwill be __________ than actual power because neutron leakage from the core has __________.",
+      "choices": [
+        "A. higher; increased",
+        "B. higher; decreased",
+        "C. lower; increased",
+        "D. lower; decreased"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1228,
+      "page": 172,
+      "stem": "A gas-filled radiation detector operating in the ion chamber is exposed to a constant gamma\nradiation field. If the applied voltage is increased but maintained within the ion chamber region, the\nrate of ion collection will...",
+      "choices": [
+        "A. increase, because more secondary ionizations are occurring in the detector.",
+        "B. stay approximately the same, because all of the primary ions were already being collected at the",
+        "C. increase, because fewer primary ions are recombining in the detector prior to reaching the",
+        "D. stay approximately the same, because the ion chamber is operating at saturated conditions."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1229,
+      "page": 173,
+      "stem": "What is the effect on a gas-filled neutron detector operating in the proportional region if the detector\nvoltage is increased such that the detector operates closer to the high end of the proportional region?",
+      "choices": [
+        "A. Neutron-induced pulses will become so large that gamma pulse discrimination is no longer",
+        "B. The positive space charge effect will increase and prevent collection of both gamma- and",
+        "C. A high rate of incident gamma radiation will result in the combination of multiple small gamma-",
+        "D. Detection of any single ionizing event will result in ionizing nearly the entire detector gas"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1230,
+      "page": 173,
+      "stem": "A gas-filled radiation detector operating in the proportional region is exposed to a constant gamma\nradiation field. If the applied voltage is decreased but maintained within the proportional region,\nthe rate of ion collection will...",
+      "choices": [
+        "A. stay approximately the same, because all primary ions are collected as long as detector voltage",
+        "B. stay approximately the same, because the detector is still operating at saturated conditions.",
+        "C. decrease, because a decreased space charge around the positive electrode reduces gas",
+        "D. decrease, because fewer secondary ionizations are occurring in the detector."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1231,
+      "page": 174,
+      "stem": "A gas-filled radiation detector operating in the ion chamber region is exposed to a constant gamma\nradiation field. If the applied voltage is decreased but maintained within the ion chamber region,\nthe rate of ion collection will...",
+      "choices": [
+        "A. stay approximately the same, because all of the primary ions continue to be collected and",
+        "B. stay approximately the same, because detector operation in the ionization chamber region is",
+        "C. decrease, because fewer primary ionizations are occurring in the detector as detector voltage",
+        "D. decrease, because fewer secondary ionizations are occurring in the detector as detector voltage"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1232,
+      "page": 174,
+      "stem": "A nuclear power plant startup is in progress immediately following a reactor refueling outage. The\nexternal nuclear instrumentation (NI) was calibrated at 50 percent power just prior to the refueling\noutage and has not been readjusted.\nIf actual reactor power level is increased to 50 percent and stabilized, NI power level will indicate\n__________ than actual reactor power level because, when compared to pre-outage 50 percent\npower level operation, __________.",
+      "choices": [
+        "A. higher; the total core fission rate has increased",
+        "B. lower; the total core fission rate has decreased",
+        "C. higher; the fission rate in the outer portion of the core has increased",
+        "D. lower; the fission rate in the outer portion of the core has decreased"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1233,
+      "page": 175,
+      "stem": "Which one of the following describes the reason for the high sensitivity of a gas-filled radiation\ndetector operating in the Geiger-Mueller region?",
+      "choices": [
+        "A. Any radiation-induced ionization results in a large detector output pulse.",
+        "B. Geiger-Mueller detectors are longer than other types of radiation detectors, resulting in greater",
+        "C. The detector output is inversely proportional to the applied voltage within the Geiger-Mueller",
+        "D. High detector voltage allows differentiation between the various radiation types."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1234,
+      "page": 175,
+      "stem": "During a refueling outage, the fuel assemblies were reconfigured to reduce the radial power peak at\nthe center of the core while maintaining the same rated thermal power. Excore power range\ndetectors were calibrated at 50 percent power just prior to the outage.\nHow will indicated reactor power compare to actual reactor power when the nuclear power plant is\nstabilized at 50 percent power following the outage?",
+      "choices": [
+        "A. Indicated reactor power will be higher than actual reactor power due to increased core neutron",
+        "B. Indicated reactor power will be higher than actual reactor power due to decreased core neutron",
+        "C. Indicated reactor power will be lower than actual reactor power due to decreased core neutron",
+        "D. Indicated reactor power will be lower than actual reactor power due to increased core neutron"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1235,
+      "page": 176,
+      "stem": "Which one of the following statements describes the operation of a gas-filled radiation detector\noperating in the proportional region?",
+      "choices": [
+        "A. The number of ions collected from both primary and secondary ionizations is independent of the",
+        "B. Essentially all of the ions from primary ionizations are collected; the number of ions collected",
+        "C. The number of ions collected from both primary and secondary ionizations varies directly with",
+        "D. Essentially all of the ions from primary ionizations are collected; the number of ions collected"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1236,
+      "page": 176,
+      "stem": "A boron trifluoride (BF ) detector (proportional counter) is normally used to monitor only source\n3\nrange core neutron level. How will the detector and source range count rate indication be affected if\nnormal detector high voltage is inadvertently applied during reactor operation in the power range?",
+      "choices": [
+        "A. The BF gas will become completely ionized and source range indication will stabilize at a",
+        "B. The BF gas will become completely ionized and source range indication will stabilize at a",
+        "C. The detector electrodes will become exposed to an extremely high neutron flux and cause a false",
+        "D. The detector electrodes will become exposed to an extremely high gamma flux and cause a false"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1237,
+      "page": 177,
+      "stem": "A beta particle and an alpha particle enter and cause ionization in a gas-filled radiation detector\noperating in the Geiger-Mueller region. Which one of the following accurately compares the\namplitude of the detector pulses caused by each type of radiation?",
+      "choices": [
+        "A. The beta particle pulse will be larger in amplitude.",
+        "B. The alpha particle pulse will be larger in amplitude.",
+        "C. The pulses will be the same for both types of radiation.",
+        "D. Cannot be determined without particle kinetic energy information."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1238,
+      "page": 177,
+      "stem": "A nuclear power plant has been shut down for one month. A portable gas-filled radiation detector is\nneeded to monitor shutdown reactor core neutron level from a location outside the reactor vessel.\nThe detector must be able to distinguish between ionizations caused by gamma and neutron\nradiation.\nWhich region(s) of the gas-filled detector characteristic curve is/are acceptable for operation of the\ndetector?",
+      "choices": [
+        "A. Geiger-Mueller, Ion Chamber, and Proportional regions are all acceptable.",
+        "B. Proportional region is acceptable, and Ion Chamber region also may be usable.",
+        "C. Ion Chamber region is acceptable, and Geiger-Mueller region also may be usable.",
+        "D. Geiger-Mueller region is acceptable, and Proportional region also may be usable."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1239,
+      "page": 178,
+      "stem": "Quench gases are added to gas-filled radiation detectors that operate in the __________ region; the\nquench gases prevent a single ionization event from causing __________ in the detector gas volume.",
+      "choices": [
+        "A. ion chamber; multiple discharges",
+        "B. ion chamber; secondary ionizations",
+        "C. Geiger-Mueller; multiple discharges",
+        "D. Geiger-Mueller; secondary ionizations"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1240,
+      "page": 178,
+      "stem": "Which one of the following contains the pair of radiation detector types that are the most sensitive to\nlow-energy beta and/or gamma radiation?",
+      "choices": [
+        "A. Geiger-Mueller and scintillation",
+        "B. Geiger-Mueller and ion chamber",
+        "C. Ion chamber and scintillation",
+        "D. Ion chamber and proportional"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1241,
+      "page": 179,
+      "stem": "A beta particle and an alpha particle with equal kinetic energies cause ionization in a gas-filled\nradiation detector. The detector is operating in the ion chamber region of the gas ionization curve.\nWhich one of the following describes the amplitudes of the detector pulses caused by each type of\nradiation?",
+      "choices": [
+        "A. The beta particle pulse will be larger in amplitude.",
+        "B. The alpha particle pulse will be larger in amplitude.",
+        "C. The amplitudes of both pulses will be approximately equal for all detector voltages in the ion",
+        "D. The amplitudes of both pulses will be approximately equal for all detector voltages in the ion"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1242,
+      "page": 179,
+      "stem": "Which one of the following types of radiation detectors is generally not used for measuring a high-\nintensity beta and gamma radiation field because of a relatively long detector recovery time, or dead\ntime, following each ionization event?",
+      "choices": [
+        "A. Geiger-Mueller",
+        "B. Ion chamber",
+        "C. Proportional",
+        "D. Scintillation"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1243,
+      "page": 180,
+      "stem": "A proportional detector with pulse height discrimination circuitry is being used in a constant field of\nneutron and gamma radiation to provide source range neutron count rate indication. Assume that\nthe pulse height discrimination setpoint does not change.\nIf the detector voltage is increased but maintained within the proportional region, count rate\nindication will increase because...",
+      "choices": [
+        "A. a single neutron- or gamma-induced ionizing event will result in multiple pulses inside the",
+        "B. the ratio of the number of neutron-induced pulses to gamma-induced pulses inside the detector",
+        "C. the positive space charge effect will increase and promote the collection of both gamma- and",
+        "D. all detector pulses will increase in amplitude and previously uncounted gamma pulses will be"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1244,
+      "page": 180,
+      "stem": "Which one of the following types of radiation detectors uses a gas volume for radiation detection and\nwill typically produce the weakest output signal if all of the detectors are placed in the same gamma\nradiation field?",
+      "choices": [
+        "A. Geiger-Mueller",
+        "B. Ion chamber",
+        "C. Proportional counter",
+        "D. Scintillation"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1245,
+      "page": 181,
+      "stem": "Which one of the following types of radiation detectors is typically the least accurate in determining\nthe dose rate to a human body from an unspecified source of radiation?",
+      "choices": [
+        "A. Geiger-Mueller",
+        "B. Ion chamber",
+        "C. Proportional counter",
+        "D. Scintillation"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1246,
+      "page": 181,
+      "stem": "A fission chamber neutron detector is located in a constant neutron radiation field and is initially\noperating in the proportional region. If the voltage applied to the detector is changed such that the\ndetector operates in the ion chamber region, the rate of neutron interactions in the detector will\n__________; and the amplitude of each neutron-induced detector pulse will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. decrease; decrease",
+        "C. remain the same; increase",
+        "D. remain the same; decrease"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1247,
+      "page": 182,
+      "stem": "Which one of the following describes the positive space charge effect associated with a gas-filled\nradiation detector?",
+      "choices": [
+        "A. Multiple detector pulses result from a single ionization event because positive ions form a cloud",
+        "B. Multiple detector pulses result from a single ionization event because positive ions form a cloud",
+        "C. The pulse amplitude resulting from an ionization event is reduced because positive ions form a",
+        "D. The pulse amplitude resulting from an ionization event is reduced because positive ions form a"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1248,
+      "page": 182,
+      "stem": "In which usable region(s) of the gas-filled detector ionization curve is the pulse height resulting from\nthe detection of a 1 MeV beta particle the same as a 5 MeV alpha particle?",
+      "choices": [
+        "A. Geiger-Mueller only.",
+        "B. Geiger-Mueller and Ionization Chamber.",
+        "C. Proportional only.",
+        "D. Proportional and Ionization Chamber."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1249,
+      "page": 183,
+      "stem": "Which one of the following personal radiation monitoring devices can be charged with DC voltage\nto “zero” the device prior to use?",
+      "choices": [
+        "A. Film badge",
+        "B. Alarming dosimeter",
+        "C. Thermoluminescent dosimeter",
+        "D. Self-reading pocket dosimeter"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1250,
+      "page": 183,
+      "stem": "A Geiger-Mueller detector with a pancake probe (often called a frisker) is being used to monitor\npersonnel leaving a radiologically controlled area. The probe is equipped with a mica window.\nTwo individuals have radioactive skin contamination—one individual with only alpha emitters, and\nthe other with only beta emitters. Both types of radiation are being emitted at the same rate. The\nsame percentage of each type of radiation enters the probe’s detection chamber and causes\nionization.\nWhich one of the following describes the detector’s count rate response to the alpha and beta\nradiation?",
+      "choices": [
+        "A. The count rate will be higher for the alpha radiation.",
+        "B. The count rate will be higher for the beta radiation.",
+        "C. The count rate will be the same for both types of radiation.",
+        "D. Cannot be determined without knowing the energy levels of the radiation."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1251,
+      "page": 184,
+      "stem": "Just prior to a plant outage, the power range nuclear instruments (using excore detectors) were\ncalibrated at 50 percent reactor power. During the outage, 40 fuel assemblies from the center of the\ncore were exchanged with 40 higher enriched fuel assemblies from the outer portions of the core.\nNo other fuel assemblies were affected.\nImmediately after the outage, when the reactor is stabilized at 50 percent power, indicated reactor\npower will be __________ than actual reactor power because neutron leakage from the core has\n__________.",
+      "choices": [
+        "A. lower; decreased",
+        "B. lower; increased",
+        "C. higher; decreased",
+        "D. higher; increased"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1252,
+      "page": 184,
+      "stem": "A proportional detector with pulse height discrimination circuitry is being used in a constant field of\nneutron and gamma radiation to provide source range neutron count rate indication. Assume the\npulse height discrimination threshold does not change.\nIf the detector voltage is decreased significantly, but maintained within the proportional region, the\ndetector count rate indication will __________; and the detector will become __________\nsusceptible to the positive space charge effect.",
+      "choices": [
+        "A. decrease; less",
+        "B. decrease; more",
+        "C. remain the same; less",
+        "D. remain the same: more"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1253,
+      "page": 185,
+      "stem": "A gas-filled radiation detector that operates in the Geiger-Mueller region of the gas ionization curve\nis being used in a constant radiation field. If the detector’s operating voltage is increased by 50\nvolts while remaining in the Geiger-Mueller region, the detector’s count rate indication will\n__________; and the ability of the detector to detect gamma radiation will __________.",
+      "choices": [
+        "A. increase; improve",
+        "B. increase; remain the same",
+        "C. remain the same; improve",
+        "D. remain the same; remain the same"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1254,
+      "page": 185,
+      "stem": "A proportional detector with pulse height discrimination circuitry is being used in a constant field of\nneutron and gamma radiation to provide source range neutron count rate indication. Assume the\npulse height discrimination value does not change.\nIf the detector voltage is increased significantly, but maintained within the proportional region, the\ndetector count rate indication will __________; and the detector will become __________\nsusceptible to the positive space charge effect.",
+      "choices": [
+        "A. increase; less",
+        "B. increase; more",
+        "C. remain the same; less",
+        "D. remain the same: more"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1255,
+      "page": 186,
+      "stem": "A fission chamber detector is initially operating in the proportional region to measure neutron flux in\nthe source range. If the voltage applied to the detector is changed so that the detector now operates\nin the ion chamber region, the detector will produce __________ pulses; and will experience a\n__________ positive space charge effect.",
+      "choices": [
+        "A. larger; larger",
+        "B. larger; smaller",
+        "C. smaller; larger",
+        "D. smaller; smaller"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1256,
+      "page": 186,
+      "stem": "A gas-filled radiation detector is operating in the proportional region with a count rate indication of\n1.0 x 105 cpm in a constant radiation field. The detector does not have pulse height discrimination\ncircuitry.\nIf the detector’s operating voltage is increased by 20 percent while remaining in the proportional\nregion, the total number of ions resulting from a single ionization within the detector will\n__________; and the detector count rate indication will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; remain the same",
+        "C. remain the same; increase",
+        "D. remain the same; remain the same"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1257,
+      "page": 187,
+      "stem": "Radiation interacting with a gas-filled radiation detector produces primary ion pairs. A primary ion\npair consists of an electron and the ion formed by its removal. If the detector voltage is high\nenough, a primary ion pair can produce secondary ion pairs.\nWhen secondary ion pairs are formed, they are typically caused by interactions between the primary\n__________ and the __________ in the detector.",
+      "choices": [
+        "A. ion; gas",
+        "B. ion; electrodes",
+        "C. electron; gas",
+        "D. electron; electrodes"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1258,
+      "page": 187,
+      "stem": "A typical gamma ray (1 to 2 MeV) normally produces a free electron in a gas-filled radiation\ndetector by…",
+      "choices": [
+        "A. transferring energy to a nucleus, which recoils and leaves behind a free electron.",
+        "B. transferring energy to a bound electron, which recoils and becomes a free electron.",
+        "C. entering the electrostatic field of a nucleus, where it transforms into a proton and a free electron.",
+        "D. entering the electrostatic field of a bound electron, where it transforms into a positron and a free"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1259,
+      "page": 188,
+      "stem": "A typical alpha particle produces free electrons in a gas-filled radiation detector primarily by…",
+      "choices": [
+        "A. colliding with gas nuclei.",
+        "B. colliding with bound electrons.",
+        "C. electrostatic attraction of gas nuclei.",
+        "D. electrostatic attraction of bound electrons."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1260,
+      "page": 188,
+      "stem": "Which one of the following describes a characteristic of a self-reading pocket dosimeter (SRPD)?",
+      "choices": [
+        "A. The output of an SRPD is a dose rate in mR/hr.",
+        "B. SRPDs are primarily sensitive to beta radiation.",
+        "C. SRPD readings must be considered inaccurate when they are dropped.",
+        "D. SRPDs hold their charge indefinitely when removed from a radiation field."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1261,
+      "page": 189,
+      "stem": "Which one of the following types of radiation is the major contributor to the dose indication on a\nself-reading pocket dosimeter (SRPD)?",
+      "choices": [
+        "A. Alpha",
+        "B. Beta",
+        "C. Gamma",
+        "D. Neutron"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1262,
+      "page": 189,
+      "stem": "Which one of the following describes a characteristic of a self-reading pocket dosimeter?",
+      "choices": [
+        "A. Provides dose rate indication in mR/hr.",
+        "B. More sensitive to gamma radiation than beta radiation.",
+        "C. Contains crystals that luminesce when exposed to ionizing radiation.",
+        "D. Can be stored as an accurate record of lifetime radiation exposure."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1263,
+      "page": 190,
+      "stem": "A nuclear plant worker normally wears a thermoluminescent dosimeter (TLD) or similar device for\nmeasuring radiation exposure. When a self-reading pocket dosimeter (SRPD) is also required,\nwhere will the SRPD be worn and why?",
+      "choices": [
+        "A. Below the waist near the TLD to measure radiation from the same source(s).",
+        "B. Below the waist away from the TLD to measure radiation from different sources.",
+        "C. Above the waist near the TLD to measure radiation from the same source(s).",
+        "D. Above the waist away from the TLD to measure radiation from different sources."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1264,
+      "page": 190,
+      "stem": "A Geiger-Mueller detector with a pancake probe (often called a frisker) is being used to monitor\nworkers leaving a radiologically controlled area for contamination. The probe is equipped with a\nmica window. The background detector count rate is 20 cpm.\nAs one worker’s shoe is scanned, the count rate increases to 200 cpm. When a sheet of paper is\nplaced between the probe and the shoe, the count rate decreases to 60 cpm. Which one of the\nfollowing is indicated by the decrease in the count rate?",
+      "choices": [
+        "A. The contamination contains beta particles.",
+        "B. The contamination contains alpha particles.",
+        "C. The contamination does not contain beta particles.",
+        "D. The contamination does not contain alpha particles."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1265,
+      "page": 191,
+      "stem": "A Geiger Mueller detector with a pancake probe (sometimes called a frisker) is being used to\nmonitor for skin contamination. During frisking, the probe is more likely to detect contamination if\nthe probe is held __________ than one-half inch from the skin; and is moved __________ than two\ninches per second.",
+      "choices": [
+        "A. farther; faster",
+        "B. farther; slower",
+        "C. closer; faster",
+        "D. closer; slower"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1266,
+      "page": 191,
+      "stem": "A nuclear plant worker normally wears a thermoluminescent dosimeter (TLD) or similar device for\nmeasuring whole body radiation exposure. When a self-reading pocket dosimeter (SRPD) is also\nrequired for whole body monitoring, where will the SRPD be worn and why?",
+      "choices": [
+        "A. Near the TLD to add exposure to the TLD measurement.",
+        "B. Near the TLD to measure radiation affecting the same part of the body.",
+        "C. Away from the TLD to add exposure to the TLD measurement.",
+        "D. Away from the TLD to measure radiation affecting a different part of the body."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1267,
+      "page": 192,
+      "stem": "A Geiger-Mueller detector with a pancake probe is being used to monitor workers leaving a\nradiologically controlled area for contamination. The probe is sensitive to alpha, beta, and gamma\nradiation. The background count rate is 20 cpm. As one worker’s shoe is scanned the count rate\nincreases to 1,000 cpm.\nGiven the following separate actions:\n• When a sheet of paper is placed between the probe and the shoe, the count rate decreases to\n600 cpm.\n• When a sheet of aluminum foil is placed between the probe and the shoe, the count rate\ndecreases to 600 cpm.\nWhich one of the following lists the type(s) of radiation being emitted by the contamination?",
+      "choices": [
+        "A. Beta only",
+        "B. Alpha only",
+        "C. Beta and gamma",
+        "D. Alpha and gamma"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1268,
+      "page": 193,
+      "stem": "A Geiger-Mueller detector with a pancake probe is being used to monitor workers leaving a\nradiologically controlled area for contamination. The probe is sensitive to alpha, beta, and gamma\nradiation. The background count rate is 20 cpm. As one worker’s shoe is scanned, the count rate\nincreases to 1,000 cpm.\nGiven the following separate actions:\n• When a sheet of paper is placed between the probe and the shoe, the count rate decreases to\n400 cpm.\n• When a sheet of aluminum foil is placed between the probe and the shoe, the count rate\ndecreases to 20 cpm.\nThe results of the above actions indicate that the radiation from the shoe contamination consists of…",
+      "choices": [
+        "A. beta only.",
+        "B. alpha and beta only.",
+        "C. beta and gamma only.",
+        "D. alpha, beta, and gamma."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1269,
+      "page": 194,
+      "stem": "Which one of the following describes the ion collection that occurs in a proportional counter, such as\na BF detector?\n3",
+      "choices": [
+        "A. A fraction of the ions created by primary ionizations are collected. No secondary ionizations",
+        "B. Virtually all of the ions created by primary ionizations are collected. No secondary ionizations",
+        "C. Virtually all of the ions created by primary ionizations along with a fraction of the ions created",
+        "D. Virtually all of the ions created by primary and secondary ionizations are collected."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1270,
+      "page": 194,
+      "stem": "A fission chamber neutron monitoring instrument is operating in the proportional region. If a\ncomplete loss of fission chamber gas pressure occurs, the instrument indication will fail...",
+      "choices": [
+        "A. upscale.",
+        "B. downscale.",
+        "C. as is.",
+        "D. to midscale."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1271,
+      "page": 195,
+      "stem": "During reactor power operation, a reactor coolant sample is taken and analyzed. Which one of the\nfollowing lists three radionuclides that are all indicative of a fuel cladding failure if detected in\nelevated concentrations in the reactor coolant sample?",
+      "choices": [
+        "A. Lithium-6, cobalt-60, and argon-41",
+        "B. Iodine-131, cesium-138, and strontium-89",
+        "C. Nitrogen-16, xenon-135, and manganese-56",
+        "D. Hydrogen-2, hydrogen-3, and oxygen-18"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1272,
+      "page": 195,
+      "stem": "During power operation, a reactor coolant sample is taken and analyzed. Which one of the\nfollowing lists three nuclides that are all indicative of a possible fuel cladding failure if found to be\nat elevated concentrations in the reactor coolant sample?",
+      "choices": [
+        "A. Oxygen-18, iron-59, and zirconium-95",
+        "B. Cobalt-60, iodine-131, and xenon-135",
+        "C. Krypton-85, strontium-90, and cesium-136",
+        "D. Hydrogen-2, hydrogen-3, and nitrogen-16"
+      ],
+      "answer": "C",
+      "images": []
+    }
+  ]
+}

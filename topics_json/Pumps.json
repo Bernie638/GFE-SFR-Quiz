@@ -1,0 +1,2403 @@
+{
+  "topic": "Pumps",
+  "questions": [
+    {
+      "qid": 1386,
+      "page": 285,
+      "stem": "Which one of the following contains indications of cavitation in an operating centrifugal pump?",
+      "choices": [
+        "A. Low flow rate with low discharge pressure.",
+        "B. Low flow rate with high discharge pressure.",
+        "C. High motor amps with low discharge pressure.",
+        "D. High motor amps with high discharge pressure."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1387,
+      "page": 285,
+      "stem": "After a motor-driven centrifugal pump is started, the following indications are observed:\nOscillating flow rate.\nOscillating discharge pressure.\nOscillating motor amps.\nThese indications are symptoms that the pump is experiencing...",
+      "choices": [
+        "A. excessive thrust.",
+        "B. cavitation.",
+        "C. runout.",
+        "D. wear ring failure."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1388,
+      "page": 286,
+      "stem": "A centrifugal pump is initially operating at maximum rated flow rate in an open system. Which one\nof the following moderate changes will cause the pump to operate in closer proximity to cavitation?",
+      "choices": [
+        "A. Increase pump inlet temperature.",
+        "B. Decrease pump speed.",
+        "C. Increase pump suction pressure.",
+        "D. Decrease pump recirculation flow rate."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1389,
+      "page": 286,
+      "stem": "Pump cavitation occurs when vapor bubbles are formed at the eye of a pump impeller...",
+      "choices": [
+        "A. when the localized flow velocity exceeds sonic velocity for the existing fluid temperature.",
+        "B. when the localized pressure exceeds the vapor pressure for the existing fluid temperature.",
+        "C. and enter a high pressure region of the pump where they collapse, causing damaging pressure",
+        "D. and are discharged from the pump where they collapse in downstream piping, causing damaging"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1390,
+      "page": 287,
+      "stem": "Which one of the following contains symptoms associated with cavitation in an operating centrifugal\npump?",
+      "choices": [
+        "A. Decreased motor current and pump speed.",
+        "B. Decreased pump and motor temperature.",
+        "C. Steadily increasing discharge pressure.",
+        "D. Increased noise and vibration."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1391,
+      "page": 287,
+      "stem": "Which one of the following will promptly result in cavitation of a centrifugal pump that is initially\noperating at rated flow?",
+      "choices": [
+        "A. Recirculation flow path is aligned.",
+        "B. Recirculation flow path is isolated.",
+        "C. Pump suction valve is fully closed.",
+        "D. Pump discharge valve is fully closed."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1392,
+      "page": 288,
+      "stem": "Which one of the following describes pump cavitation?",
+      "choices": [
+        "A. Vapor bubbles are formed when the enthalpy difference between pump discharge and pump",
+        "B. Vapor bubbles are formed in the eye of the pump impeller and collapse as they enter higher",
+        "C. Vapor bubbles are produced when the localized pressure exceeds the vapor pressure at the",
+        "D. Vapor bubbles are discharged from the pump where they collapse on downstream piping and"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1393,
+      "page": 288,
+      "stem": "Which one of the following is an indication of pump cavitation?",
+      "choices": [
+        "A. Pump motor amps are pegged high.",
+        "B. Pump discharge pressure indicates zero.",
+        "C. Pump motor amps are fluctuating.",
+        "D. Pump discharge pressure indicates shutoff head."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1394,
+      "page": 289,
+      "stem": "If a centrifugal pump is started with the discharge valve fully open versus throttled, the possibility of\npump runout will __________; and the possibility of pump cavitation will __________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. increase; increase",
+        "C. decrease; decrease",
+        "D. decrease; increase"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1395,
+      "page": 289,
+      "stem": "If a centrifugal pump is started with the discharge valve throttled versus fully open, the possibility of\npump runout will __________; and the possibility of pump cavitation will __________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. increase; increase",
+        "C. decrease; decrease",
+        "D. decrease; increase"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1396,
+      "page": 290,
+      "stem": "The presence of air in a pump casing may result in __________ when the pump is started.",
+      "choices": [
+        "A. vortexing",
+        "B. pump runout",
+        "C. pump overspeed",
+        "D. gas binding"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1397,
+      "page": 290,
+      "stem": "Which one of the following contains three indications of a vapor-bound motor-operated centrifugal\npump that is operating in a cooling water system?",
+      "choices": [
+        "A. Fluctuating pump discharge pressure, reduced system flow rate, and increased pump motor",
+        "B. Reduced system flow rate, increased pump motor current, and increased pump noise level.",
+        "C. Increased pump motor current, increased pump noise level, and fluctuating pump discharge",
+        "D. Increased pump noise level, fluctuating pump discharge pressure, and reduced system flow rate."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1398,
+      "page": 291,
+      "stem": "Which one of the following is an effective method for ensuring that a centrifugal pump remains\nprimed and does not become gas bound during pump operation and after pump shutdown?",
+      "choices": [
+        "A. Install the pump below the level of the suction supply.",
+        "B. Install a check valve in the discharge piping of the pump.",
+        "C. Install an orifice plate in the discharge piping of the pump.",
+        "D. Install a pump recirculation line from the pump discharge piping to the pump suction piping."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1399,
+      "page": 291,
+      "stem": "Operating a motor-driven centrifugal pump for an extended period of time under no flow conditions\nwill cause...",
+      "choices": [
+        "A. pump failure from overspeed.",
+        "B. pump failure from overheating.",
+        "C. motor failure from overspeed.",
+        "D. motor failure from overheating."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1400,
+      "page": 292,
+      "stem": "When a centrifugal pump is operating at shutoff head, it is pumping at __________ capacity and\n__________ discharge head.",
+      "choices": [
+        "A. maximum; maximum",
+        "B. maximum; minimum",
+        "C. minimum; maximum",
+        "D. minimum; minimum"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1401,
+      "page": 293,
+      "stem": "Refer to the drawing of centrifugal pump and system operating curves (see figure below).\nWhich point represents pump operation at shutoff head?",
+      "choices": [
+        "A. Point A",
+        "B. Point B",
+        "C. Point C",
+        "D. Point D"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p293_1.png"
+      ]
+    },
+    {
+      "qid": 1402,
+      "page": 294,
+      "stem": "Operating a centrifugal pump at shutoff head without recirculation flow can quickly result in...",
+      "choices": [
+        "A. discharge piping overpressure.",
+        "B. suction piping overpressure.",
+        "C. excessive pump leakoff.",
+        "D. pump overheating."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1403,
+      "page": 294,
+      "stem": "A motor-driven centrifugal pump with no recirculation flow path must be stopped when discharge\npressure reaches the pump shutoff head to prevent...",
+      "choices": [
+        "A. overheating of the pump.",
+        "B. overheating of the motor.",
+        "C. bursting of the pump casing.",
+        "D. water hammer in downstream lines."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1404,
+      "page": 295,
+      "stem": "Refer to the drawing of a centrifugal pump with a recirculation line (see figure below).\nThe flowpath through valve A is designed to...",
+      "choices": [
+        "A. prevent pump runout by creating a recirculation flowpath.",
+        "B. provide a small flow rate through the pump during shutoff head conditions.",
+        "C. direct a small amount of water to the pump suction to raise available net positive suction head.",
+        "D. prevent the discharge piping from exceeding design pressure during no-flow conditions."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p295_1.png"
+      ]
+    },
+    {
+      "qid": 1405,
+      "page": 296,
+      "stem": "Which one of the following is at a relatively high value when a centrifugal pump is operating at\nshutoff head?",
+      "choices": [
+        "A. Pump motor current",
+        "B. Pump volumetric flow rate",
+        "C. Available net positive suction head",
+        "D. Required net positive suction head"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1406,
+      "page": 296,
+      "stem": "Which one of the following describes radial-flow centrifugal pump operating parameters at shutoff\nhead?",
+      "choices": [
+        "A. High discharge pressure, low flow, low power demand",
+        "B. High discharge pressure, high flow, low power demand",
+        "C. Low discharge pressure, low flow, high power demand",
+        "D. Low discharge pressure, high flow, high power demand"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1407,
+      "page": 297,
+      "stem": "Which one of the following conditions applies to a centrifugal pump running at shutoff head?",
+      "choices": [
+        "A. The volumetric flow rate for the pump has been maximized.",
+        "B. Cavitation will occur immediately upon reaching shutoff head.",
+        "C. Available net positive suction head is at a maximum value for the existing fluid conditions.",
+        "D. Pump differential pressure is at a minimum value."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1408,
+      "page": 297,
+      "stem": "Which one of the following will result from operating an AC motor-driven radial-flow centrifugal\npump in a water system for an extended period with the discharge valve shut and no recirculation\nflow?",
+      "choices": [
+        "A. No motor damage, but the pump will overheat and may be damaged.",
+        "B. No motor damage, but the pump will overspeed and may be damaged.",
+        "C. No pump damage, but the motor will overspeed and may be damaged.",
+        "D. No pump damage, but the motor will overheat and may be damaged."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1409,
+      "page": 298,
+      "stem": "Refer to the drawing of a pump with recirculation line (see figure below).\nWhich one of the following describes the effect on the pump if a complete flow blockage occurs in\nthe discharge line just downstream of the flow transmitter?",
+      "choices": [
+        "A. The pump will overheat after a relatively short period of time, due to a loss of both main flow",
+        "B. The pump will overheat after a relatively long period of time, due to a loss of main flow only.",
+        "C. The pump will overheat after a relatively long period of time, due to a loss of recirculation flow",
+        "D. The pump will be able to operate under these conditions indefinitely, due to sustained main flow."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p298_1.png"
+      ]
+    },
+    {
+      "qid": 1410,
+      "page": 299,
+      "stem": "A variable-speed centrifugal fire water pump is taking a suction on an open storage tank and\ndischarging through a 4-inch diameter fire hose and through a nozzle located 50 feet above the\npump.\nWhich one of the following will cause the pump to operate at shutoff head?",
+      "choices": [
+        "A. The fire hose is replaced with a 6-inch diameter fire hose.",
+        "B. The fire hose is replaced with a 2-inch diameter fire hose.",
+        "C. Pump speed is increased until steam formation at the eye of the pump prevents pump flow.",
+        "D. Pump speed is decreased until pump discharge pressure is insufficient to cause flow."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1411,
+      "page": 300,
+      "stem": "Refer to the drawing of a pump with a recirculation line (see figure below).\nValve A will open when pump...",
+      "choices": [
+        "A. discharge pressure increases above a setpoint.",
+        "B. discharge pressure decreases below a setpoint.",
+        "C. flow rate increases above a setpoint.",
+        "D. flow rate decreases below a setpoint."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p300_1.png"
+      ]
+    },
+    {
+      "qid": 1412,
+      "page": 301,
+      "stem": "A centrifugal fire water pump takes suction from an open storage tank and discharges through a fire\nhose. Which one of the following will cause the pump to operate at shutoff head?",
+      "choices": [
+        "A. The fire hose nozzle is raised to an elevation that prevents any flow.",
+        "B. Suction temperature is increased to the point that gas binding occurs.",
+        "C. Pump speed is adjusted to the value at which cavitation occurs.",
+        "D. Suction pressure is adjusted until available net positive suction head is reduced to zero feet."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1413,
+      "page": 301,
+      "stem": "A centrifugal fire water pump takes suction from an open storage tank and discharges through a fire\nhose. Which one of the following will cause the pump to operate at shutoff head?",
+      "choices": [
+        "A. A firefighter inadvertently severs the fire hose.",
+        "B. The fire hose becomes completely crimped in a fire door.",
+        "C. Fire water storage tank level drops below the pump suction tap.",
+        "D. A firefighter adjusts the fire hose nozzle spray pattern from DELUGE to FOG."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1414,
+      "page": 302,
+      "stem": "A centrifugal fire water pump takes suction from an open storage tank and discharges through a fire\nhose. Which one of the following will cause the pump to operate at shutoff head?",
+      "choices": [
+        "A. A firefighter inadvertently severs the fire hose.",
+        "B. The fire hose becomes partially crimped in a fire door.",
+        "C. Fire water storage tank level drops below the pump suction tap.",
+        "D. A firefighter adjusts the fire hose nozzle spray pattern from DELUGE to OFF."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1415,
+      "page": 303,
+      "stem": "Refer to the drawing of a pump with a recirculation line (see figure below).\nValve A will close when pump...",
+      "choices": [
+        "A. discharge pressure increases above a setpoint.",
+        "B. discharge pressure decreases below a setpoint.",
+        "C. flow rate increases above a setpoint.",
+        "D. flow rate decreases below a setpoint."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p303_1.png"
+      ]
+    },
+    {
+      "qid": 1416,
+      "page": 304,
+      "stem": "The discharge valve for a radial-flow centrifugal cooling water pump is closed in preparation for\nstarting the pump.\nAfter the pump is started, the following stable pump pressures are observed:\nPump discharge pressure = 30 psig\nPump suction pressure = 10 psig\nWith the discharge valve still closed, if the pump speed is doubled, which one of the following will\nbe the new pump discharge pressure?",
+      "choices": [
+        "A. 80 psig",
+        "B. 90 psig",
+        "C. 120 psig",
+        "D. 130 psig"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1417,
+      "page": 305,
+      "stem": "The discharge valve for a radial-flow centrifugal cooling water pump is closed in preparation for\nstarting the pump.\nAfter the pump is started, the pump suction and discharge pressures stabilize as follows:\nPump suction pressure = 5 psig\nPump discharge pressure = 35 psig\nWith the discharge valve still closed, if the pump speed is doubled, what will be the new stable pump\ndischarge pressure?",
+      "choices": [
+        "A. 65 psig",
+        "B. 120 psig",
+        "C. 125 psig",
+        "D. 140 psig"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1418,
+      "page": 305,
+      "stem": "The available net positive suction head for a pump may be expressed as...",
+      "choices": [
+        "A. discharge pressure minus saturation pressure of the fluid being pumped.",
+        "B. discharge pressure minus suction pressure.",
+        "C. suction pressure minus saturation pressure of the fluid being pumped.",
+        "D. suction pressure plus discharge pressure."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1419,
+      "page": 306,
+      "stem": "Which one of the following operations in a closed system will cause a decrease in available net\npositive suction head for a centrifugal pump?",
+      "choices": [
+        "A. Decreasing the inlet fluid temperature.",
+        "B. Increasing the pump discharge pressure.",
+        "C. Throttling open the pump suction valve.",
+        "D. Throttling open the pump discharge valve."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1420,
+      "page": 307,
+      "stem": "Refer to the drawing of a cooling water system (see figure below).\nThe available net positive suction head for the centrifugal pump will be increased by...",
+      "choices": [
+        "A. opening surge tank makeup valve A to raise tank level.",
+        "B. throttling heat exchanger service water valve B more closed.",
+        "C. throttling pump discharge valve C more open.",
+        "D. throttling pump suction valve D more closed."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p307_1.png"
+      ]
+    },
+    {
+      "qid": 1421,
+      "page": 308,
+      "stem": "Refer to the drawing of a cooling water system (see figure below).\nThe available net positive suction head for the centrifugal pump will be decreased by...",
+      "choices": [
+        "A. opening surge tank makeup valve A to raise tank level.",
+        "B. throttling heat exchanger service water valve B more open.",
+        "C. throttling pump discharge valve C more open.",
+        "D. reducing the heat load on the cooling water system."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p308_1.png"
+      ]
+    },
+    {
+      "qid": 1422,
+      "page": 309,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following will increase available net positive suction head for the centrifugal\npump?",
+      "choices": [
+        "A. Draining the surge tank to decrease level by 10 percent.",
+        "B. Positioning heat exchanger service water valve B more closed.",
+        "C. Positioning pump discharge valve C more closed.",
+        "D. Positioning pump suction valve D more closed."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p309_1.png"
+      ]
+    },
+    {
+      "qid": 1423,
+      "page": 310,
+      "stem": "Refer to the drawing of a cooling water system (see figure below).\nThe available net positive suction head for the centrifugal pump will be decreased by...",
+      "choices": [
+        "A. increasing surge tank level by 5 percent.",
+        "B. throttling heat exchanger service water valve B more open.",
+        "C. throttling pump discharge valve C more closed.",
+        "D. increasing the heat loads on the cooling water system."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p310_1.png"
+      ]
+    },
+    {
+      "qid": 1424,
+      "page": 311,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following will decrease available net positive suction head for the centrifugal\npump?",
+      "choices": [
+        "A. Adding water to the surge tank to raise level by 10 percent.",
+        "B. Positioning heat exchanger service water valve B more open.",
+        "C. Positioning pump discharge valve C more open.",
+        "D. Reducing heat loads on the cooling water system by 10 percent."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p311_1.png"
+      ]
+    },
+    {
+      "qid": 1425,
+      "page": 312,
+      "stem": "A cooling water pump is operating with pump suction parameters as follows:\nSuction Temperature = 124°F\nSuction Pressure = 11.7 psia\nWhat is the approximate available net positive suction head (NPSH) for the pump? (Neglect the\ncontribution of the suction fluid velocity to NPSH.)",
+      "choices": [
+        "A. 23 feet",
+        "B. 27 feet",
+        "C. 31 feet",
+        "D. 35 feet"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1426,
+      "page": 312,
+      "stem": "A centrifugal pump is operating at maximum design flow rate, taking suction on a vented water\nstorage tank and discharging through two parallel valves. Valve A is fully open and valve B is half\nopen.\nWhich one of the following will occur if valve B is fully closed?",
+      "choices": [
+        "A. The pump will operate at shutoff head.",
+        "B. The pump will operate at runout conditions.",
+        "C. The pump available net positive suction head will increase.",
+        "D. The pump required net positive suction head will increase."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1427,
+      "page": 313,
+      "stem": "Which one of the following will increase the available net positive suction head for the centrifugal\npump?",
+      "choices": [
+        "A. Draining the surge tank to decrease level by 10 percent.",
+        "B. Positioning the service water valve B more closed.",
+        "C. Positioning the pump discharge valve C more open.",
+        "D. Reducing the heat loads on the cooling water system."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p313_1.png"
+      ]
+    },
+    {
+      "qid": 1428,
+      "page": 314,
+      "stem": "A centrifugal pump is needed to take suction on a water storage tank and deliver high pressure water\nto a water spray system. To minimize axial thrust on the pump shaft, the pump should have\n__________ stage(s); and to maximize the available NPSH at the impeller inlet, the pump should\nhave a __________ suction impeller.",
+      "choices": [
+        "A. a single; single",
+        "B. a single; double",
+        "C. multiple opposed; single",
+        "D. multiple opposed; double"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1429,
+      "page": 314,
+      "stem": "A centrifugal pump is taking suction on an open storage tank that has been filled to a level of 40 feet\nwith 10,000 gallons of 60°F water. The pump is located at the base of the tank, takes a suction from\nthe bottom of the tank, and discharges to a lake.\nGiven:\n• The pump is currently operating at its design flow rate of 200 gpm and a total developed head\nof 150 feet.\n• The pump requires 4 feet of net positive suction head.\nHow will the centrifugal pump flow rate be affected as the water storage tank level decreases?",
+      "choices": [
+        "A. Flow rate will remain constant until the pump begins to cavitate at a tank level of about 4 feet.",
+        "B. Flow rate will remain constant until the pump becomes air bound when the tank empties.",
+        "C. Flow rate will gradually decrease until the pump begins to cavitate at a tank level of about 4 feet.",
+        "D. Flow rate will gradually decrease until the pump becomes air bound when the tank empties."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1430,
+      "page": 315,
+      "stem": "Refer to the drawing below of a centrifugal pump taking suction from the bottom of an open storage\ntank containing water at 66°F. Pump and water level elevations are indicated in the figure.\nAssume standard atmospheric pressure.\nAssuming that pump suction head loss is negligible, what is the approximate value of net positive\nsuction head available to the pump?",
+      "choices": [
+        "A. 6 feet",
+        "B. 13 feet",
+        "C. 20 feet",
+        "D. 25 feet"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p315_1.png"
+      ]
+    },
+    {
+      "qid": 1431,
+      "page": 316,
+      "stem": "Refer to the drawing of an elevated centrifugal pump taking suction from the bottom of an open\nstorage tank containing water at 66°F (see figure below). Assume standard atmospheric pressure.\nThe pump requires 4.0 feet of net positive suction head (NPSH). Assume that pump suction head\nloss is negligible.\nIf tank water level is allowed to decrease continuously, at what approximate water level will the\npump begin to cavitate?",
+      "choices": [
+        "A. 34 feet",
+        "B. 29 feet",
+        "C. 21 feet",
+        "D. 16 feet"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p316_1.png"
+      ]
+    },
+    {
+      "qid": 1432,
+      "page": 317,
+      "stem": "Refer to the drawing of a centrifugal pump taking suction from the bottom of an open storage tank\ncontaining water at 66°F (see figure below). Pump and water level elevations are indicated in the\nfigure. Assume standard atmospheric pressure.\nAssuming that pump suction head loss is negligible, what is the approximate value of net positive\nsuction head available to the pump?",
+      "choices": [
+        "A. 6 feet",
+        "B. 12 feet",
+        "C. 39 feet",
+        "D. 45 feet"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p317_1.png"
+      ]
+    },
+    {
+      "qid": 1433,
+      "page": 318,
+      "stem": "Refer to the drawing of a centrifugal pump taking suction from the bottom of an open water storage\ntank (see figure below).\nGiven:\n• The tank contains 60°F water.\n• The eye of the pump impeller is located 50 feet above the bottom of the tank.\n• The pump requires a minimum net positive suction head of 4 feet.\nWhich one of the following describes the effect on pump operation if tank water level is allowed to\ncontinuously decrease?",
+      "choices": [
+        "A. The pump will operate normally until tank water level decreases below approximately 20 feet, at",
+        "B. The pump will operate normally until tank water level decreases below approximately 16 feet, at",
+        "C. The pump will operate normally until the pump suction becomes uncovered, at which time the",
+        "D. The pump will operate normally until the pump suction becomes uncovered, at which time the"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p318_1.png"
+      ]
+    },
+    {
+      "qid": 1434,
+      "page": 319,
+      "stem": "A centrifugal pump is taking suction on a water storage tank and delivering the makeup water to a\ncooling water system. The pump will have the lowest net positive suction head requirement if the\npump is operated at a relatively __________ speed with a __________ discharge flow control valve.",
+      "choices": [
+        "A. high; fully open",
+        "B. high; throttled",
+        "C. low; fully open",
+        "D. low; throttled"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1435,
+      "page": 320,
+      "stem": "Refer to the drawing below of a centrifugal pump taking suction from the bottom of an open storage\ntank containing water at 75°F. Pump and water level elevations are indicated in the figure.\nAssume standard atmospheric pressure.\nAssuming that pump suction head loss is negligible, what is the approximate value of net positive\nsuction head available to the pump?",
+      "choices": [
+        "A. 5 feet",
+        "B. 10 feet",
+        "C. 17 feet",
+        "D. 23 feet"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p320_1.png"
+      ]
+    },
+    {
+      "qid": 1436,
+      "page": 321,
+      "stem": "A centrifugal pump is taking suction on a water storage tank and discharging through a flow control\nvalve. The pump will have the highest net positive suction head requirement if the pump is\noperated at a __________ speed with a __________ discharge flow control valve.",
+      "choices": [
+        "A. high; fully open",
+        "B. high; throttled",
+        "C. low; fully open",
+        "D. low; throttled"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1437,
+      "page": 321,
+      "stem": "An operating centrifugal pump has a net positive suction head (NPSH) requirement of 150 feet.\nWater at 300°F is entering the pump. Which one of the following is the lowest listed pump inlet\npressure that will provide adequate NPSH for the pump?",
+      "choices": [
+        "A. 60 psia",
+        "B. 83 psia",
+        "C. 108 psia",
+        "D. 127 psia"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1438,
+      "page": 322,
+      "stem": "The current conditions for a centrifugal water pump are as follows:\nPump suction pressure = 140 psia\nPump suction temperature = 300°F\nThe pump requires a net positive suction head (NPSH) of 150 feet for pumping water at 300°F.\nWhich one of the following is the lowest listed pump suction pressure that will provide the required\nNPSH for the current pump suction temperature?",
+      "choices": [
+        "A. 132 psia",
+        "B. 128 psia",
+        "C. 73 psia",
+        "D. 67 psia"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1439,
+      "page": 323,
+      "stem": "A centrifugal pump is taking suction from an open water storage tank. The pump is located at the\nbase of the tank, takes a suction from the bottom of the tank, and discharges to a pressurized system.\nGiven:\n• The tank is filled to a level of 26 feet with 60°F water.\n• The pump is currently operating at 50 gpm.\n• The pump requires 30 feet of net positive suction head.\nWhich one of the following describes the current pump status, and how the pump flow rate will be\naffected as the level in the storage tank decreases?",
+      "choices": [
+        "A. The pump is currently cavitating; pump flow rate will decrease continuously as tank level",
+        "B. The pump is currently cavitating; pump flow rate will remain about the same until the tank",
+        "C. The pump is currently not cavitating; pump flow rate will gradually decrease with tank level and",
+        "D. The pump is currently not cavitating; pump flow rate will gradually decrease with tank level and"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1440,
+      "page": 324,
+      "stem": "Refer to the drawing of a centrifugal pump taking suction from a reservoir.\nThe pump is located on shore, with the eye of the pump 4 feet higher than the reservoir water level.\nThe pump’s suction line extends 4 feet below the surface of the reservoir. Which one of the\nfollowing modifications would increase the pump’s available net positive suction head? (Assume\nthe reservoir is at a uniform temperature and ignore any changes in suction line head loss due to\nfriction.)",
+      "choices": [
+        "A. Raise the pump and suction line by 2 feet.",
+        "B. Lower the pump and suction line by 2 feet.",
+        "C. Lengthen the suction line to take a suction from 2 feet deeper.",
+        "D. Shorten the suction line to take a suction from 2 feet shallower."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p324_1.png"
+      ]
+    },
+    {
+      "qid": 1441,
+      "page": 325,
+      "stem": "Refer to the drawing of a centrifugal pump taking suction from a reservoir (see figure below).\nThe pump is located on shore, with the eye of the pump 4 feet higher than the reservoir water level.\nThe pump’s suction line extends 4 feet below the surface of the reservoir. Which one of the\nfollowing modifications would decrease the pump’s available net positive suction head? (Assume\nthe reservoir is at a uniform temperature and ignore any changes in suction line head loss due to\nfriction.)",
+      "choices": [
+        "A. Raise the pump and suction line by 2 feet.",
+        "B. Lower the pump and suction line by 2 feet.",
+        "C. Lengthen the suction line to take a suction from 2 feet deeper.",
+        "D. Shorten the suction line to take a suction from 2 feet shallower."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p325_1.png"
+      ]
+    },
+    {
+      "qid": 1442,
+      "page": 326,
+      "stem": "Refer to the drawing of a centrifugal pump with a water storage tank for its suction source. The\nstorage tank is open to the atmosphere and contains 20 feet of water at 60°F. The pump is currently\nstopped.\nIf the temperature of the water in the storage tank and pump suction piping increases to 80°F, with\nthe accompanying water expansion, the suction head for the pump will __________; and the\navailable net positive suction head for the pump will __________.",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; decrease",
+        "C. remain the same; increase",
+        "D. remain the same; decrease"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p326_1.png"
+      ]
+    },
+    {
+      "qid": 1443,
+      "page": 327,
+      "stem": "A centrifugal pump is taking suction from an open water storage tank. The pump is located at the\nbase of the tank, takes a suction from the bottom of the tank, and discharges to a pressurized system.\nGiven:\n• The storage tank is filled to a level of 26 feet with 60°F water.\n• The pump requires 45 feet of net positive suction head.\n• The pump is currently operating at 50 gpm.\nWhich one of the following describes the current pump status, and how the pump flow rate will be\naffected as the level in the storage tank decreases?",
+      "choices": [
+        "A. The pump is currently cavitating; pump flow rate will decrease continuously as tank level",
+        "B. The pump is currently cavitating; pump flow rate will remain about the same until the tank",
+        "C. The pump is currently not cavitating; pump flow rate will gradually decrease with tank level, and",
+        "D. The pump is currently not cavitating; pump flow rate will gradually decrease with tank level, and"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1444,
+      "page": 328,
+      "stem": "A centrifugal pump is operating normally in a closed cooling water system. If system pressure is\nincreased by 10 psi, the available net positive suction head (NPSH) for the pump will __________;\nand the pump mass flow rate will __________. (Assume the water density does not change and the\nminimum required NPSH for the pump is maintained.)",
+      "choices": [
+        "A. increase; increase",
+        "B. increase; remain the same",
+        "C. decrease; decrease",
+        "D. decrease; remain the same"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1445,
+      "page": 329,
+      "stem": "Refer to the drawing of a centrifugal pump with a water storage tank for its suction source. The\nstorage tank is open to the atmosphere and contains 20 feet of water at 90°F. The pump is currently\nstopped.\nIf the temperature of the water in the storage tank and pump suction piping decreases to 70°F, with\nthe accompanying water contraction, the suction head for the pump will __________; and the\navailable net positive suction head for the pump will __________.",
+      "choices": [
+        "A. decrease; increase",
+        "B. decrease; remain the same",
+        "C. remain the same; increase",
+        "D. remain the same; remain the same"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p329_1.png"
+      ]
+    },
+    {
+      "qid": 1446,
+      "page": 330,
+      "stem": "Shutting the discharge valve on an operating motor-driven radial-flow centrifugal pump in a water\nsystem will cause the motor amps to __________ and the pump discharge pressure to __________.",
+      "choices": [
+        "A. decrease, increase",
+        "B. decrease, decrease",
+        "C. increase, increase",
+        "D. increase, decrease"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1447,
+      "page": 331,
+      "stem": "When starting an AC motor-driven centrifugal pump, the response of motor current will be...",
+      "choices": [
+        "A. low starting amps, increasing to a higher equilibrium value of running amps.",
+        "B. low starting amps, remaining at a low equilibrium value of running amps.",
+        "C. high starting amps, decreasing to a lower equilibrium value of running amps.",
+        "D. high starting amps, remaining at a high equilibrium value of running amps."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1448,
+      "page": 331,
+      "stem": "A constant-speed radial-flow centrifugal pump motor draws the least current when the pump is...",
+      "choices": [
+        "A. at runout conditions.",
+        "B. at operating conditions.",
+        "C. accelerating to normal speed during start.",
+        "D. at shutoff head."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1449,
+      "page": 332,
+      "stem": "A centrifugal pump was initially circulating water at 100°F in a cooling water system. Over several\nhours, the water temperature increased to 150°F. Assuming system flow rate (gpm) was constant,\npump motor amps __________ during the heatup because __________.",
+      "choices": [
+        "A. decreased; the water density decreased",
+        "B. decreased; the water volume increased",
+        "C. increased; the water density decreased",
+        "D. increased; the water volume increased"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1450,
+      "page": 332,
+      "stem": "An AC motor-driven centrifugal pump was initially circulating water at 200°F in a cooling water\nsystem. Over several hours, the circulating water temperature decreased to 120°F while system\nflow rate (gpm) remained constant.\nDuring the system cooldown, pump motor current __________ because __________",
+      "choices": [
+        "A. decreased; the water density increased",
+        "B. increased; the water density increased",
+        "C. decreased; the pump motor efficiency decreased",
+        "D. increased; the pump motor efficiency decreased"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1451,
+      "page": 333,
+      "stem": "A centrifugal pump is operating in a closed system with all valves fully open. If the pump\ndischarge valve is throttled 75 percent closed, pump motor current will...",
+      "choices": [
+        "A. increase and stabilize at a higher value.",
+        "B. decrease and stabilize at a lower value.",
+        "C. increase briefly, then return to the original value.",
+        "D. decrease briefly, then return to the original value."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1452,
+      "page": 333,
+      "stem": "Which one of the following operating conditions for a motor-driven radial-flow centrifugal pump\nwill result in the most current being drawn by the pump motor?",
+      "choices": [
+        "A. Pump discharge head is at shutoff head.",
+        "B. The pump is operating at minimum flow.",
+        "C. Pump discharge head is at design head.",
+        "D. The pump is operating at runout."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1453,
+      "page": 334,
+      "stem": "Initially, an AC motor-driven centrifugal pump was operating in a cooling water system with cooling\nwater temperature at 150°F. Over several hours, the cooling water temperature decreased and is\ncurrently 100°F. Assuming pump flow rate (gpm) remained constant, the pump motor is drawing\n__________ current because __________ is greater.",
+      "choices": [
+        "A. more; cooling water density",
+        "B. more; motor efficiency",
+        "C. less; cooling water density",
+        "D. less; motor efficiency"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1454,
+      "page": 334,
+      "stem": "An AC motor-driven centrifugal pump is circulating water at 180°F with a motor current of 100\namps. After several hours, system temperature has changed such that the water density has\nincreased by 4 percent.\nAssuming pump head and volumetric flow rate do not change, which one of the following is the new\npump motor current?",
+      "choices": [
+        "A. 84 amps",
+        "B. 96 amps",
+        "C. 104 amps",
+        "D. 116 amps"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1455,
+      "page": 335,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nInitially, centrifugal pump A is circulating water at 100°F. If the temperature of the cooling water\nentering pump A increases to 200°F, the pump’s motor current will... (Assume the pump’s\nvolumetric flow rate is constant.)",
+      "choices": [
+        "A. increase, because the speed of the pump shaft will increase.",
+        "B. decrease, because the speed of the pump shaft will decrease.",
+        "C. increase, because the density of the cooling water will increase.",
+        "D. decrease, because the density of the cooling water will decrease."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p335_1.png"
+      ]
+    },
+    {
+      "qid": 1456,
+      "page": 336,
+      "stem": "A constant-speed radial-flow centrifugal pump motor draws the least current when the pump is...",
+      "choices": [
+        "A. at maximum rated flow conditions.",
+        "B. operating on recirculation flow only.",
+        "C. accelerating to normal speed during start.",
+        "D. at shutoff head with no recirculation flow."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1457,
+      "page": 336,
+      "stem": "A typical radial-flow centrifugal pump is operating at rated conditions in an open system with all\nvalves fully open. If the pump discharge valve is throttled to 50 percent closed, pump discharge\npressure will __________; and pump motor current will __________.",
+      "choices": [
+        "A. decrease; decrease",
+        "B. decrease; increase",
+        "C. increase; increase",
+        "D. increase; decrease"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1458,
+      "page": 337,
+      "stem": "A centrifugal pump in a cooling water system is operating with a motor current of 200 amps. After\nseveral hours, the system water density has increased by 3 percent, while the pump head and\nvolumetric flow rate have remained the same.\nWhich one of the following is the new pump motor current?",
+      "choices": [
+        "A. 203 amps",
+        "B. 206 amps",
+        "C. 218 amps",
+        "D. 236 amps"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1459,
+      "page": 338,
+      "stem": "A constant-speed centrifugal pump motor draws the most current when the pump is...",
+      "choices": [
+        "A. at maximum rated flow conditions.",
+        "B. operating at runout flow.",
+        "C. accelerating to normal speed during start.",
+        "D. at shutoff head with no recirculation flow."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1460,
+      "page": 338,
+      "stem": "An AC motor-driven centrifugal pump was just started. During the start, motor current remained\npeaked for 6 seconds before decreasing to standard running current. Normally, the starting current\npeak lasts about 4 seconds.\nWhich one of the following could have caused the extended starting current peak?",
+      "choices": [
+        "A. The pump shaft was seized and did not turn.",
+        "B. The pump was initially rotating slowly in the reverse direction.",
+        "C. The pump discharge check valve was stuck closed and did not open.",
+        "D. The pump was initially air bound, and then primed itself after 6 seconds of operation."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1461,
+      "page": 339,
+      "stem": "A cooling water pump is being driven by an AC induction motor. Which one of the following\ndescribes how and why pump motor current will change if the pump shaft shears?",
+      "choices": [
+        "A. Decreases due to decreased pump work.",
+        "B. Decreases due to decreased counter electromotive force.",
+        "C. Increases due to increased pump work.",
+        "D. Increases due to decreased counter electromotive force."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1462,
+      "page": 339,
+      "stem": "A centrifugal pump is circulating water at 180°F with a pump motor current of 200 amps. After\nseveral hours, system temperature has changed such that the water density has increased by 6\npercent.\nAssuming pump head and volumetric flow rate do not change, which one of the following is the new\npump motor current?",
+      "choices": [
+        "A. 203 amps",
+        "B. 206 amps",
+        "C. 212 amps",
+        "D. 224 amps"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1463,
+      "page": 340,
+      "stem": "An AC motor-driven centrifugal water pump was just started. During the start, motor current\nremained peaked for 2 seconds, and then decreased and stabilized at about one-fifth the standard\nrunning current. Normally, the starting current peak lasts about 4 seconds.\nWhich one of the following could have caused the abnormal start indications above?",
+      "choices": [
+        "A. The pump shaft was initially seized and the motor breaker opened.",
+        "B. The pump was initially rotating slowly in the reverse direction.",
+        "C. The pump was initially air bound, and then primed itself after 2 seconds of operation.",
+        "D. The coupling between the motor and pump shafts was left disconnected after maintenance."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1464,
+      "page": 341,
+      "stem": "A radial-flow centrifugal cooling water pump is driven by an AC induction motor. The pump can\nsupply cooling water to several heat loads, all of which are in parallel alignment. The following\npump conditions initially exist:\nPump motor current = 100 amps\nPump flow rate = 400 gpm\nPump suction temperature = 70°F\nFour hours later, the motor is drawing 95 amps. Which one of the following could be responsible\nfor the observed decrease in motor amps?",
+      "choices": [
+        "A. The temperature of the cooling water being pumped decreased to 60°F with no change in pump",
+        "B. The temperature of the cooling water being pumped increased to 80°F with no change in pump",
+        "C. Cooling water flow was established to an additional heat load with no change in the temperature",
+        "D. Cooling water flow was isolated from an out-of-service heat load with no change in the"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1465,
+      "page": 342,
+      "stem": "A radial-flow centrifugal cooling water pump is driven by an AC induction motor. The pump can\nsupply cooling water to several heat loads, all of which are in parallel alignment. Initially, the\nfollowing pump conditions exist:\nPump motor current = 100 amps\nPump flow rate = 400 gpm\nPump suction temperature = 70°F\nFour hours later, the pump motor is drawing 105 amps. Which one of the following could be\nresponsible for the observed increase in motor current?",
+      "choices": [
+        "A. The temperature of the cooling water being pumped decreased to 60°F with no change in pump",
+        "B. The temperature of the cooling water being pumped increased to 80°F with no change in pump",
+        "C. Cooling water flow was established to an additional heat load with no change in the temperature",
+        "D. Cooling water flow was isolated from an out-of-service heat load with no change in the"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1466,
+      "page": 343,
+      "stem": "A motor-driven centrifugal pump exhibited indications of pump failure while being started. Which\none of the following pairs of observations indicate that the pump failure is a sheared impeller shaft?",
+      "choices": [
+        "A. Excessive duration of high starting current and motor breaker trips.",
+        "B. Excessive duration of high starting current and no change in system flow rate.",
+        "C. Lower than normal running current and motor breaker trips.",
+        "D. Lower than normal running current and no change in system flow rate."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1467,
+      "page": 343,
+      "stem": "Some large centrifugal pumps are started with their discharge valves closed to prevent...",
+      "choices": [
+        "A. cavitation in the pump.",
+        "B. lifting the discharge relief valve.",
+        "C. loss of recirculation (miniflow).",
+        "D. excessive current in the pump motor."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1468,
+      "page": 344,
+      "stem": "Some large centrifugal pumps are interlocked so that the pump will not start unless its discharge\nvalve is at least 90 percent closed. This interlock is provided to minimize...",
+      "choices": [
+        "A. pump discharge pressure.",
+        "B. heating of the pumped fluid.",
+        "C. the potential for cavitation at the pump suction.",
+        "D. the duration of the pump motor starting current."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1469,
+      "page": 344,
+      "stem": "Which one of the following contains two reasons for starting a typical radial-flow centrifugal pump\nwith the discharge piping full of water and the discharge valve closed?",
+      "choices": [
+        "A. Prevent pump runout and prevent motor overspeed.",
+        "B. Prevent pump runout and ensure lubrication of pump seals.",
+        "C. Prevent water hammer and ensure adequate pump recirculation flow.",
+        "D. Prevent water hammer and prevent excessive duration of starting current."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1470,
+      "page": 345,
+      "stem": "Refer to the drawing of a cooling water system and the associated pump/system operating curves\n(see figure below) in which pumps A and B are identical single-speed centrifugal pumps and only\npump A is operating.\nIf pump B is started, system flow rate will be __________ and common pump discharge pressure\nwill be __________.",
+      "choices": [
+        "A. the same; higher",
+        "B. higher; the same",
+        "C. the same; the same",
+        "D. higher; higher"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p345_1.png"
+      ]
+    },
+    {
+      "qid": 1471,
+      "page": 346,
+      "stem": "Refer to the drawing of a cooling water system and the associated pump/system operating curves\n(see figure below).\nPumps A and B are identical single-speed centrifugal pumps, and only pump A is operating. If\npump B is started, after the system stabilizes system flow rate will be...",
+      "choices": [
+        "A. twice the original flow.",
+        "B. the same as the original flow.",
+        "C. less than twice the original flow.",
+        "D. more than twice the original flow."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p346_1.png"
+      ]
+    },
+    {
+      "qid": 1472,
+      "page": 347,
+      "stem": "A centrifugal pump is operating in parallel with a positive displacement pump in an open water\nsystem. Each pump has the same maximum design pressure.\nIf pump discharge pressure increases to the maximum design pressure of each pump, the centrifugal\npump will be operating near __________ flow rate and the positive displacement pump will be\noperating near __________ flow rate.",
+      "choices": [
+        "A. minimum; minimum",
+        "B. minimum; maximum rated",
+        "C. maximum rated; minimum",
+        "D. maximum rated; maximum rated"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1473,
+      "page": 348,
+      "stem": "Refer to the drawing of a cooling water system (see figure below).\nPumps A and B are identical single-speed centrifugal pumps and both pumps are initially operating\nwhen pump B trips. After the system stabilizes, system flow rate will be...",
+      "choices": [
+        "A. more than one-half the original flow.",
+        "B. one-half the original flow.",
+        "C. less than one-half the original flow.",
+        "D. the same; only the pump head will change."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p348_1.png"
+      ]
+    },
+    {
+      "qid": 1474,
+      "page": 349,
+      "stem": "Which one of the following is an indication of pump runout?",
+      "choices": [
+        "A. Low pump flow rate",
+        "B. High pump vibration",
+        "C. Low pump motor current",
+        "D. High pump discharge pressure"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1475,
+      "page": 349,
+      "stem": "Which one of the following is an indication of pump runout?",
+      "choices": [
+        "A. High discharge pressure",
+        "B. Low pump motor current",
+        "C. High pump flow rate",
+        "D. Pump flow reversal"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1476,
+      "page": 350,
+      "stem": "Which one of the following describes typical radial-flow centrifugal pump runout conditions?",
+      "choices": [
+        "A. High discharge pressure, low flow, high power demand",
+        "B. High discharge pressure, high flow, low power demand",
+        "C. Low discharge pressure, low flow, low power demand",
+        "D. Low discharge pressure, high flow, high power demand"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1477,
+      "page": 350,
+      "stem": "A centrifugal pump is operating at its maximum design flow rate, delivering water through two\nparallel valves. Valve A is half open, and valve B is one quarter open.\nWhich one of the following will occur if both valves are fully opened?",
+      "choices": [
+        "A. The pump will operate at shutoff head.",
+        "B. The pump available net positive suction head will increase.",
+        "C. The pump required net positive suction head will decrease.",
+        "D. The pump will operate at runout conditions."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1478,
+      "page": 351,
+      "stem": "Refer to the drawing of centrifugal pump and system operating curves (see figure below).\nWhich point represents pump operation at runout conditions?",
+      "choices": [
+        "A. Point A",
+        "B. Point B",
+        "C. Point C",
+        "D. Point D"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p351_1.png"
+      ]
+    },
+    {
+      "qid": 1479,
+      "page": 352,
+      "stem": "Refer to the drawing of a cooling water system in which only centrifugal pump A is operating and\nthe common pump discharge valve is currently 90 percent open (see figure below).\nAn abnormal total heat load on the cooling water system is causing pump A to approach operation at\nrunout conditions. Which one of the following will cause pump A to operate further away from\nrunout conditions? (Assume that satisfactory available net positive suction head is maintained at all\ntimes.)",
+      "choices": [
+        "A. Starting pump B.",
+        "B. Raising the water level in the surge tank by 2 feet.",
+        "C. Decreasing heat exchanger service water flow rate by 10 percent.",
+        "D. Positioning the common pump discharge valve to 100 percent open."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p352_1.png"
+      ]
+    },
+    {
+      "qid": 1480,
+      "page": 353,
+      "stem": "A flow-limiting venturi in the discharge piping of a centrifugal pump decreases the potential for the\npump to experience...",
+      "choices": [
+        "A. runout.",
+        "B. reverse flow.",
+        "C. shutoff head.",
+        "D. water hammer."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1481,
+      "page": 354,
+      "stem": "Refer to the drawing of a radial-flow centrifugal pump with a recirculation line in an open system\n(see figure below). The recirculation line throttle valve is currently 50 percent open. The pump is\ncurrently operating very close to runout.\nTo move pump operation farther away from runout, without reducing the pump’s available net\npositive suction head, an orifice can be installed at point _____; or the pump’s recirculation line\nthrottle valve can be positioned more __________.",
+      "choices": [
+        "A. X; open",
+        "B. X; closed",
+        "C. Y; open",
+        "D. Y; closed"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p354_1.png"
+      ]
+    },
+    {
+      "qid": 1482,
+      "page": 355,
+      "stem": "Refer to the drawing of a lube oil temperature control system and the associated pump/system\noperating curves (see figure below).\nThe pump is initially operating at point B. If the temperature control valve modulates further open,\noperating point B will be located on curve __________ closer to point __________.",
+      "choices": [
+        "A. 1; D",
+        "B. 2; A",
+        "C. 1; E",
+        "D. 2; C"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p355_1.png"
+      ]
+    },
+    {
+      "qid": 1483,
+      "page": 356,
+      "stem": "Refer to the drawing of a lube oil temperature control system and the associated pump/system\noperating curves (see figure below).\nThe pump is operating at point B on the operating curve. If the temperature control valve\nmodulates further closed, operating point B will be located on curve __________ closer to point\n__________.",
+      "choices": [
+        "A. 1; D",
+        "B. 2; A",
+        "C. 1; E",
+        "D. 2; C"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p356_1.png"
+      ]
+    },
+    {
+      "qid": 1484,
+      "page": 357,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows a combination of two pump/system operating conditions.\nInitially, a centrifugal pump is operating with a partially open discharge valve in a closed system.\nThe discharge valve is then opened fully.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p357_1.png"
+      ]
+    },
+    {
+      "qid": 1485,
+      "page": 358,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows the results of a change in pump and/or system operating\nconditions.\nTwo identical constant-speed centrifugal pumps are operating in series in an open system when one\npump trips.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p358_1.png"
+      ]
+    },
+    {
+      "qid": 1486,
+      "page": 359,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows the steady-state \"before and after\" conditions for a change in\npump and/or system operating conditions.\nInitially, one centrifugal pump was operating in a cooling water system. Then, a second identical\ncentrifugal pump was started in series with the first.\nWhich set of operating curves shown below depicts the steady-state “before and after” conditions\ndescribed above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p359_1.png"
+      ]
+    },
+    {
+      "qid": 1487,
+      "page": 360,
+      "stem": "Initially, two identical centrifugal pumps were operating in parallel in a closed system when one\npump tripped.\nWhich set of operating curves shown below depicts the steady-state “before and after” conditions\ndescribed above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p360_1.png"
+      ]
+    },
+    {
+      "qid": 1488,
+      "page": 361,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows a combination of two pump/system operating conditions.\nInitially, a constant-speed centrifugal pump was operating in an closed system. Another identical\ncentrifugal pump was then started in parallel with the first.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p361_1.png"
+      ]
+    },
+    {
+      "qid": 1489,
+      "page": 362,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows the results of a change in pump and/or system operating\nconditions.\nInitially, a centrifugal pump is operating in a closed water system and discharging through a single\nheat exchanger. A second heat exchanger is then placed in service in parallel with the first.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p362_1.png"
+      ]
+    },
+    {
+      "qid": 1490,
+      "page": 363,
+      "stem": "Refer to the drawing of centrifugal pump and system operating curves (see figure below).\nWhich one of the following determines the general shape of the curve from point C to point D?",
+      "choices": [
+        "A. The frictional and throttling losses in the piping system as the system flow rate increases.",
+        "B. The frictional losses between the pump impeller and its casing as the differential pressure (D/P)",
+        "C. The pump flow losses, due to the decrease in available net positive suction head as the system",
+        "D. The pump flow losses, due to back leakage through the clearances between the pump impeller"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p363_1.png"
+      ]
+    },
+    {
+      "qid": 1491,
+      "page": 364,
+      "stem": "Refer to the drawing of centrifugal pump and system operating curves (see figure below).\nA centrifugal pump is initially operating at point B. If the pump speed is reduced by one-half, the\nnew operating point will be located on curve _____ closer to point _____.",
+      "choices": [
+        "A. 1; D",
+        "B. 2; A",
+        "C. 1; E",
+        "D. 2; C"
+      ],
+      "answer": "A",
+      "images": [
+        "img_p364_1.png"
+      ]
+    },
+    {
+      "qid": 1492,
+      "page": 365,
+      "stem": "Refer to the drawing of a lube oil temperature control system (see figure below).\nInitially, the pump is operating with the temperature control valve one-half open. If the temperature\ncontrol valve is positioned more closed, the system head loss will __________; and the pump head\nwill __________.",
+      "choices": [
+        "A. increase, decrease",
+        "B. increase, increase",
+        "C. decrease, decrease",
+        "D. decrease, increase"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p365_1.png"
+      ]
+    },
+    {
+      "qid": 1493,
+      "page": 366,
+      "stem": "Refer to the drawing of a lube oil temperature control system and the associated pump/system\noperating curves (see figure below).\nIf the pump is initially operating at point B, how will the operating point change if the temperature\ncontroller setpoint is decreased by 10°F?",
+      "choices": [
+        "A. Operating point B will be located on curve 1 closer to point E.",
+        "B. Operating point B will be located on curve 1 closer to point D.",
+        "C. Operating point B will be located on curve 2 closer to point A.",
+        "D. Operating point B will be located on curve 2 closer to point C."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p366_1.png"
+      ]
+    },
+    {
+      "qid": 1494,
+      "page": 367,
+      "stem": "Refer to the drawing showing two operating points for the same centrifugal pump (see figure below).\nOperating point A was generated from pump performance data taken six months ago. Current\npump performance data was used to generate operating point B. Which one of the following would\ncause the observed difference between operating points A and B?",
+      "choices": [
+        "A. The pump discharge valve was more open when data was collected for operating point A.",
+        "B. The pump discharge valve was more closed when data was collected for operating point A.",
+        "C. The pump internal components have worn since data was collected for operating point A.",
+        "D. The system piping head loss has increased since data was collected for operating point A."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p367_1.png"
+      ]
+    },
+    {
+      "qid": 1495,
+      "page": 368,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows the results of a change in pump and/or system operating\nconditions.\nInitially, a two-speed centrifugal pump is operating at low speed in a cooling water system and\ndischarging through a heat exchanger. The pump is then switched to high speed.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p368_1.png"
+      ]
+    },
+    {
+      "qid": 1496,
+      "page": 369,
+      "stem": "Refer to the drawing of four sets of centrifugal pump and system operating curves (see figure\nbelow). Each set of curves shows the results of a change in pump and/or system operating\nconditions.\nInitially, a two-speed centrifugal pump is operating at high speed in a cooling water system and\ndischarging through a heat exchanger. The pump is then switched to low speed.\nWhich set of operating curves depicts the \"before\" and \"after\" conditions described above?",
+      "choices": [
+        "A. 1.",
+        "B. 2.",
+        "C. 3.",
+        "D. 4."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p369_1.png"
+      ]
+    },
+    {
+      "qid": 1497,
+      "page": 370,
+      "stem": "Refer to the drawing of a cooling water system and the associated pump/system operating curves\n(see figure below). Pumps A and B are identical single-speed centrifugal pumps and initially only\npump A is operating.\nPump B is then started. After the system stabilizes, system flow rate will be...",
+      "choices": [
+        "A. the same as the initial flow rate.",
+        "B. less than twice the initial flow rate.",
+        "C. twice the initial flow rate.",
+        "D. more than twice the initial flow rate."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p370_1.png"
+      ]
+    },
+    {
+      "qid": 1498,
+      "page": 371,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following changes to the cooling water system will result in a higher cooling water\npump flow rate and a reduced pump discharge head?",
+      "choices": [
+        "A. Increase pump speed by 20 percent.",
+        "B. Decrease pump speed by 20 percent.",
+        "C. Isolate one of the two in-service heat loads.",
+        "D. Place the third system heat load in service."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p371_1.png"
+      ]
+    },
+    {
+      "qid": 1499,
+      "page": 372,
+      "stem": "A centrifugal pump is located adjacent to the bottom of an open water storage tank. The pump is\ntaking suction from a river and discharging to the bottom of the tank. Initially the tank was empty\nand the pump was operating at point B on the drawing below.\nWhen tank water level reaches 30 feet, the new pump operating point will be located on curve\n__________ closer to point __________. (Assume that no other changes occur in the system.)",
+      "choices": [
+        "A. 1; D",
+        "B. 2; A",
+        "C. 1; E",
+        "D. 2; C"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p372_1.png"
+      ]
+    },
+    {
+      "qid": 1500,
+      "page": 373,
+      "stem": "A centrifugal pump is used to provide makeup water to a storage tank that is 30 feet high. The\npump is located at the base of the tank. The pump can be aligned to fill the tank via a top\nconnection or a bottom connection using piping of equal lengths and diameters. The tank is\ncurrently half full.\nWith the pump in operation, the pump will have the highest discharge pressure if the pump is aligned\nto fill the tank via the ________ connection; and the tank will become full in the least amount of\ntime if the pump is aligned to fill the tank via the ________ connection.",
+      "choices": [
+        "A. top; top",
+        "B. top; bottom",
+        "C. bottom; top",
+        "D. bottom; bottom"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1501,
+      "page": 374,
+      "stem": "Refer to the drawing of operating curves for a centrifugal pump in a closed water system (see figure\nbelow).\nWhich one of the following describes the value of head where the two curves cross?",
+      "choices": [
+        "A. The maximum amount of head that the pump can provide.",
+        "B. The amount of pump head that is required to avoid cavitation.",
+        "C. The amount of pump head that is converted to kinetic energy in the pump.",
+        "D. The amount of pump head that is converted to heat and other losses as the water circulates"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p374_1.png"
+      ]
+    },
+    {
+      "qid": 1502,
+      "page": 375,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nWhich one of the following changes to the cooling water system will result in a lower cooling water\npump flow rate and a higher pump discharge head?",
+      "choices": [
+        "A. Decrease pump speed by 20 percent.",
+        "B. Increase pump speed by 20 percent.",
+        "C. Isolate one of the two in-service heat loads.",
+        "D. Place the third system heat load in service."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p375_1.png"
+      ]
+    },
+    {
+      "qid": 1503,
+      "page": 376,
+      "stem": "A centrifugal pump is used to provide makeup water to a vented storage tank that is 30 feet high.\nThe pump is located at the base of the tank. The pump can be aligned to fill the tank via a top\nconnection or a bottom connection using piping of equal lengths and diameters.\nWith the tank half full, the operating pump will have the lowest discharge pressure if the pump is\naligned to fill the tank via the ________ connection; and the tank will require the longest amount of\ntime to become completely full if the pump is aligned to fill the tank via the ________ connection.",
+      "choices": [
+        "A. top; top",
+        "B. top; bottom",
+        "C. bottom; top",
+        "D. bottom; bottom"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1504,
+      "page": 377,
+      "stem": "Refer to the pump and system curves (see figure below) for a centrifugal pump operating in a\ncooling water system.\nOperating point A existed when data was taken six months ago. Operating point B is the current\noperating point. Which one of the following could be responsible for the difference between the\noperating points?",
+      "choices": [
+        "A. The pump discharge valve was more open when the data was collected for operating point A.",
+        "B. The pump discharge valve was more closed when the data was collected for operating point A.",
+        "C. The pump was rotating faster when the data was collected for operating point A.",
+        "D. The pump was rotating slower when the data was collected for operating point A."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p377_1.png"
+      ]
+    },
+    {
+      "qid": 1505,
+      "page": 378,
+      "stem": "A motor-driven radial-flow centrifugal pump is used to provide makeup water to a vented storage\ntank that is 30 feet high. The pump is located at the base of the tank. The pump can be aligned to\nfill the tank via a top connection or a bottom connection using piping of equal lengths and diameters.\nThe tank is currently empty.\nWith tank filling underway, the pump motor will have the lowest power demand if the pump is using\nthe __________ connection; and the tank will require the least amount of time to become completely\nfull if the pump is using the __________ connection.",
+      "choices": [
+        "A. top; top",
+        "B. top; bottom",
+        "C. bottom; top",
+        "D. bottom; bottom"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1506,
+      "page": 379,
+      "stem": "Refer to the drawing showing two different operating points for the same centrifugal pump operating\nin the same cooling water system (see figure below).\nOperating point A was generated from pump data collected two days ago. Operating point B was\ngenerated from pump data collected today. Which one of the following would cause the observed\ndifference between operating points A and B?",
+      "choices": [
+        "A. The pump was rotating faster when data was collected for operating point B.",
+        "B. The pump was rotating slower when data was collected for operating point B.",
+        "C. The pump discharge valve was more open when data was collected for operating point B.",
+        "D. The pump discharge valve was more closed when data was collected for operating point B."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p379_1.png"
+      ]
+    },
+    {
+      "qid": 1507,
+      "page": 380,
+      "stem": "Refer to the drawing of pump and system operating curves (see figure below). The drawing shows\nthe operating point for a single-speed centrifugal pump operating in a closed cooling water system\nusing 6-inch diameter piping.\nIf the cooling water system 6-inch diameter piping were replaced with 8-inch diameter piping, the\nnew operating point would occur at a __________ pump head and a __________ pump flow rate.",
+      "choices": [
+        "A. higher; lower",
+        "B. higher; higher",
+        "C. lower; lower",
+        "D. lower; higher"
+      ],
+      "answer": "D",
+      "images": [
+        "img_p380_1.png"
+      ]
+    },
+    {
+      "qid": 1508,
+      "page": 381,
+      "stem": "Refer to the drawing showing two operating points for the same centrifugal pump operating in a\ncooling water system (see figure below).\nThe pump’s operating point can be shifted from point A to point B by…",
+      "choices": [
+        "A. increasing the speed of the pump.",
+        "B. decreasing the speed of the pump.",
+        "C. closing the pump discharge valve more.",
+        "D. opening the pump discharge valve more."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p381_1.png"
+      ]
+    },
+    {
+      "qid": 1509,
+      "page": 382,
+      "stem": "A motor-driven centrifugal pump is operating in an open system with its discharge valve throttled to\n50 percent open. If the discharge valve is fully opened, the pump’s available net positive suction\nhead (NPSH) will __________; and the pump’s required NPSH will __________.",
+      "choices": [
+        "A. remain the same; increase",
+        "B. remain the same; remain the same",
+        "C. decrease; increase",
+        "D. decrease; remain the same"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1510,
+      "page": 382,
+      "stem": "Increasing the flow rate from a centrifugal pump by throttling open the discharge valve will cause\npump head to...",
+      "choices": [
+        "A. increase and stabilize at a higher value.",
+        "B. decrease and stabilize at a lower value.",
+        "C. remain constant because pump head is a design parameter.",
+        "D. increase, then decrease following the pump's efficiency curve."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1511,
+      "page": 383,
+      "stem": "A centrifugal pump is operating normally in an open system. If the pump recirculation valve is\nopened farther, pump discharge pressure will __________; and pump flow rate will __________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. decrease; increase",
+        "C. increase; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1512,
+      "page": 383,
+      "stem": "A centrifugal pump is operating normally in an open system with all valves fully open. If the pump\ndischarge valve is throttled to 50 percent, pump suction pressure will __________; and pump\ndischarge pressure will __________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. decrease; increase",
+        "C. increase; increase",
+        "D. decrease; decrease"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1513,
+      "page": 384,
+      "stem": "A variable-speed centrifugal pump is operating at rated speed in an open system. If the pump speed\nis decreased by 50 percent, available net positive suction head (NPSH) will __________; and\nrequired NPSH will __________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. increase; remain the same",
+        "C. decrease; decrease",
+        "D. decrease; remain the same"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1514,
+      "page": 384,
+      "stem": "A motor-driven centrifugal pump is operating in an open system with its discharge valve throttled to\n50 percent. How will the pump be affected if the discharge valve is fully opened?",
+      "choices": [
+        "A. Total developed head decreases, and motor current decreases.",
+        "B. Total developed head increases, and available net positive suction head decreases.",
+        "C. The potential for pump cavitation decreases, and pump differential pressure decreases.",
+        "D. Available net positive suction head decreases, and pump differential pressure decreases."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1515,
+      "page": 385,
+      "stem": "A variable speed motor-driven centrifugal pump is operating at 50 percent speed in an open system.\nIf the pump speed is increased to 100 percent, available net positive suction head (NPSH) will\n__________; and required NPSH will __________.",
+      "choices": [
+        "A. increase; remain the same",
+        "B. increase; increase",
+        "C. decrease; remain the same",
+        "D. decrease; increase"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1516,
+      "page": 385,
+      "stem": "Which one of the following describes a reason for designing centrifugal pumps with suction nozzles\nthat are larger than their discharge nozzles?",
+      "choices": [
+        "A. Increases total pump head by increasing the velocity head at the suction of the pump.",
+        "B. Increases the differential pressure across the pump by decreasing pump head loss.",
+        "C. Increases pump available net positive suction head by decreasing head loss at the pump suction.",
+        "D. Increases pump capacity by decreasing turbulence at the suction of the pump."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1517,
+      "page": 386,
+      "stem": "A centrifugal firewater pump is operating to pressurize a fire main. The pump takes suction on a\nwater reservoir. The reservoir water level and the eye of the pump impeller are both at sea level.\nGiven:\n• The pump has a design shutoff head of 100 feet.\n• The required net positive suction head (NPSH) for the pump is 15 feet.\n• The reservoir water temperature is 60°F.\n• A fire hose connected to the fire main is being used to suppress an elevated fire.\nAt which one of the following fire hose spray nozzle elevations (referenced to sea level) will the\npump first be unable to provide flow? (Disregard head loss in the fire main and fire hose.)",
+      "choices": [
+        "A. 86 feet",
+        "B. 101 feet",
+        "C. 116 feet",
+        "D. 135 feet"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1518,
+      "page": 387,
+      "stem": "A centrifugal firewater pump is operating to pressurize a fire main. The pump takes suction from a\nwater reservoir. A fire hose connected to the fire main is being used to suppress an elevated fire.\nGiven:\n• The eye of the pump impeller is located 5 feet above the reservoir water level.\n• The pump has a design shutoff head of 120 feet.\n• The required net positive suction head (NPSH) for the pump is 15 feet.\n• The reservoir water temperature is 60°F.\nAt which one of the following elevations above the eye of the pump impeller will the fire hose spray\nnozzle first be unable to provide flow? (Disregard all sources of head loss.)",
+      "choices": [
+        "A. 111 feet",
+        "B. 116 feet",
+        "C. 121 feet",
+        "D. 126 feet"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1519,
+      "page": 388,
+      "stem": "A centrifugal firewater pump is operating to pressurize a fire main. The pump takes suction from a\nvented water storage tank. A fire hose connected to the fire main is being used to suppress an\nelevated fire.\nGiven:\n• The eye of the pump impeller is located 30 feet below the tank water level.\n• The pump has a design shutoff head of 120 feet.\n• The required net positive suction head (NPSH) for the pump is 15 feet.\n• The tank water temperature is 60°F.\nAt which one of the following elevations above the eye of the pump impeller will the fire hose spray\nnozzle first be unable to provide flow? (Disregard all sources of head loss.)",
+      "choices": [
+        "A. 106 feet",
+        "B. 121 feet",
+        "C. 136 feet",
+        "D. 151 feet"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1520,
+      "page": 389,
+      "stem": "A centrifugal cooling water pump is operating in an open system with its discharge valve fully open.\nIf the discharge valve is repositioned to 50 percent open, the pump’s available net positive suction\nhead (NPSH) will __________; and the pump’s required NPSH will __________.",
+      "choices": [
+        "A. remain the same; decrease",
+        "B. remain the same; remain the same",
+        "C. increase; decrease",
+        "D. increase; remain the same"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1521,
+      "page": 389,
+      "stem": "A centrifugal firewater pump is operating to pressurize a fire main. The pump takes suction from a\nwater reservoir. A fire hose connected to the fire main is being used to suppress an elevated fire.\nGiven:\n• The eye of the pump impeller is located 15 feet below the reservoir water level.\n• The pump has a design shutoff head of 120 feet.\n• The required net positive suction head (NPSH) for the pump is 15 feet.\n• The reservoir water temperature is 60°F.\nAt which one of the following elevations above the reservoir water level will the fire hose spray\nnozzle first be unable to provide flow? (Disregard all sources of head loss.)",
+      "choices": [
+        "A. 91 feet",
+        "B. 106 feet",
+        "C. 121 feet",
+        "D. 136 feet"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1522,
+      "page": 390,
+      "stem": "A motor-driven centrifugal pump is operating in a closed-loop cooling water system and is unable to\nachieve its rated volumetric flow rate due to cavitation. Which one of the following will enable the\npump to achieve a higher volumetric flow rate before cavitation occurs?",
+      "choices": [
+        "A. Operate the system at a higher pressure.",
+        "B. Operate the system at a higher temperature.",
+        "C. Remove the existing pump motor and install a motor with a higher horsepower rating.",
+        "D. Remove the existing pump and install a same-capacity pump with a higher minimum required"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1523,
+      "page": 391,
+      "stem": "Refer to the graph that represents the head-capacity characteristics for a single-speed centrifugal\ncooling water pump (see figure below).\nWhich one of the following lists a pair of parameters that could be represented by curves A and B?\n(Note: NPSH is net positive suction head.)\nCurve A Curve B",
+      "choices": [
+        "A. Pump Head Available NPSH",
+        "B. Available NPSH Required NPSH",
+        "C. Required NPSH System Head Loss",
+        "D. System Head Loss Pump Head"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p391_1.png"
+      ]
+    },
+    {
+      "qid": 1524,
+      "page": 392,
+      "stem": "Centrifugal pumps A and B are identical except that pump A uses a single-suction impeller while\npump B uses a double-suction impeller. If both pumps are pumping water at the same inlet\ntemperature, inlet pressure, and flow rate, single-suction pump A typically will have the __________\nimpeller axial thrust and the __________ required net positive suction head.",
+      "choices": [
+        "A. greater; greater",
+        "B. greater; smaller",
+        "C. smaller; greater",
+        "D. smaller; smaller"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1525,
+      "page": 392,
+      "stem": "A motor-driven centrifugal pump is operating normally in a closed cooling water system. When the\npump discharge flow control valve is opened further, the pump is unable to provide the desired\nvolumetric flow rate due to cavitation. Which one of the following will enable a higher pump\nvolumetric flow rate before cavitation occurs?",
+      "choices": [
+        "A. Remove the existing motor and install a motor with a lower horsepower rating.",
+        "B. Remove the existing motor and install a motor with a higher horsepower rating.",
+        "C. Remove the existing pump and install a same-capacity pump with a lower minimum net positive",
+        "D. Remove the existing pump and install a same-capacity pump with a higher minimum net positive"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1526,
+      "page": 393,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nThe pump is unable to achieve its rated volumetric flow rate due to cavitation. Which one of the\nfollowing will enable the pump to achieve a higher volumetric flow rate before cavitation occurs?",
+      "choices": [
+        "A. Decrease the service water flow rate.",
+        "B. Operate the system at a lower pressure.",
+        "C. Move the surge tank connection closer to the suction of the pump.",
+        "D. Remove the existing pump motor and install a motor with a higher horsepower rating."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p393_1.png"
+      ]
+    },
+    {
+      "qid": 1527,
+      "page": 394,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below). The pump discharge\nvalve is partially throttled to produce the following initial pump operating parameters:\nPump discharge pressure = 45 psig\nPump suction pressure = 15 psig\nPump flow rate = 120 gpm\nAfter a few hours of operation, the current pump operating parameters are as follows:\nPump discharge pressure = 48 psig\nPump suction pressure = 18 psig\nPump flow rate: = 120 gpm\nWhich one of the following could be responsible for the change in pump operating parameters?",
+      "choices": [
+        "A. The pump speed increased with no other changes to the system.",
+        "B. The surge tank level increased with no other changes to the system.",
+        "C. The pump discharge valve was closed further while pump speed increased.",
+        "D. The pump discharge valve was closed further while surge tank level increased."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p394_1.png"
+      ]
+    },
+    {
+      "qid": 1528,
+      "page": 395,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nThe pump is unable to achieve its rated volumetric flow rate due to cavitation. Which one of the\nfollowing will enable the pump to achieve a higher volumetric flow rate before cavitation occurs?",
+      "choices": [
+        "A. Decrease the surge tank water level.",
+        "B. Increase the service water flow rate to the heat exchanger.",
+        "C. Move the surge tank connection closer to the discharge of the pump.",
+        "D. Remove the existing pump motor and install a motor with a higher horsepower rating."
+      ],
+      "answer": "B",
+      "images": [
+        "img_p395_1.png"
+      ]
+    },
+    {
+      "qid": 1529,
+      "page": 396,
+      "stem": "Refer to the drawing of an operating cooling water system (see figure below).\nHow will the centrifugal pump flow rate be affected if the surge tank level decreases from 8 feet to 4\nfeet? (Assume the pump maintains adequate net positive suction head.)",
+      "choices": [
+        "A. Pump flow rate will increase.",
+        "B. Pump flow rate will decrease.",
+        "C. Pump flow rate will remain the same.",
+        "D. Pump flow rate will oscillate."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p396_1.png"
+      ]
+    },
+    {
+      "qid": 1530,
+      "page": 397,
+      "stem": "Consider the required net positive suction head (NPSH ) and the available net positive suction head\nR\n(NPSH ) for a typical centrifugal pump operating normally in a closed cooling water system. If the\nA\npump flow rate increases, __________ will be affected; and if the pump inlet pressure increases,\n__________ will be affected.",
+      "choices": [
+        "A. only NPSH ; only NPSH",
+        "B. only NPSH ; both NPSH and NPSH",
+        "C. both NPSH and NPSH ; only NPSH",
+        "D. both NPSH and NPSH ; both NPSH and NPSH"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1531,
+      "page": 398,
+      "stem": "How are the required net positive suction head (NPSH ) and available net positive suction head\nR\n(NPSH ) for an in-service centrifugal water pump determined?\nA",
+      "choices": [
+        "A. Both NPSH and NPSH are calculated using water parameter values at the pump inlet.",
+        "B. Both NPSH and NPSH are determined from pump curves provided by the pump manufacturer.",
+        "C. NPSH is calculated using water parameter values at the pump inlet, while NPSH is determined",
+        "D. NPSH is calculated using water parameter values at the pump inlet, while NPSH is determined"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1532,
+      "page": 399,
+      "stem": "Refer to the drawing of a cooling water system with an operating centrifugal pump (see figure\nbelow).\nIf the surge tank water level increases from 8 feet to 9 feet, the pump mass flow rate will…",
+      "choices": [
+        "A. increase, because the pump suction head will increase while the pump discharge head decreases.",
+        "B. increase, because the pump suction head will increase while the pump discharge head remains",
+        "C. remain the same, because the pump suction and discharge heads will increase by the same",
+        "D. remain the same, because the pump suction and discharge heads will be unaffected by the change"
+      ],
+      "answer": "C",
+      "images": [
+        "img_p399_1.png"
+      ]
+    },
+    {
+      "qid": 1533,
+      "page": 400,
+      "stem": "Which one of the following specifies the proper pump discharge valve position, and the basis for that\nposition, when starting a large motor-driven radial-flow centrifugal pump?",
+      "choices": [
+        "A. Fully open, to reduce motor starting power requirements.",
+        "B. Throttled, to reduce motor starting power requirements.",
+        "C. Fully open, to ensure adequate pump net positive suction head.",
+        "D. Throttled, to ensure adequate pump net positive suction head."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1534,
+      "page": 400,
+      "stem": "A typical single-stage radial-flow centrifugal pump is being returned to service following\nmaintenance on its three-phase AC induction motor. Which one of the following will occur when\nthe pump is started if two of the three motor power leads were inadvertently swapped during\nrestoration?",
+      "choices": [
+        "A. The motor breaker will trip on instantaneous overcurrent.",
+        "B. The motor will not turn and will emit a humming sound.",
+        "C. The pump will rotate in the reverse direction with reduced or no flow rate.",
+        "D. The pump will rotate in the normal direction with reduced flow rate."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1535,
+      "page": 401,
+      "stem": "If the speed of a positive displacement pump is increased, the available net positive suction head will\n__________; and the pump will operate __________ cavitation.\nA increase; closer to",
+      "choices": [
+        "B. decrease; further from",
+        "C. increase; further from",
+        "D. decrease; closer to"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1536,
+      "page": 401,
+      "stem": "An increase in positive displacement pump speed will cause the available net positive suction head\nfor the pump to...",
+      "choices": [
+        "A. decrease, due to the increase in fluid flow rate.",
+        "B. decrease, due to the increase in fluid discharge pressure.",
+        "C. increase, due to the increase in fluid discharge pressure.",
+        "D. increase, due to the increase in fluid flow rate."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1537,
+      "page": 402,
+      "stem": "The minimum required net positive suction head for a typical positive displacement pump will\nincrease the most if the pump...",
+      "choices": [
+        "A. speed increases from 1,200 rpm to 1,600 rpm.",
+        "B. discharge pressure decreases from 100 psig to 50 psig.",
+        "C. suction temperature increases from 75°F to 85°F.",
+        "D. discharge valve is positioned from 90 percent open to fully open."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1538,
+      "page": 402,
+      "stem": "Which one of the following describes the proper location for a relief valve that will be used to\nprevent exceeding the design pressure of a positive displacement pump and associated piping?",
+      "choices": [
+        "A. On the pump suction piping upstream of the suction isolation valve.",
+        "B. On the pump suction piping downstream of the suction isolation valve.",
+        "C. On the pump discharge piping upstream of the discharge isolation valve.",
+        "D. On the pump discharge piping downstream of the discharge isolation valve."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1539,
+      "page": 403,
+      "stem": "A positive displacement pump (PDP) is operating in an open system. PDP parameters are as\nfollows:\nPDP speed = 1,000 rpm\nPDP discharge pressure = 2,000 psig\nPDP suction pressure = 50 psig\nPDP flow rate = 150 gpm\nWhich one of the following changes will cause PDP flow rate to exceed 200 gpm?",
+      "choices": [
+        "A. A second identical discharge path is opened.",
+        "B. PDP speed is increased to 1,500 rpm.",
+        "C. PDP suction pressure is increased to 120 psig.",
+        "D. Downstream system pressure is decreased to 1,000 psig."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1540,
+      "page": 403,
+      "stem": "If the fully open discharge valve of a reciprocating positive displacement pump is closed\napproximately 10 percent, pump flow rate will __________; and pump head will __________.\n(Assume \"ideal\" pump response.)",
+      "choices": [
+        "A. decrease; increase",
+        "B. remain constant; increase",
+        "C. decrease; remain constant",
+        "D. remain constant; remain constant"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1541,
+      "page": 404,
+      "stem": "A variable-speed positive displacement pump is operating at 100 rpm with a flow rate of 60 gpm in\nan open system. To decrease pump flow rate to 30 gpm, pump speed must be decreased to\napproximately...",
+      "choices": [
+        "A. 25 rpm.",
+        "B. 35 rpm.",
+        "C. 50 rpm.",
+        "D. 71 rpm."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1542,
+      "page": 404,
+      "stem": "Which one of the following conditions will result in the greatest increase in volumetric flow rate\nthrough a positive displacement pump?",
+      "choices": [
+        "A. Doubling the pump speed.",
+        "B. Doubling the pump net positive suction head.",
+        "C. Reducing the downstream system pressure by one-half.",
+        "D. Positioning the discharge valve from half open to fully open."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1543,
+      "page": 405,
+      "stem": "Which one of the following describes single-speed pump operating characteristics?",
+      "choices": [
+        "A. Centrifugal pumps deliver a variety of flow rates at a constant head.",
+        "B. Centrifugal pumps deliver a constant head over a variety of flow rates.",
+        "C. Positive displacement pumps deliver a variety of flow rates at a constant head.",
+        "D. Positive displacement pumps deliver a constant flow rate over a variety of heads."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1544,
+      "page": 405,
+      "stem": "A positive displacement pump (PDP) is operating in an open water system. PDP parameters are as\nfollows:\nPDP speed = 480 rpm\nPDP discharge pressure = 1,000 psig\nPDP suction pressure = 10 psig\nPDP flow rate = 60 gpm\nWhich one of the following changes will cause PDP flow rate to exceed 100 gpm?",
+      "choices": [
+        "A. A second identical discharge path is opened.",
+        "B. PDP speed is increased to 900 rpm.",
+        "C. PDP suction pressure is increased to 40 psig.",
+        "D. Downstream system pressure is decreased to 500 psig."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1545,
+      "page": 406,
+      "stem": "An ideal (no slip) reciprocating positive displacement pump is operating to provide makeup water to\na reactor coolant system that is being maintained at 1,000 psig. The discharge valve of the pump\nwas found to be throttled to 80 percent open.\nIf the valve is subsequently fully opened, pump flow rate will __________; and pump head will\n__________.",
+      "choices": [
+        "A. increase; decrease",
+        "B. remain constant; decrease",
+        "C. increase; remain constant",
+        "D. remain constant; remain constant"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 1546,
+      "page": 406,
+      "stem": "A variable-speed positive displacement pump is operating at 100 rpm with a flow rate of 60 gpm in\nan open system. To decrease pump flow rate to 25 gpm, pump speed must be decreased to\napproximately...",
+      "choices": [
+        "A. 17 rpm.",
+        "B. 33 rpm.",
+        "C. 42 rpm.",
+        "D. 62 rpm."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1547,
+      "page": 407,
+      "stem": "Which one of the following will result in the greatest increase in volumetric flow rate to a system\nthat is currently receiving flow from a positive displacement pump operating at 400 rpm with a\ndischarge pressure of 100 psig?",
+      "choices": [
+        "A. Increase pump speed to 700 rpm.",
+        "B. Reduce system pressure to decrease pump discharge pressure to 40 psig.",
+        "C. Start a second identical positive displacement pump in series with the first.",
+        "D. Start a second identical positive displacement pump in parallel with the first."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1548,
+      "page": 408,
+      "stem": "A section of pipe is being hydrostatically tested to 1,400 psig using a positive displacement pump.\nThe operating characteristics of the positive displacement pump are shown in the drawing below.\nWhich one of the following could cause the difference between the expected and the actual pump\nperformance?",
+      "choices": [
+        "A. Pump internal leakage is greater than expected.",
+        "B. Pipe section boundary valve leakage is greater than expected.",
+        "C. A relief valve on the pump discharge piping opened prior to its setpoint of 1,400 psig.",
+        "D. The available NPSH is smaller than expected, but remains above the required NPSH."
+      ],
+      "answer": "A",
+      "images": [
+        "img_p408_1.png"
+      ]
+    },
+    {
+      "qid": 1549,
+      "page": 409,
+      "stem": "Which one of the following conditions will result in the greatest increase in volumetric flow rate\nfrom a positive displacement pump operating at 300 rpm and a discharge pressure of 100 psig?",
+      "choices": [
+        "A. Increasing pump speed to 700 rpm.",
+        "B. Decreasing pump discharge pressure to 30 psig.",
+        "C. Starting a second identical positive displacement pump in series with the first.",
+        "D. Starting a second identical positive displacement pump in parallel with the first."
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1550,
+      "page": 409,
+      "stem": "An ideal (no slip) reciprocating positive displacement pump is operating in an open system to\nprovide makeup water to a coolant system that is being maintained at 800 psig. The pump\ndischarge valve is fully open.\nIf the pump discharge valve is subsequently throttled to 80 percent open, the pump flow rate will\n__________; and the pump head will __________.",
+      "choices": [
+        "A. decrease; increase",
+        "B. decrease; remain constant",
+        "C. remain constant; increase",
+        "D. remain constant; remain constant"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1551,
+      "page": 410,
+      "stem": "A pump is needed to supply fuel oil from a day tank to a diesel engine fuel injection system. The\npump must maintain a nearly constant flow rate with a minimum of discharge pressure fluctuations\nas system pressure varies between 200 psig and 1,900 psig.\nWhich one of the following types of pumps would be most suitable for this application?",
+      "choices": [
+        "A. Axial-flow centrifugal",
+        "B. Radial-flow centrifugal",
+        "C. Rotary positive displacement",
+        "D. Reciprocating positive displacement"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1552,
+      "page": 410,
+      "stem": "An ideal positive displacement pump is pumping to a system operating at 100 psig. Assume pump\nspeed is constant, zero pump slip, and pump backpressure remains within normal pump operating\nlimits.\nIf system pressure increases to 200 psig, the pump head will __________; and pump flow rate will\n__________.",
+      "choices": [
+        "A. increase; remain the same",
+        "B. increase; decrease",
+        "C. remain the same; remain the same",
+        "D. remain the same; decrease"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 1553,
+      "page": 411,
+      "stem": "Use the following drawing of system and pump operating curves for a positive displacement pump\nwith discharge relief valve protection to answer the following question.\nA positive displacement pump is initially supplying water at 40 gpm with a pump discharge pressure\nof 400 psia. If pump speed is increased until pump flow rate is 80 gpm, what is the new pump\ndischarge pressure?",
+      "choices": [
+        "A. 800 psia",
+        "B. 1,000 psia",
+        "C. 1,200 psia",
+        "D. 1,600 psia"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p411_1.png"
+      ]
+    },
+    {
+      "qid": 1554,
+      "page": 412,
+      "stem": "Use the following drawing of system and pump operating curves for an operating positive\ndisplacement pump with relief valve protection to answer the following question.\nA positive displacement pump is initially supplying water at 40 gpm with a pump discharge pressure\nof 200 psia. If pump speed is increased until pump flow rate is 80 gpm, what is the new pump\ndischarge pressure?",
+      "choices": [
+        "A. 400 psia",
+        "B. 800 psia",
+        "C. 1,000 psia",
+        "D. 1,600 psia"
+      ],
+      "answer": "B",
+      "images": [
+        "img_p412_1.png"
+      ]
+    },
+    {
+      "qid": 1555,
+      "page": 413,
+      "stem": "Refer to the drawing of operating curves for a positive displacement water pump in a closed system\n(see figure below).\nWhich one of the following describes the value of the head where the two curves cross?",
+      "choices": [
+        "A. The maximum amount of head that the pump can provide.",
+        "B. The amount of pump head that is required to avoid cavitation.",
+        "C. The amount of pump head that is converted to kinetic energy in the pump.",
+        "D. The amount of pump head that is converted to heat as the water circulates through the system."
+      ],
+      "answer": "D",
+      "images": [
+        "img_p413_1.png"
+      ]
+    },
+    {
+      "qid": 1556,
+      "page": 414,
+      "stem": "Refer to the drawing of operating curves for a positive displacement pump in a closed water system\n(see figure below).\nWhich one of the following describes the value of the pump head where the two curves cross?",
+      "choices": [
+        "A. The amount of pump head produced at zero flow rate.",
+        "B. The amount of pump head required to avoid cavitation.",
+        "C. The amount of pump head needed to maintain the system flow rate.",
+        "D. The amount of pump head converted to kinetic energy in the pump."
+      ],
+      "answer": "C",
+      "images": [
+        "img_p414_1.png"
+      ]
+    },
+    {
+      "qid": 1557,
+      "page": 415,
+      "stem": "When starting a positive displacement pump, why must the pump discharge valve be fully open?",
+      "choices": [
+        "A. Prevents pump cavitation.",
+        "B. Reduces motor starting current.",
+        "C. Minimizes the potential for water hammer.",
+        "D. Ensures integrity of the pump and system piping."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1558,
+      "page": 415,
+      "stem": "What is the purpose of the relief valve located between the pump outlet and the discharge isolation\nvalve of many positive displacement pumps?",
+      "choices": [
+        "A. Protect the pump and suction piping from overpressure if the discharge valve is open during",
+        "B. Protect the pump and suction piping from overpressure if the suction valve is closed during",
+        "C. Protect the pump and discharge piping from overpressure if the discharge valve is closed during",
+        "D. Protect the pump and discharge piping from overpressure due to thermal expansion of pump"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 1559,
+      "page": 416,
+      "stem": "A positive displacement pump should be started with its suction valve __________ and its discharge\nvalve __________.",
+      "choices": [
+        "A. throttled; throttled",
+        "B. throttled; fully open",
+        "C. fully open; throttled",
+        "D. fully open; fully open"
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 1560,
+      "page": 416,
+      "stem": "A positive displacement pump should be started with its suction valve __________ and its discharge\nvalve __________.",
+      "choices": [
+        "A. closed; closed",
+        "B. closed; open",
+        "C. open; closed",
+        "D. open; open"
+      ],
+      "answer": "D",
+      "images": []
+    }
+  ]
+}

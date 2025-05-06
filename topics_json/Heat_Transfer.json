@@ -1,0 +1,161 @@
+{
+  "topic": "Heat Transfer",
+  "questions": [
+    {
+      "qid": 2263,
+      "page": 893,
+      "stem": "The transfer of heat from the reactor fuel pellets to the fuel cladding during normal plant operation is\nprimarily accomplished via __________ heat transfer.",
+      "choices": [
+        "A. conduction",
+        "B. convection",
+        "C. radiant",
+        "D. two-phase"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2264,
+      "page": 894,
+      "stem": "During a loss-of-coolant accident, which one of the following heat transfer methods provides the\nmost core cooling when fuel rods are not in contact with the coolant?",
+      "choices": [
+        "A. Radiation",
+        "B. Emission",
+        "C. Convection",
+        "D. Conduction"
+      ],
+      "answer": "A",
+      "images": []
+    },
+    {
+      "qid": 2265,
+      "page": 894,
+      "stem": "Reactor fuel rods are normally charged with __________ gas; which improves heat transfer by\n__________.",
+      "choices": [
+        "A. helium; convection",
+        "B. helium; conduction",
+        "C. nitrogen; convection",
+        "D. nitrogen; conduction"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2266,
+      "page": 895,
+      "stem": "If excessive amounts of air are entrained/dissolved in the cooling water passing through a heat\nexchanger, the overall heat transfer coefficient of the heat exchanger will decrease because the...",
+      "choices": [
+        "A. laminar layer thickness will decrease.",
+        "B. laminar layer thickness will increase.",
+        "C. thermal conductivity of the cooling fluid will decrease.",
+        "D. thermal conductivity of the cooling fluid will increase."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2267,
+      "page": 895,
+      "stem": "Why is bulk boiling in the tubes of a single-phase heat exchanger undesirable?",
+      "choices": [
+        "A. The bubble formation will break up the laminar layer in the heat exchanger tubes.",
+        "B. The thermal conductivity of the heat exchanger tubes will decrease.",
+        "C. The differential temperature across the tubes will decrease through the heat exchanger.",
+        "D. The turbulence will restrict fluid flow through the heat exchanger tubes."
+      ],
+      "answer": "D",
+      "images": []
+    },
+    {
+      "qid": 2268,
+      "page": 896,
+      "stem": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the greatest heat exchanger overall heat transfer coefficient?",
+      "choices": [
+        "A. Oil to water.",
+        "B. Air to water.",
+        "C. Steam to water.",
+        "D. Water to water."
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2269,
+      "page": 896,
+      "stem": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the smallest heat exchanger overall heat transfer coefficient?",
+      "choices": [
+        "A. Oil to water.",
+        "B. Air to water.",
+        "C. Steam to water.",
+        "D. Water to water."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2270,
+      "page": 897,
+      "stem": "Which one of the following pairs of fluids undergoing heat transfer in identical heat exchangers will\nyield the greatest heat exchanger overall heat transfer coefficient?",
+      "choices": [
+        "A. Oil to water.",
+        "B. Steam to water.",
+        "C. Air to water.",
+        "D. Water to water."
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2271,
+      "page": 897,
+      "stem": "A reactor is currently producing 200 MW of core thermal power. Reactor coolant pumps are adding\nan additional 10 MW of thermal power to the reactor coolant system. The core is rated at 1,330\nMW.\nWhich one of the following is the current core thermal power output in percent?",
+      "choices": [
+        "A. 14.0 percent",
+        "B. 14.3 percent",
+        "C. 15.0 percent",
+        "D. 15.8 percent"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2272,
+      "page": 898,
+      "stem": "A reactor is operating with the following parameters:\nReactor power = 100 percent\nCore ΔT = 42°F\nReactor coolant system flow rate = 100 percent\nAverage reactor coolant temperature = 587°F\nA station blackout occurs and natural circulation is established with the following stable parameters:\nDecay heat rate = 2 percent\nCore ΔT = 28°F\nAverage reactor coolant temperature = 572°F\nWhat is the core mass flow rate in percent?",
+      "choices": [
+        "A. 2.0 percent",
+        "B. 2.5 percent",
+        "C. 3.0 percent",
+        "D. 4.0 percent"
+      ],
+      "answer": "C",
+      "images": []
+    },
+    {
+      "qid": 2273,
+      "page": 898,
+      "stem": "A nuclear power plant is initially operating at 80 percent power with a core ΔT of 48°F when a\nstation blackout occurs. Natural circulation is established and core ΔT stabilizes at 40°F. If reactor\ncoolant mass flow rate is 3 percent, which one of the following is the current core decay heat level?",
+      "choices": [
+        "A. 1 percent",
+        "B. 2 percent",
+        "C. 3 percent",
+        "D. 4 percent"
+      ],
+      "answer": "B",
+      "images": []
+    },
+    {
+      "qid": 2274,
+      "page": 899,
+      "stem": "A nuclear power plant is operating with the following parameters:\nReactor power = 100 percent\nCore ΔT = 60°F\nReactor coolant system flow rate = 100 percent\nAverage coolant temperature = 587°F\nA station blackout occurs and natural circulation is established with the following stable parameters:\nDecay heat = 1 percent\nCore ΔT = 30°F\nAverage coolant temperature = 572°F\nWhat is the core mass flow rate in percent?",
+      "choices": [
+        "A. 2.0 percent",
+        "B. 2.5 percent",
+        "C. 3.0 percent",
+        "D. 4.0 percent"
+      ],
+      "answer": "A",
+      "images": []
+    }
+  ]
+}
